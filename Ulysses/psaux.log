@@ -1,0 +1,42 @@
+Pid    Uid    Gid    Arguments                                                       
+1      0      0      init [2]                                                        
+2      0      0      [kthreadd]                                                      
+3      0      0      [migration/0]                                                   
+4      0      0      [ksoftirqd/0]                                                   
+5      0      0      [watchdog/0]                                                    
+6      0      0      [events/0]                                                      
+7      0      0      [khelper]                                                       
+39     0      0      [kblockd/0]                                                     
+41     0      0      [kacpid]                                                        
+42     0      0      [kacpi_notify]                                                  
+86     0      0      [kseriod]                                                       
+123    0      0      [pdflush]                                                       
+124    0      0      [pdflush]                                                       
+125    0      0      [kswapd0]                                                       
+126    0      0      [aio/0]                                                         
+581    0      0      [ksuspend_usbd]                                                 
+582    0      0      [khubd]                                                         
+594    0      0      [ata/0]                                                         
+595    0      0      [ata_aux]                                                       
+634    0      0      [scsi_eh_0]                                                     
+700    0      0      [kjournald]                                                     
+776    0      0      udevd --daemon                                                  
+1110   0      0      [kpsmoused]                                                     
+1429   1      1      /sbin/portmap                                                   
+1441   102    0      /sbin/rpc.statd                                                 
+1624   0      0      dhclient3 -pf /var/run/dhclient.eth0.pid -lf /var/lib/dhcp3/dhclient.eth0.leases eth0
+1661   0      0      /usr/sbin/rsyslogd -c3                                          
+1672   0      0      /usr/sbin/acpid                                                 
+1687   0      0      /usr/sbin/sshd                                                  
+1942   101    103    /usr/sbin/exim4 -bd -q30m                                       
+1973   0      0      /usr/sbin/cron                                                  
+1990   0      0      /bin/login --                                                   
+1992   0      0      /sbin/getty 38400 tty2                                          
+1994   0      0      /sbin/getty 38400 tty3                                          
+1996   0      0      /sbin/getty 38400 tty4                                          
+1998   0      0      /sbin/getty 38400 tty5                                          
+2000   0      0      /sbin/getty 38400 tty6                                          
+2042   0      0      -bash                                                           
+2065   0      0      sh                                                              
+2168   0      0      memdump                                                         
+2169   0      0      nc 192.168.56.1 8888                                            
