@@ -1,0 +1,48 @@
+﻿Created By AccessData® FTK® Imager 4.2.1.4 
+
+Case Information: 
+Acquired using: ADI4.2.1.4
+Case Number: 20200918-001
+Evidence Number: DESKTOP-SDN1RPT
+Unique description: DESKTOP-SDN1RPT
+Examiner: DFIRMADNESS
+Notes: dfirmadness.com
+
+--------------------------------------------------------------
+
+Information for E:\DESKTOP-SDN1RPT\E01\20200918_0417_DESKTOP-SDN1RPT:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 1,958
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 31,457,280
+[Physical Drive Information]
+ Drive Model: VMware Virtual NVMe Disk
+ Drive Serial Number: VMWare NVME_0000
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 15360 MB
+ Sector count:    31457280
+[Computed Hashes]
+ MD5 checksum:    bcd3aef20406df00585341f0c743a1ce
+ SHA1 checksum:   2f9232ff6537f6d4fb26cb397e4becb5d5cd5896
+
+Image Information:
+ Acquisition started:   Fri Sep 18 22:18:11 2020
+ Acquisition finished:  Fri Sep 18 22:25:50 2020
+ Segment list:
+  E:\DESKTOP-SDN1RPT\E01\20200918_0417_DESKTOP-SDN1RPT.E01
+  E:\DESKTOP-SDN1RPT\E01\20200918_0417_DESKTOP-SDN1RPT.E02
+  E:\DESKTOP-SDN1RPT\E01\20200918_0417_DESKTOP-SDN1RPT.E03
+  E:\DESKTOP-SDN1RPT\E01\20200918_0417_DESKTOP-SDN1RPT.E04
+
+Image Verification Results:
+ Verification started:  Fri Sep 18 22:25:50 2020
+ Verification finished: Fri Sep 18 22:29:37 2020
+ MD5 checksum:    bcd3aef20406df00585341f0c743a1ce : verified
+ SHA1 checksum:   2f9232ff6537f6d4fb26cb397e4becb5d5cd5896 : verified

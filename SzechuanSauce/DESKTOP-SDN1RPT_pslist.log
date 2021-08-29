@@ -1,0 +1,86 @@
+Offset(V)          Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Start                          Exit                          
+------------------ -------------------- ------ ------ ------ -------- ------ ------ ------------------------------ ------------------------------
+0xffffbe8e71087040 System                    4      0    151        0 ------      0 2020-09-19 01:24:07 UTC+0000                                 
+0xffffbe8e710a6080 Registry                 92      4      4        0 ------      0 2020-09-19 01:24:04 UTC+0000                                 
+0xffffbe8e71d6d040 smss.exe                312      4      2        0 ------      0 2020-09-19 01:24:07 UTC+0000                                 
+0xffffbe8e74467140 csrss.exe               424    416     10        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e74519080 wininit.exe             500    416      1        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e74575080 services.exe            616    500      7        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e74fab080 lsass.exe               656    500     11        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e7560d240 svchost.exe             764    616     28        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e75611180 fontdrvhost.ex          784    500      5        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e75648240 svchost.exe             884    616     17        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e75739240 svchost.exe             448    616     63        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e7573e2c0 svchost.exe             520    616     32        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e757762c0 svchost.exe             904    616     15        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e75778080 svchost.exe             968    616     23        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e7577a300 svchost.exe             988    616     18        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e757b22c0 svchost.exe            1096    616     19        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e757e42c0 svchost.exe            1136    616      4        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e75808240 svchost.exe            1148    616     17        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e758bd300 svchost.exe            1408    616     14        0      0      0 2020-09-19 01:24:08 UTC+0000                                 
+0xffffbe8e75998240 svchost.exe            1576    616     14        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e7112d040 MemCompression         1816      4     54        0 ------      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75a54300 svchost.exe            1896    616     12        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e710d6080 svchost.exe            2040    616      3        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75aea2c0 svchost.exe            1032    616     10        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75aef300 svchost.exe            1192    616      6        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75bbc2c0 svchost.exe            2060    616      6        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75c2c200 spoolsv.exe            2188    616     10        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75c43240 svchost.exe            2248    616      9        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e74364280 vmtoolsd.exe           2364    616      9        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75cdd300 VGAuthService.         2372    616      2        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75cde080 wlms.exe               2396    616      2        0 ------      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e75ce0080 MsMpEng.exe            2404    616      9        0      0      0 2020-09-19 01:24:09 UTC+0000                                 
+0xffffbe8e7600a280 dllhost.exe            2952    616     10        0      0      0 2020-09-19 01:24:11 UTC+0000                                 
+0xffffbe8e75d97280 WmiPrvSE.exe           2548    764     11        0      0      0 2020-09-19 01:24:11 UTC+0000                                 
+0xffffbe8e763282c0 msdtc.exe              3520    616      9        0 ------      0 2020-09-19 01:24:13 UTC+0000                                 
+0xffffbe8e760b7080 svchost.exe            2684    616      7        0      0      0 2020-09-19 01:24:30 UTC+0000                                 
+0xffffbe8e7654b080 SgrmBroker.exe         2748    616      7        0      0      0 2020-09-19 01:26:10 UTC+0000                                 
+0xffffbe8e7654f240 svchost.exe            2208    616      1        0      0      0 2020-09-19 01:26:11 UTC+0000                                 
+0xffffbe8e76485300 svchost.exe            2216    616     11        0      0      0 2020-09-19 01:26:11 UTC+0000                                 
+0xffffbe8e762f3240 SearchIndexer.         3708    616     19        0      0      0 2020-09-19 01:26:11 UTC+0000                                 
+0xffffbe8e711952c0 svchost.exe            1608    616      3        0      0      0 2020-09-19 01:28:10 UTC+0000                                 
+0xffffbe8e77ee2080 svchost.exe            4092    616      4        0      0      0 2020-09-19 01:31:39 UTC+0000                                 
+0xffffbe8e770f0080 MicrosoftEdge.         4592    764      0 --------      1      0 2020-09-19 03:16:05 UTC+0000   2020-09-19 03:17:00 UTC+0000  
+0xffffbe8e79004280 SecurityHealth         5664    616     14        0      0      0 2020-09-19 03:16:17 UTC+0000                                 
+0xffffbe8e779b9080 csrss.exe              6384   4084     11        0      2      0 2020-09-19 03:17:00 UTC+0000                                 
+0xffffbe8e773ef080 winlogon.exe           6456   4084      5        0      2      0 2020-09-19 03:17:00 UTC+0000                                 
+0xffffbe8e78cab080 dwm.exe                1768   6456     15        0      2      0 2020-09-19 03:17:01 UTC+0000                                 
+0xffffbe8e75cb4080 fontdrvhost.ex         4808   6456      5        0      2      0 2020-09-19 03:17:01 UTC+0000                                 
+0xffffbe8e790c2080 MicrosoftEdge.          860    764      0 --------      3      0 2020-09-19 03:36:40 UTC+0000   2020-09-19 03:44:52 UTC+0000  
+0xffffbe8e7a447080 coreupdater.ex         8324   4008      0 --------      3      0 2020-09-19 03:40:49 UTC+0000   2020-09-19 03:43:10 UTC+0000  
+0xffffbe8e7767d080 sihost.exe             3232    448     20        0      2      0 2020-09-19 05:08:15 UTC+0000                                 
+0xffffbe8e778ef080 svchost.exe            1172    616     16        0      2      0 2020-09-19 05:08:15 UTC+0000                                 
+0xffffbe8e790d7080 taskhostw.exe          6756    448     11        0      2      0 2020-09-19 05:08:16 UTC+0000                                 
+0xffffbe8e79130080 userinit.exe           5204   6456      0 --------      2      0 2020-09-19 05:08:16 UTC+0000   2020-09-19 05:08:42 UTC+0000  
+0xffffbe8e764d7080 explorer.exe           5896   5204     75        0      2      0 2020-09-19 05:08:16 UTC+0000                                 
+0xffffbe8e7607f080                        4096 10...0   4096 -------- ------      0                                                              
+0xffffbe8e789d0080 svchost.exe            4312    616     33        0      0      0 2020-09-19 05:08:16 UTC+0000                                 
+0xffffbe8e757e2080 dllhost.exe            2904    764      8        0      2      0 2020-09-19 05:08:18 UTC+0000                                 
+0xffffbe8e791ef080 svchost.exe            3388    616      6        0      2      0 2020-09-19 05:08:19 UTC+0000                                 
+0xffffbe8e76099080 dllhost.exe            4596    764      6        0      2      0 2020-09-19 05:08:20 UTC+0000                                 
+0xffffbe8e78cbd080 StartMenuExper         2084    764      8        0      2      0 2020-09-19 05:08:20 UTC+0000                                 
+0xffffbe8e7930b340 RuntimeBroker.         4724    764     12        0      2      0 2020-09-19 05:08:20 UTC+0000                                 
+0xffffbe8e77355340 SearchApp.exe          4608    764     42        0      2      0 2020-09-19 05:08:21 UTC+0000                                 
+0xffffbe8e79e89340 RuntimeBroker.         8128    764     16        0      2      0 2020-09-19 05:08:21 UTC+0000                                 
+0xffffbe8e77969340 ApplicationFra         5324    764     10        0      2      0 2020-09-19 05:08:21 UTC+0000                                 
+0xffffbe8e75cb3340 MicrosoftEdge.         4948    764     33        0      2      0 2020-09-19 05:08:21 UTC+0000                                 
+0xffffbe8e7950b340 browser_broker         7172    764      4        0      2      0 2020-09-19 05:08:21 UTC+0000                                 
+0xffffbe8e74fac080 RuntimeBroker.         7508    764      4        0      2      0 2020-09-19 05:08:22 UTC+0000                                 
+0xffffbe8e776db080 MicrosoftEdgeC         5392    764     15        0      2      0 2020-09-19 05:08:22 UTC+0000                                 
+0xffffbe8e78a7d080 MicrosoftEdgeS         4272   7508      9        0      2      0 2020-09-19 05:08:22 UTC+0000                                 
+0xffffbe8e7712b080 ctfmon.exe             3344   1148     10        0      2      0 2020-09-19 05:08:23 UTC+0000                                 
+0xffffbe8e760750c0 TextInputHost.         8736    764     11        0      2      0 2020-09-19 05:08:24 UTC+0000                                 
+0xffffbe8e78e962c0 RuntimeBroker.         8152    764      4        0      2      0 2020-09-19 05:08:25 UTC+0000                                 
+0xffffbe8e789c7080 smartscreen.ex         5256    764      8        0      2      0 2020-09-19 05:08:33 UTC+0000                                 
+0xffffbe8e7642a080 SecurityHealth          356   5896      7        0      2      0 2020-09-19 05:08:33 UTC+0000                                 
+0xffffbe8e75884080 vm3dservice.ex         6304   5896      1        0      2      0 2020-09-19 05:08:34 UTC+0000                                 
+0xffffbe8e78f94080 vmtoolsd.exe           7252   5896      6        0      2      0 2020-09-19 05:08:34 UTC+0000                                 
+0xffffbe8e75a2a080 powershell.exe          508   1380      0 --------      2      0 2020-09-19 05:08:37 UTC+0000   2020-09-19 05:08:43 UTC+0000  
+0xffffbe8e760f6080 OneDrive.exe           8904   5896     25        0      2      1 2020-09-19 05:08:37 UTC+0000                                 
+0xffffbe8e790d1080 SystemSettings         7992    764     17        0      2      0 2020-09-19 05:08:38 UTC+0000                                 
+0xffffbe8e78dd1200 powershell.exe         3316    508     11        0      2      0 2020-09-19 05:08:43 UTC+0000                                 
+0xffffbe8e789ec080 conhost.exe             728   3316      2        0      2      0 2020-09-19 05:08:43 UTC+0000                                 
+0xffffbe8e78cec080 RuntimeBroker.         5408    764      0 -------- ------      0 2020-09-19 05:08:51 UTC+0000   2020-09-19 05:10:51 UTC+0000  
+0xffffbe8e78a40080                        4096 20...2   4096 -------- ------      0                                                              

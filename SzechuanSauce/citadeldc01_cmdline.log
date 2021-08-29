@@ -1,0 +1,118 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    204
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    324
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    404
+Command line : wininit.exe
+************************************************************************
+csrss.exe pid:    412
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+services.exe pid:    452
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    460
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+winlogon.exe pid:    492
+Command line : winlogon.exe
+************************************************************************
+svchost.exe pid:    640
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+svchost.exe pid:    684
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+svchost.exe pid:    800
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+dwm.exe pid:    808
+Command line : "dwm.exe"
+************************************************************************
+svchost.exe pid:    848
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+svchost.exe pid:    928
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1000
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+svchost.exe pid:    668
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+Microsoft.Acti pid:   1292
+Command line : C:\Windows\ADWS\Microsoft.ActiveDirectory.WebServices.exe
+************************************************************************
+dfsrs.exe pid:   1332
+Command line : C:\Windows\system32\DFSRs.exe
+************************************************************************
+dns.exe pid:   1368
+Command line : C:\Windows\system32\dns.exe
+************************************************************************
+ismserv.exe pid:   1392
+Command line : C:\Windows\System32\ismserv.exe
+************************************************************************
+VGAuthService. pid:   1556
+Command line : "C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe"
+************************************************************************
+vmtoolsd.exe pid:   1600
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+************************************************************************
+wlms.exe pid:   1644
+Command line : C:\Windows\system32\wlms\wlms.exe
+************************************************************************
+dfssvc.exe pid:   1660
+Command line : C:\Windows\system32\dfssvc.exe
+************************************************************************
+svchost.exe pid:   1956
+Command line : C:\Windows\System32\svchost.exe -k termsvcs
+************************************************************************
+vds.exe pid:    796
+Command line : C:\Windows\System32\vds.exe
+************************************************************************
+svchost.exe pid:   1236
+Command line : C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+WmiPrvSE.exe pid:   2056
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+dllhost.exe pid:   2216
+Command line : C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+************************************************************************
+msdtc.exe pid:   2460
+Command line : C:\Windows\System32\msdtc.exe
+************************************************************************
+spoolsv.exe pid:   3724
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+coreupdater.ex pid:   3644
+************************************************************************
+taskhostex.exe pid:   3796
+Command line : taskhostex.exe 
+************************************************************************
+explorer.exe pid:   3472
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+ServerManager. pid:    400
+Command line : 
+************************************************************************
+vm3dservice.ex pid:   3260
+Command line : "C:\Windows\System32\vm3dservice.exe" -u
+************************************************************************
+vmtoolsd.exe pid:   2608
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+FTK Imager.exe pid:   2840
+Command line : "E:\FTK Imager\FTK Imager.exe" 
+************************************************************************
+WMIADAP.exe pid:   3056
+Command line : wmiadap.exe /R /T
+************************************************************************
+WmiPrvSE.exe pid:   2764
+Command line : C:\Windows\system32\wbem\wmiprvse.exe

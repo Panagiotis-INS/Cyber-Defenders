@@ -1,0 +1,13 @@
+          Suggested Profile(s) : Win10x64_19041
+                     AS Layer1 : SkipDuplicatesAMD64PagedMemory (Kernel AS)
+                     AS Layer2 : FileAddressSpace (/home/neuro/challenges/Cyber_Defenders/Way_up_there/c15-SzechuanSauce/DESKTOP-SDN1RPT.mem)
+                      PAE type : No PAE
+                           DTB : 0x1ad002L
+                          KDBG : 0xf80163614b20L
+          Number of Processors : 2
+     Image Type (Service Pack) : 0
+                KPCR for CPU 0 : 0xfffff801617f9000L
+                KPCR for CPU 1 : 0xffffa481957c0000L
+             KUSER_SHARED_DATA : 0xfffff78000000000L
+           Image date and time : 2020-09-19 05:10:39 UTC+0000
+     Image local date and time : 2020-09-18 22:10:39 -0700

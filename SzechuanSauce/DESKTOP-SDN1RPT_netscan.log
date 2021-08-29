@@ -1,0 +1,58 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0xbe8e71cc0be0     TCPv4    0.0.0.0:3389                   0.0.0.0:0            LISTENING        520      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf52f0     TCPv4    0.0.0.0:49666                  0.0.0.0:0            LISTENING        988      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf52f0     TCPv6    :::49666                       :::0                 LISTENING        988      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf5440     TCPv4    0.0.0.0:3389                   0.0.0.0:0            LISTENING        520      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf5440     TCPv6    :::3389                        :::0                 LISTENING        520      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf5980     TCPv4    0.0.0.0:49665                  0.0.0.0:0            LISTENING        500      wininit.exe    2020-09-19 01:24:08 UTC+0000
+0xbe8e71cf5c20     TCPv4    0.0.0.0:49667                  0.0.0.0:0            LISTENING        448      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf5d70     TCPv4    0.0.0.0:49664                  0.0.0.0:0            LISTENING        656      lsass.exe      2020-09-19 01:24:08 UTC+0000
+0xbe8e71cf5d70     TCPv6    :::49664                       :::0                 LISTENING        656      lsass.exe      2020-09-19 01:24:08 UTC+0000
+0xbe8e71cf6010     TCPv4    0.0.0.0:49667                  0.0.0.0:0            LISTENING        448      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf6010     TCPv6    :::49667                       :::0                 LISTENING        448      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf6400     TCPv4    0.0.0.0:49664                  0.0.0.0:0            LISTENING        656      lsass.exe      2020-09-19 01:24:08 UTC+0000
+0xbe8e71cf6550     TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        884      svchost.exe    2020-09-19 01:24:08 UTC+0000
+0xbe8e71cf66a0     TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        884      svchost.exe    2020-09-19 01:24:08 UTC+0000
+0xbe8e71cf66a0     TCPv6    :::135                         :::0                 LISTENING        884      svchost.exe    2020-09-19 01:24:08 UTC+0000
+0xbe8e71cf6940     TCPv4    0.0.0.0:49666                  0.0.0.0:0            LISTENING        988      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e71cf6e80     TCPv4    0.0.0.0:49665                  0.0.0.0:0            LISTENING        500      wininit.exe    2020-09-19 01:24:08 UTC+0000
+0xbe8e71cf6e80     TCPv6    :::49665                       :::0                 LISTENING        500      wininit.exe    2020-09-19 01:24:08 UTC+0000
+0xbe8e74380ec0     TCPv4    0.0.0.0:49670                  0.0.0.0:0            LISTENING        616      services.exe   2020-09-19 01:24:10 UTC+0000
+0xbe8e74380ec0     TCPv6    :::49670                       :::0                 LISTENING        616      services.exe   2020-09-19 01:24:10 UTC+0000
+0xbe8e74381160     TCPv4    0.0.0.0:49670                  0.0.0.0:0            LISTENING        616      services.exe   2020-09-19 01:24:10 UTC+0000
+0xbe8e758b36a0     UDPv4    0.0.0.0:0                      *:*                                   520      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e758b5450     UDPv4    0.0.0.0:0                      *:*                                   520      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e758b5450     UDPv6    :::0                           *:*                                   520      svchost.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e759a01a0     TCPv4    0.0.0.0:49669                  0.0.0.0:0            LISTENING        2188     spoolsv.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e759a01a0     TCPv6    :::49669                       :::0                 LISTENING        2188     spoolsv.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e759a1940     TCPv4    0.0.0.0:49668                  0.0.0.0:0            LISTENING        656      lsass.exe      2020-09-19 01:24:09 UTC+0000
+0xbe8e759a1d30     TCPv4    0.0.0.0:49669                  0.0.0.0:0            LISTENING        2188     spoolsv.exe    2020-09-19 01:24:09 UTC+0000
+0xbe8e75b60940     UDPv4    0.0.0.0:0                      *:*                                   656      lsass.exe      2020-09-19 01:24:09 UTC+0000
+0xbe8e75b61430     UDPv4    0.0.0.0:0                      *:*                                   656      lsass.exe      2020-09-19 01:24:09 UTC+0000
+0xbe8e75b61430     UDPv6    :::0                           *:*                                   656      lsass.exe      2020-09-19 01:24:09 UTC+0000
+0xbe8e75eded60     UDPv4    0.0.0.0:0                      *:*                                   2684     svchost.exe    2020-09-19 03:13:23 UTC+0000
+0xbe8e75eded60     UDPv6    :::0                           *:*                                   2684     svchost.exe    2020-09-19 03:13:23 UTC+0000
+0xbe8e75edf3a0     UDPv4    0.0.0.0:0                      *:*                                   2684     svchost.exe    2020-09-19 03:13:23 UTC+0000
+0xbe8e75edf3a0     UDPv6    :::0                           *:*                                   2684     svchost.exe    2020-09-19 03:13:23 UTC+0000
+0xbe8e75edfb70     UDPv4    0.0.0.0:0                      *:*                                   2684     svchost.exe    2020-09-19 03:13:23 UTC+0000
+0xbe8e76010960     TCPv4    10.42.85.115:50965             23.57.32.143:443     ESTABLISHED      -1                      
+0xbe8e76048ad0     UDPv4    0.0.0.0:0                      *:*                                   656      lsass.exe      2020-09-19 01:24:11 UTC+0000
+0xbe8e76048ad0     UDPv6    :::0                           *:*                                   656      lsass.exe      2020-09-19 01:24:11 UTC+0000
+0xbe8e760495c0     UDPv4    0.0.0.0:0                      *:*                                   1096     svchost.exe    2020-09-19 01:24:11 UTC+0000
+0xbe8e7604f1f0     UDPv4    0.0.0.0:0                      *:*                                   448      svchost.exe    2020-09-19 01:24:12 UTC+0000
+0xbe8e76385e40     UDPv4    0.0.0.0:0                      *:*                                   968      svchost.exe    2020-09-19 01:26:10 UTC+0000
+0xbe8e765d1e40     UDPv4    0.0.0.0:0                      *:*                                   1096     svchost.exe    2020-09-19 05:09:15 UTC+0000
+0xbe8e765d1e40     UDPv6    :::0                           *:*                                   1096     svchost.exe    2020-09-19 05:09:15 UTC+0000
+0xbe8e7698ebf0     TCPv4    10.42.85.115:139               0.0.0.0:0            LISTENING        4        System         2020-09-19 03:13:24 UTC+0000
+0xbe8e76b3b840     TCPv4    0.0.0.0:5040                   0.0.0.0:0            LISTENING        968      svchost.exe    2020-09-19 03:13:21 UTC+0000
+0xbe8e7725e6f0     UDPv4    0.0.0.0:0                      *:*                                   2684     svchost.exe    2020-09-19 03:13:22 UTC+0000
+0xbe8e7725e6f0     UDPv6    :::0                           *:*                                   2684     svchost.exe    2020-09-19 03:13:22 UTC+0000
+0xbe8e77261da0     UDPv4    0.0.0.0:0                      *:*                                   2684     svchost.exe    2020-09-19 03:13:22 UTC+0000
+0xbe8e77261da0     UDPv6    :::0                           *:*                                   2684     svchost.exe    2020-09-19 03:13:22 UTC+0000
+0xbe8e77263ce0     UDPv4    0.0.0.0:0                      *:*                                   2684     svchost.exe    2020-09-19 03:13:22 UTC+0000
+0xbe8e77650390     TCPv4    10.42.85.115:50988             13.107.42.254:443    ESTABLISHED      -1                      
+0xbe8e781539c0     UDPv4    0.0.0.0:0                      *:*                                   1136     svchost.exe    2020-09-19 03:13:28 UTC+0000
+0xbe8e78ee6ac0     TCPv4    10.42.85.115:50982             13.107.246.254:443   CLOSED           -1                      
+0xbe8e79dae010     TCPv4    10.42.85.115:51000             23.47.52.90:443      CLOSED           -1                      
+0xbe8e79ec1220     TCPv4    10.42.85.115:50991             52.167.250.154:443   CLOSED           -1                      
+0xbe8e79f80010     TCPv4    10.42.85.115:50972             203.78.103.109:443   ESTABLISHED      -1                      

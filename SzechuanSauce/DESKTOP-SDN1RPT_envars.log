@@ -1,0 +1,724 @@
+Pid      Process              Block              Variable                       Value
+-------- -------------------- ------------------ ------------------------------ -----
+     424 csrss.exe            0x000002cdc40027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     424 csrss.exe            0x000002cdc40027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     424 csrss.exe            0x000002cdc40027f0 NUMBER_OF_PROCESSORS           2
+     424 csrss.exe            0x000002cdc40027f0 OS                             Windows_NT
+     424 csrss.exe            0x000002cdc40027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+     424 csrss.exe            0x000002cdc40027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     424 csrss.exe            0x000002cdc40027f0 PROCESSOR_ARCHITECTURE         AMD64
+     424 csrss.exe            0x000002cdc40027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     424 csrss.exe            0x000002cdc40027f0 PROCESSOR_LEVEL                6
+     424 csrss.exe            0x000002cdc40027f0 PROCESSOR_REVISION             9e0a
+     424 csrss.exe            0x000002cdc40027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     424 csrss.exe            0x000002cdc40027f0 SystemDrive                    C:
+     424 csrss.exe            0x000002cdc40027f0 SystemRoot                     C:\Windows
+     424 csrss.exe            0x000002cdc40027f0 TEMP                           C:\Windows\TEMP
+     424 csrss.exe            0x000002cdc40027f0 TMP                            C:\Windows\TEMP
+     424 csrss.exe            0x000002cdc40027f0 USERNAME                       SYSTEM
+     424 csrss.exe            0x000002cdc40027f0 windir                         C:\Windows
+     616 services.exe         0x00000146a4e027f0 ALLUSERSPROFILE                C:\ProgramData
+     616 services.exe         0x00000146a4e027f0 CommonProgramFiles             C:\Program Files\Common Files
+     616 services.exe         0x00000146a4e027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     616 services.exe         0x00000146a4e027f0 CommonProgramW6432             C:\Program Files\Common Files
+     616 services.exe         0x00000146a4e027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     616 services.exe         0x00000146a4e027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     616 services.exe         0x00000146a4e027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     616 services.exe         0x00000146a4e027f0 NUMBER_OF_PROCESSORS           2
+     616 services.exe         0x00000146a4e027f0 OS                             Windows_NT
+     616 services.exe         0x00000146a4e027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+     616 services.exe         0x00000146a4e027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     616 services.exe         0x00000146a4e027f0 PROCESSOR_ARCHITECTURE         AMD64
+     616 services.exe         0x00000146a4e027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     616 services.exe         0x00000146a4e027f0 PROCESSOR_LEVEL                6
+     616 services.exe         0x00000146a4e027f0 PROCESSOR_REVISION             9e0a
+     616 services.exe         0x00000146a4e027f0 ProgramData                    C:\ProgramData
+     616 services.exe         0x00000146a4e027f0 ProgramFiles                   C:\Program Files
+     616 services.exe         0x00000146a4e027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     616 services.exe         0x00000146a4e027f0 ProgramW6432                   C:\Program Files
+     616 services.exe         0x00000146a4e027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     616 services.exe         0x00000146a4e027f0 PUBLIC                         C:\Users\Public
+     616 services.exe         0x00000146a4e027f0 SystemDrive                    C:
+     616 services.exe         0x00000146a4e027f0 SystemRoot                     C:\Windows
+     616 services.exe         0x00000146a4e027f0 TEMP                           C:\Windows\TEMP
+     616 services.exe         0x00000146a4e027f0 TMP                            C:\Windows\TEMP
+     616 services.exe         0x00000146a4e027f0 USERNAME                       SYSTEM
+     616 services.exe         0x00000146a4e027f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     616 services.exe         0x00000146a4e027f0 windir                         C:\Windows
+     656 lsass.exe            0x000001c39e8027f0 ALLUSERSPROFILE                C:\ProgramData
+     656 lsass.exe            0x000001c39e8027f0 CommonProgramFiles             C:\Program Files\Common Files
+     656 lsass.exe            0x000001c39e8027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     656 lsass.exe            0x000001c39e8027f0 CommonProgramW6432             C:\Program Files\Common Files
+     656 lsass.exe            0x000001c39e8027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     656 lsass.exe            0x000001c39e8027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     656 lsass.exe            0x000001c39e8027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     656 lsass.exe            0x000001c39e8027f0 NUMBER_OF_PROCESSORS           2
+     656 lsass.exe            0x000001c39e8027f0 OS                             Windows_NT
+     656 lsass.exe            0x000001c39e8027f0 Path                           C:\Windows\System32
+     656 lsass.exe            0x000001c39e8027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     656 lsass.exe            0x000001c39e8027f0 PROCESSOR_ARCHITECTURE         AMD64
+     656 lsass.exe            0x000001c39e8027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     656 lsass.exe            0x000001c39e8027f0 PROCESSOR_LEVEL                6
+     656 lsass.exe            0x000001c39e8027f0 PROCESSOR_REVISION             9e0a
+     656 lsass.exe            0x000001c39e8027f0 ProgramData                    C:\ProgramData
+     656 lsass.exe            0x000001c39e8027f0 ProgramFiles                   C:\Program Files
+     656 lsass.exe            0x000001c39e8027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     656 lsass.exe            0x000001c39e8027f0 ProgramW6432                   C:\Program Files
+     656 lsass.exe            0x000001c39e8027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     656 lsass.exe            0x000001c39e8027f0 PUBLIC                         C:\Users\Public
+     656 lsass.exe            0x000001c39e8027f0 SystemDrive                    C:
+     656 lsass.exe            0x000001c39e8027f0 SystemRoot                     C:\Windows
+     656 lsass.exe            0x000001c39e8027f0 TEMP                           C:\Windows\TEMP
+     656 lsass.exe            0x000001c39e8027f0 TMP                            C:\Windows\TEMP
+     656 lsass.exe            0x000001c39e8027f0 USERNAME                       SYSTEM
+     656 lsass.exe            0x000001c39e8027f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     656 lsass.exe            0x000001c39e8027f0 windir                         C:\Windows
+     764 svchost.exe          0x0000025180c027f0 ALLUSERSPROFILE                C:\ProgramData
+     764 svchost.exe          0x0000025180c027f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     764 svchost.exe          0x0000025180c027f0 CommonProgramFiles             C:\Program Files\Common Files
+     764 svchost.exe          0x0000025180c027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     764 svchost.exe          0x0000025180c027f0 CommonProgramW6432             C:\Program Files\Common Files
+     764 svchost.exe          0x0000025180c027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     764 svchost.exe          0x0000025180c027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     764 svchost.exe          0x0000025180c027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     764 svchost.exe          0x0000025180c027f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     764 svchost.exe          0x0000025180c027f0 NUMBER_OF_PROCESSORS           2
+     764 svchost.exe          0x0000025180c027f0 OS                             Windows_NT
+     764 svchost.exe          0x0000025180c027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+     764 svchost.exe          0x0000025180c027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     764 svchost.exe          0x0000025180c027f0 PROCESSOR_ARCHITECTURE         AMD64
+     764 svchost.exe          0x0000025180c027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     764 svchost.exe          0x0000025180c027f0 PROCESSOR_LEVEL                6
+     764 svchost.exe          0x0000025180c027f0 PROCESSOR_REVISION             9e0a
+     764 svchost.exe          0x0000025180c027f0 ProgramData                    C:\ProgramData
+     764 svchost.exe          0x0000025180c027f0 ProgramFiles                   C:\Program Files
+     764 svchost.exe          0x0000025180c027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     764 svchost.exe          0x0000025180c027f0 ProgramW6432                   C:\Program Files
+     764 svchost.exe          0x0000025180c027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     764 svchost.exe          0x0000025180c027f0 PUBLIC                         C:\Users\Public
+     764 svchost.exe          0x0000025180c027f0 SystemDrive                    C:
+     764 svchost.exe          0x0000025180c027f0 SystemRoot                     C:\Windows
+     764 svchost.exe          0x0000025180c027f0 TEMP                           C:\Windows\TEMP
+     764 svchost.exe          0x0000025180c027f0 TMP                            C:\Windows\TEMP
+     764 svchost.exe          0x0000025180c027f0 USERDOMAIN                     C137
+     764 svchost.exe          0x0000025180c027f0 USERNAME                       DESKTOP-SDN1RPT$
+     764 svchost.exe          0x0000025180c027f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     764 svchost.exe          0x0000025180c027f0 windir                         C:\Windows
+     884 svchost.exe          0x000002b6640027f0 ALLUSERSPROFILE                C:\ProgramData
+     884 svchost.exe          0x000002b6640027f0 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+     884 svchost.exe          0x000002b6640027f0 CommonProgramFiles             C:\Program Files\Common Files
+     884 svchost.exe          0x000002b6640027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     884 svchost.exe          0x000002b6640027f0 CommonProgramW6432             C:\Program Files\Common Files
+     884 svchost.exe          0x000002b6640027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     884 svchost.exe          0x000002b6640027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     884 svchost.exe          0x000002b6640027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     884 svchost.exe          0x000002b6640027f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+     884 svchost.exe          0x000002b6640027f0 NUMBER_OF_PROCESSORS           2
+     884 svchost.exe          0x000002b6640027f0 OS                             Windows_NT
+     884 svchost.exe          0x000002b6640027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\WindowsApps
+     884 svchost.exe          0x000002b6640027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     884 svchost.exe          0x000002b6640027f0 PROCESSOR_ARCHITECTURE         AMD64
+     884 svchost.exe          0x000002b6640027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     884 svchost.exe          0x000002b6640027f0 PROCESSOR_LEVEL                6
+     884 svchost.exe          0x000002b6640027f0 PROCESSOR_REVISION             9e0a
+     884 svchost.exe          0x000002b6640027f0 ProgramData                    C:\ProgramData
+     884 svchost.exe          0x000002b6640027f0 ProgramFiles                   C:\Program Files
+     884 svchost.exe          0x000002b6640027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     884 svchost.exe          0x000002b6640027f0 ProgramW6432                   C:\Program Files
+     884 svchost.exe          0x000002b6640027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     884 svchost.exe          0x000002b6640027f0 PUBLIC                         C:\Users\Public
+     884 svchost.exe          0x000002b6640027f0 SystemDrive                    C:
+     884 svchost.exe          0x000002b6640027f0 SystemRoot                     C:\Windows
+     884 svchost.exe          0x000002b6640027f0 TEMP                           C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+     884 svchost.exe          0x000002b6640027f0 TMP                            C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+     884 svchost.exe          0x000002b6640027f0 USERDOMAIN                     C137
+     884 svchost.exe          0x000002b6640027f0 USERNAME                       DESKTOP-SDN1RPT$
+     884 svchost.exe          0x000002b6640027f0 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+     884 svchost.exe          0x000002b6640027f0 windir                         C:\Windows
+     448 svchost.exe          0x0000022b282027f0 ALLUSERSPROFILE                C:\ProgramData
+     448 svchost.exe          0x0000022b282027f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     448 svchost.exe          0x0000022b282027f0 CommonProgramFiles             C:\Program Files\Common Files
+     448 svchost.exe          0x0000022b282027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     448 svchost.exe          0x0000022b282027f0 CommonProgramW6432             C:\Program Files\Common Files
+     448 svchost.exe          0x0000022b282027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     448 svchost.exe          0x0000022b282027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     448 svchost.exe          0x0000022b282027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     448 svchost.exe          0x0000022b282027f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     448 svchost.exe          0x0000022b282027f0 NUMBER_OF_PROCESSORS           2
+     448 svchost.exe          0x0000022b282027f0 OS                             Windows_NT
+     448 svchost.exe          0x0000022b282027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+     448 svchost.exe          0x0000022b282027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     448 svchost.exe          0x0000022b282027f0 PROCESSOR_ARCHITECTURE         AMD64
+     448 svchost.exe          0x0000022b282027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     448 svchost.exe          0x0000022b282027f0 PROCESSOR_LEVEL                6
+     448 svchost.exe          0x0000022b282027f0 PROCESSOR_REVISION             9e0a
+     448 svchost.exe          0x0000022b282027f0 ProgramData                    C:\ProgramData
+     448 svchost.exe          0x0000022b282027f0 ProgramFiles                   C:\Program Files
+     448 svchost.exe          0x0000022b282027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     448 svchost.exe          0x0000022b282027f0 ProgramW6432                   C:\Program Files
+     448 svchost.exe          0x0000022b282027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     448 svchost.exe          0x0000022b282027f0 PUBLIC                         C:\Users\Public
+     448 svchost.exe          0x0000022b282027f0 SystemDrive                    C:
+     448 svchost.exe          0x0000022b282027f0 SystemRoot                     C:\Windows
+     448 svchost.exe          0x0000022b282027f0 TEMP                           C:\Windows\TEMP
+     448 svchost.exe          0x0000022b282027f0 TMP                            C:\Windows\TEMP
+     448 svchost.exe          0x0000022b282027f0 USERDOMAIN                     C137
+     448 svchost.exe          0x0000022b282027f0 USERNAME                       DESKTOP-SDN1RPT$
+     448 svchost.exe          0x0000022b282027f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     448 svchost.exe          0x0000022b282027f0 windir                         C:\Windows
+     520 svchost.exe          0x00000231f5e027f0 ALLUSERSPROFILE                C:\ProgramData
+     520 svchost.exe          0x00000231f5e027f0 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+     520 svchost.exe          0x00000231f5e027f0 CommonProgramFiles             C:\Program Files\Common Files
+     520 svchost.exe          0x00000231f5e027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     520 svchost.exe          0x00000231f5e027f0 CommonProgramW6432             C:\Program Files\Common Files
+     520 svchost.exe          0x00000231f5e027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     520 svchost.exe          0x00000231f5e027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     520 svchost.exe          0x00000231f5e027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     520 svchost.exe          0x00000231f5e027f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+     520 svchost.exe          0x00000231f5e027f0 NUMBER_OF_PROCESSORS           2
+     520 svchost.exe          0x00000231f5e027f0 OS                             Windows_NT
+     520 svchost.exe          0x00000231f5e027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\WindowsApps
+     520 svchost.exe          0x00000231f5e027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     520 svchost.exe          0x00000231f5e027f0 PROCESSOR_ARCHITECTURE         AMD64
+     520 svchost.exe          0x00000231f5e027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     520 svchost.exe          0x00000231f5e027f0 PROCESSOR_LEVEL                6
+     520 svchost.exe          0x00000231f5e027f0 PROCESSOR_REVISION             9e0a
+     520 svchost.exe          0x00000231f5e027f0 ProgramData                    C:\ProgramData
+     520 svchost.exe          0x00000231f5e027f0 ProgramFiles                   C:\Program Files
+     520 svchost.exe          0x00000231f5e027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     520 svchost.exe          0x00000231f5e027f0 ProgramW6432                   C:\Program Files
+     520 svchost.exe          0x00000231f5e027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     520 svchost.exe          0x00000231f5e027f0 PUBLIC                         C:\Users\Public
+     520 svchost.exe          0x00000231f5e027f0 SystemDrive                    C:
+     520 svchost.exe          0x00000231f5e027f0 SystemRoot                     C:\Windows
+     520 svchost.exe          0x00000231f5e027f0 TEMP                           C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+     520 svchost.exe          0x00000231f5e027f0 TMP                            C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+     520 svchost.exe          0x00000231f5e027f0 USERDOMAIN                     C137
+     520 svchost.exe          0x00000231f5e027f0 USERNAME                       DESKTOP-SDN1RPT$
+     520 svchost.exe          0x00000231f5e027f0 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+     520 svchost.exe          0x00000231f5e027f0 windir                         C:\Windows
+     904 svchost.exe          0x00000213056027f0 ALLUSERSPROFILE                C:\ProgramData
+     904 svchost.exe          0x00000213056027f0 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     904 svchost.exe          0x00000213056027f0 CommonProgramFiles             C:\Program Files\Common Files
+     904 svchost.exe          0x00000213056027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     904 svchost.exe          0x00000213056027f0 CommonProgramW6432             C:\Program Files\Common Files
+     904 svchost.exe          0x00000213056027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     904 svchost.exe          0x00000213056027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     904 svchost.exe          0x00000213056027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     904 svchost.exe          0x00000213056027f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     904 svchost.exe          0x00000213056027f0 NUMBER_OF_PROCESSORS           2
+     904 svchost.exe          0x00000213056027f0 OS                             Windows_NT
+     904 svchost.exe          0x00000213056027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+     904 svchost.exe          0x00000213056027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     904 svchost.exe          0x00000213056027f0 PROCESSOR_ARCHITECTURE         AMD64
+     904 svchost.exe          0x00000213056027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     904 svchost.exe          0x00000213056027f0 PROCESSOR_LEVEL                6
+     904 svchost.exe          0x00000213056027f0 PROCESSOR_REVISION             9e0a
+     904 svchost.exe          0x00000213056027f0 ProgramData                    C:\ProgramData
+     904 svchost.exe          0x00000213056027f0 ProgramFiles                   C:\Program Files
+     904 svchost.exe          0x00000213056027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     904 svchost.exe          0x00000213056027f0 ProgramW6432                   C:\Program Files
+     904 svchost.exe          0x00000213056027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     904 svchost.exe          0x00000213056027f0 PUBLIC                         C:\Users\Public
+     904 svchost.exe          0x00000213056027f0 SystemDrive                    C:
+     904 svchost.exe          0x00000213056027f0 SystemRoot                     C:\Windows
+     904 svchost.exe          0x00000213056027f0 TEMP                           C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+     904 svchost.exe          0x00000213056027f0 TMP                            C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+     904 svchost.exe          0x00000213056027f0 USERDOMAIN                     NT AUTHORITY
+     904 svchost.exe          0x00000213056027f0 USERNAME                       LOCAL SERVICE
+     904 svchost.exe          0x00000213056027f0 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     904 svchost.exe          0x00000213056027f0 windir                         C:\Windows
+     968 svchost.exe          0x0000016d384027f0 ALLUSERSPROFILE                C:\ProgramData
+     968 svchost.exe          0x0000016d384027f0 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     968 svchost.exe          0x0000016d384027f0 CommonProgramFiles             C:\Program Files\Common Files
+     968 svchost.exe          0x0000016d384027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     968 svchost.exe          0x0000016d384027f0 CommonProgramW6432             C:\Program Files\Common Files
+     968 svchost.exe          0x0000016d384027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     968 svchost.exe          0x0000016d384027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     968 svchost.exe          0x0000016d384027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     968 svchost.exe          0x0000016d384027f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     968 svchost.exe          0x0000016d384027f0 NUMBER_OF_PROCESSORS           2
+     968 svchost.exe          0x0000016d384027f0 OS                             Windows_NT
+     968 svchost.exe          0x0000016d384027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+     968 svchost.exe          0x0000016d384027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     968 svchost.exe          0x0000016d384027f0 PROCESSOR_ARCHITECTURE         AMD64
+     968 svchost.exe          0x0000016d384027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     968 svchost.exe          0x0000016d384027f0 PROCESSOR_LEVEL                6
+     968 svchost.exe          0x0000016d384027f0 PROCESSOR_REVISION             9e0a
+     968 svchost.exe          0x0000016d384027f0 ProgramData                    C:\ProgramData
+     968 svchost.exe          0x0000016d384027f0 ProgramFiles                   C:\Program Files
+     968 svchost.exe          0x0000016d384027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     968 svchost.exe          0x0000016d384027f0 ProgramW6432                   C:\Program Files
+     968 svchost.exe          0x0000016d384027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     968 svchost.exe          0x0000016d384027f0 PUBLIC                         C:\Users\Public
+     968 svchost.exe          0x0000016d384027f0 SystemDrive                    C:
+     968 svchost.exe          0x0000016d384027f0 SystemRoot                     C:\Windows
+     968 svchost.exe          0x0000016d384027f0 TEMP                           C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+     968 svchost.exe          0x0000016d384027f0 TMP                            C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+     968 svchost.exe          0x0000016d384027f0 USERDOMAIN                     NT AUTHORITY
+     968 svchost.exe          0x0000016d384027f0 USERNAME                       LOCAL SERVICE
+     968 svchost.exe          0x0000016d384027f0 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     968 svchost.exe          0x0000016d384027f0 windir                         C:\Windows
+     988 svchost.exe          0x00000236536027f0 ALLUSERSPROFILE                C:\ProgramData
+     988 svchost.exe          0x00000236536027f0 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     988 svchost.exe          0x00000236536027f0 CommonProgramFiles             C:\Program Files\Common Files
+     988 svchost.exe          0x00000236536027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+     988 svchost.exe          0x00000236536027f0 CommonProgramW6432             C:\Program Files\Common Files
+     988 svchost.exe          0x00000236536027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+     988 svchost.exe          0x00000236536027f0 ComSpec                        C:\Windows\system32\cmd.exe
+     988 svchost.exe          0x00000236536027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+     988 svchost.exe          0x00000236536027f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     988 svchost.exe          0x00000236536027f0 NUMBER_OF_PROCESSORS           2
+     988 svchost.exe          0x00000236536027f0 OS                             Windows_NT
+     988 svchost.exe          0x00000236536027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+     988 svchost.exe          0x00000236536027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     988 svchost.exe          0x00000236536027f0 PROCESSOR_ARCHITECTURE         AMD64
+     988 svchost.exe          0x00000236536027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+     988 svchost.exe          0x00000236536027f0 PROCESSOR_LEVEL                6
+     988 svchost.exe          0x00000236536027f0 PROCESSOR_REVISION             9e0a
+     988 svchost.exe          0x00000236536027f0 ProgramData                    C:\ProgramData
+     988 svchost.exe          0x00000236536027f0 ProgramFiles                   C:\Program Files
+     988 svchost.exe          0x00000236536027f0 ProgramFiles(x86)              C:\Program Files (x86)
+     988 svchost.exe          0x00000236536027f0 ProgramW6432                   C:\Program Files
+     988 svchost.exe          0x00000236536027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+     988 svchost.exe          0x00000236536027f0 PUBLIC                         C:\Users\Public
+     988 svchost.exe          0x00000236536027f0 SystemDrive                    C:
+     988 svchost.exe          0x00000236536027f0 SystemRoot                     C:\Windows
+     988 svchost.exe          0x00000236536027f0 TEMP                           C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+     988 svchost.exe          0x00000236536027f0 TMP                            C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+     988 svchost.exe          0x00000236536027f0 USERDOMAIN                     NT AUTHORITY
+     988 svchost.exe          0x00000236536027f0 USERNAME                       LOCAL SERVICE
+     988 svchost.exe          0x00000236536027f0 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     988 svchost.exe          0x00000236536027f0 windir                         C:\Windows
+    1096 svchost.exe          0x0000022ee60027f0 ALLUSERSPROFILE                C:\ProgramData
+    1096 svchost.exe          0x0000022ee60027f0 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    1096 svchost.exe          0x0000022ee60027f0 CommonProgramFiles             C:\Program Files\Common Files
+    1096 svchost.exe          0x0000022ee60027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1096 svchost.exe          0x0000022ee60027f0 CommonProgramW6432             C:\Program Files\Common Files
+    1096 svchost.exe          0x0000022ee60027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    1096 svchost.exe          0x0000022ee60027f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1096 svchost.exe          0x0000022ee60027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    1096 svchost.exe          0x0000022ee60027f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    1096 svchost.exe          0x0000022ee60027f0 NUMBER_OF_PROCESSORS           2
+    1096 svchost.exe          0x0000022ee60027f0 OS                             Windows_NT
+    1096 svchost.exe          0x0000022ee60027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\WindowsApps
+    1096 svchost.exe          0x0000022ee60027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1096 svchost.exe          0x0000022ee60027f0 PROCESSOR_ARCHITECTURE         AMD64
+    1096 svchost.exe          0x0000022ee60027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1096 svchost.exe          0x0000022ee60027f0 PROCESSOR_LEVEL                6
+    1096 svchost.exe          0x0000022ee60027f0 PROCESSOR_REVISION             9e0a
+    1096 svchost.exe          0x0000022ee60027f0 ProgramData                    C:\ProgramData
+    1096 svchost.exe          0x0000022ee60027f0 ProgramFiles                   C:\Program Files
+    1096 svchost.exe          0x0000022ee60027f0 ProgramFiles(x86)              C:\Program Files (x86)
+    1096 svchost.exe          0x0000022ee60027f0 ProgramW6432                   C:\Program Files
+    1096 svchost.exe          0x0000022ee60027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    1096 svchost.exe          0x0000022ee60027f0 PUBLIC                         C:\Users\Public
+    1096 svchost.exe          0x0000022ee60027f0 SystemDrive                    C:
+    1096 svchost.exe          0x0000022ee60027f0 SystemRoot                     C:\Windows
+    1096 svchost.exe          0x0000022ee60027f0 TEMP                           C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+    1096 svchost.exe          0x0000022ee60027f0 TMP                            C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+    1096 svchost.exe          0x0000022ee60027f0 USERDOMAIN                     C137
+    1096 svchost.exe          0x0000022ee60027f0 USERNAME                       DESKTOP-SDN1RPT$
+    1096 svchost.exe          0x0000022ee60027f0 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    1096 svchost.exe          0x0000022ee60027f0 windir                         C:\Windows
+    1896 svchost.exe          0x00000298e06027f0 ALLUSERSPROFILE                C:\ProgramData
+    1896 svchost.exe          0x00000298e06027f0 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1896 svchost.exe          0x00000298e06027f0 CommonProgramFiles             C:\Program Files\Common Files
+    1896 svchost.exe          0x00000298e06027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1896 svchost.exe          0x00000298e06027f0 CommonProgramW6432             C:\Program Files\Common Files
+    1896 svchost.exe          0x00000298e06027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    1896 svchost.exe          0x00000298e06027f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1896 svchost.exe          0x00000298e06027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    1896 svchost.exe          0x00000298e06027f0 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1896 svchost.exe          0x00000298e06027f0 NUMBER_OF_PROCESSORS           2
+    1896 svchost.exe          0x00000298e06027f0 OS                             Windows_NT
+    1896 svchost.exe          0x00000298e06027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+    1896 svchost.exe          0x00000298e06027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1896 svchost.exe          0x00000298e06027f0 PROCESSOR_ARCHITECTURE         AMD64
+    1896 svchost.exe          0x00000298e06027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1896 svchost.exe          0x00000298e06027f0 PROCESSOR_LEVEL                6
+    1896 svchost.exe          0x00000298e06027f0 PROCESSOR_REVISION             9e0a
+    1896 svchost.exe          0x00000298e06027f0 ProgramData                    C:\ProgramData
+    1896 svchost.exe          0x00000298e06027f0 ProgramFiles                   C:\Program Files
+    1896 svchost.exe          0x00000298e06027f0 ProgramFiles(x86)              C:\Program Files (x86)
+    1896 svchost.exe          0x00000298e06027f0 ProgramW6432                   C:\Program Files
+    1896 svchost.exe          0x00000298e06027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    1896 svchost.exe          0x00000298e06027f0 PUBLIC                         C:\Users\Public
+    1896 svchost.exe          0x00000298e06027f0 SystemDrive                    C:
+    1896 svchost.exe          0x00000298e06027f0 SystemRoot                     C:\Windows
+    1896 svchost.exe          0x00000298e06027f0 TEMP                           C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+    1896 svchost.exe          0x00000298e06027f0 TMP                            C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+    1896 svchost.exe          0x00000298e06027f0 USERDOMAIN                     NT AUTHORITY
+    1896 svchost.exe          0x00000298e06027f0 USERNAME                       LOCAL SERVICE
+    1896 svchost.exe          0x00000298e06027f0 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1896 svchost.exe          0x00000298e06027f0 windir                         C:\Windows
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 ALLUSERSPROFILE                C:\ProgramData
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 CommonProgramFiles             C:\Program Files\Common Files
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 CommonProgramW6432             C:\Program Files\Common Files
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 ComSpec                        C:\Windows\system32\cmd.exe
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 NUMBER_OF_PROCESSORS           2
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 OS                             Windows_NT
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 PROCESSOR_ARCHITECTURE         AMD64
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 PROCESSOR_LEVEL                6
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 PROCESSOR_REVISION             9e0a
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 ProgramData                    C:\ProgramData
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 ProgramFiles                   C:\Program Files
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 ProgramFiles(x86)              C:\Program Files (x86)
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 ProgramW6432                   C:\Program Files
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 PSModulePath                   C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 PUBLIC                         C:\Users\Public
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 SystemDrive                    C:
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 SystemRoot                     C:\Windows
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 TEMP                           C:\Windows\TEMP
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 TMP                            C:\Windows\TEMP
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 USERDOMAIN                     C137
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 USERNAME                       DESKTOP-SDN1RPT$
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    2364 vmtoolsd.exe         0x000001cdebd90fe0 windir                         C:\Windows
+    6384 csrss.exe            0x000001d05e6027f0 ComSpec                        C:\Windows\system32\cmd.exe
+    6384 csrss.exe            0x000001d05e6027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    6384 csrss.exe            0x000001d05e6027f0 NUMBER_OF_PROCESSORS           2
+    6384 csrss.exe            0x000001d05e6027f0 OS                             Windows_NT
+    6384 csrss.exe            0x000001d05e6027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+    6384 csrss.exe            0x000001d05e6027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    6384 csrss.exe            0x000001d05e6027f0 PROCESSOR_ARCHITECTURE         AMD64
+    6384 csrss.exe            0x000001d05e6027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    6384 csrss.exe            0x000001d05e6027f0 PROCESSOR_LEVEL                6
+    6384 csrss.exe            0x000001d05e6027f0 PROCESSOR_REVISION             9e0a
+    6384 csrss.exe            0x000001d05e6027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    6384 csrss.exe            0x000001d05e6027f0 SystemDrive                    C:
+    6384 csrss.exe            0x000001d05e6027f0 SystemRoot                     C:\Windows
+    6384 csrss.exe            0x000001d05e6027f0 TEMP                           C:\Windows\TEMP
+    6384 csrss.exe            0x000001d05e6027f0 TMP                            C:\Windows\TEMP
+    6384 csrss.exe            0x000001d05e6027f0 USERNAME                       SYSTEM
+    6384 csrss.exe            0x000001d05e6027f0 windir                         C:\Windows
+    1768 dwm.exe              0x000001d774e80fe0 ALLUSERSPROFILE                C:\ProgramData
+    1768 dwm.exe              0x000001d774e80fe0 CommonProgramFiles             C:\Program Files\Common Files
+    1768 dwm.exe              0x000001d774e80fe0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1768 dwm.exe              0x000001d774e80fe0 CommonProgramW6432             C:\Program Files\Common Files
+    1768 dwm.exe              0x000001d774e80fe0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    1768 dwm.exe              0x000001d774e80fe0 ComSpec                        C:\Windows\system32\cmd.exe
+    1768 dwm.exe              0x000001d774e80fe0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    1768 dwm.exe              0x000001d774e80fe0 NUMBER_OF_PROCESSORS           2
+    1768 dwm.exe              0x000001d774e80fe0 OS                             Windows_NT
+    1768 dwm.exe              0x000001d774e80fe0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+    1768 dwm.exe              0x000001d774e80fe0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1768 dwm.exe              0x000001d774e80fe0 PROCESSOR_ARCHITECTURE         AMD64
+    1768 dwm.exe              0x000001d774e80fe0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1768 dwm.exe              0x000001d774e80fe0 PROCESSOR_LEVEL                6
+    1768 dwm.exe              0x000001d774e80fe0 PROCESSOR_REVISION             9e0a
+    1768 dwm.exe              0x000001d774e80fe0 ProgramData                    C:\ProgramData
+    1768 dwm.exe              0x000001d774e80fe0 ProgramFiles                   C:\Program Files
+    1768 dwm.exe              0x000001d774e80fe0 ProgramFiles(x86)              C:\Program Files (x86)
+    1768 dwm.exe              0x000001d774e80fe0 ProgramW6432                   C:\Program Files
+    1768 dwm.exe              0x000001d774e80fe0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    1768 dwm.exe              0x000001d774e80fe0 PUBLIC                         C:\Users\Public
+    1768 dwm.exe              0x000001d774e80fe0 SystemDrive                    C:
+    1768 dwm.exe              0x000001d774e80fe0 SystemRoot                     C:\Windows
+    1768 dwm.exe              0x000001d774e80fe0 TEMP                           C:\Windows\TEMP
+    1768 dwm.exe              0x000001d774e80fe0 TMP                            C:\Windows\TEMP
+    1768 dwm.exe              0x000001d774e80fe0 USERNAME                       SYSTEM
+    1768 dwm.exe              0x000001d774e80fe0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1768 dwm.exe              0x000001d774e80fe0 windir                         C:\Windows
+    3232 sihost.exe           0x00000215a22b0fe0 ALLUSERSPROFILE                C:\ProgramData
+    3232 sihost.exe           0x00000215a22b0fe0 APPDATA                        C:\Users\ricksanchez\AppData\Roaming
+    3232 sihost.exe           0x00000215a22b0fe0 CommonProgramFiles             C:\Program Files\Common Files
+    3232 sihost.exe           0x00000215a22b0fe0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3232 sihost.exe           0x00000215a22b0fe0 CommonProgramW6432             C:\Program Files\Common Files
+    3232 sihost.exe           0x00000215a22b0fe0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    3232 sihost.exe           0x00000215a22b0fe0 ComSpec                        C:\Windows\system32\cmd.exe
+    3232 sihost.exe           0x00000215a22b0fe0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    3232 sihost.exe           0x00000215a22b0fe0 HOMEDRIVE                      C:
+    3232 sihost.exe           0x00000215a22b0fe0 HOMEPATH                       \Users\ricksanchez
+    3232 sihost.exe           0x00000215a22b0fe0 LOCALAPPDATA                   C:\Users\ricksanchez\AppData\Local
+    3232 sihost.exe           0x00000215a22b0fe0 LOGONSERVER                    \\CITADEL-DC01
+    3232 sihost.exe           0x00000215a22b0fe0 NUMBER_OF_PROCESSORS           2
+    3232 sihost.exe           0x00000215a22b0fe0 OneDrive                       C:\Users\ricksanchez\OneDrive
+    3232 sihost.exe           0x00000215a22b0fe0 OS                             Windows_NT
+    3232 sihost.exe           0x00000215a22b0fe0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\ricksanchez\AppData\Local\Microsoft\WindowsApps
+    3232 sihost.exe           0x00000215a22b0fe0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3232 sihost.exe           0x00000215a22b0fe0 PROCESSOR_ARCHITECTURE         AMD64
+    3232 sihost.exe           0x00000215a22b0fe0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    3232 sihost.exe           0x00000215a22b0fe0 PROCESSOR_LEVEL                6
+    3232 sihost.exe           0x00000215a22b0fe0 PROCESSOR_REVISION             9e0a
+    3232 sihost.exe           0x00000215a22b0fe0 ProgramData                    C:\ProgramData
+    3232 sihost.exe           0x00000215a22b0fe0 ProgramFiles                   C:\Program Files
+    3232 sihost.exe           0x00000215a22b0fe0 ProgramFiles(x86)              C:\Program Files (x86)
+    3232 sihost.exe           0x00000215a22b0fe0 ProgramW6432                   C:\Program Files
+    3232 sihost.exe           0x00000215a22b0fe0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    3232 sihost.exe           0x00000215a22b0fe0 PUBLIC                         C:\Users\Public
+    3232 sihost.exe           0x00000215a22b0fe0 SystemDrive                    C:
+    3232 sihost.exe           0x00000215a22b0fe0 SystemRoot                     C:\Windows
+    3232 sihost.exe           0x00000215a22b0fe0 TEMP                           C:\Users\RICKSA~1\AppData\Local\Temp
+    3232 sihost.exe           0x00000215a22b0fe0 TMP                            C:\Users\RICKSA~1\AppData\Local\Temp
+    3232 sihost.exe           0x00000215a22b0fe0 USERDNSDOMAIN                  C137.LOCAL
+    3232 sihost.exe           0x00000215a22b0fe0 USERDOMAIN                     C137
+    3232 sihost.exe           0x00000215a22b0fe0 USERDOMAIN_ROAMINGPROFILE      C137
+    3232 sihost.exe           0x00000215a22b0fe0 USERNAME                       ricksanchez
+    3232 sihost.exe           0x00000215a22b0fe0 USERPROFILE                    C:\Users\ricksanchez
+    3232 sihost.exe           0x00000215a22b0fe0 windir                         C:\Windows
+    1172 svchost.exe          0x000001b9f82027f0 ALLUSERSPROFILE                C:\ProgramData
+    1172 svchost.exe          0x000001b9f82027f0 APPDATA                        C:\Users\ricksanchez\AppData\Roaming
+    1172 svchost.exe          0x000001b9f82027f0 CommonProgramFiles             C:\Program Files\Common Files
+    1172 svchost.exe          0x000001b9f82027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    1172 svchost.exe          0x000001b9f82027f0 CommonProgramW6432             C:\Program Files\Common Files
+    1172 svchost.exe          0x000001b9f82027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    1172 svchost.exe          0x000001b9f82027f0 ComSpec                        C:\Windows\system32\cmd.exe
+    1172 svchost.exe          0x000001b9f82027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    1172 svchost.exe          0x000001b9f82027f0 HOMEDRIVE                      C:
+    1172 svchost.exe          0x000001b9f82027f0 HOMEPATH                       \Users\ricksanchez
+    1172 svchost.exe          0x000001b9f82027f0 LOCALAPPDATA                   C:\Users\ricksanchez\AppData\Local
+    1172 svchost.exe          0x000001b9f82027f0 LOGONSERVER                    \\CITADEL-DC01
+    1172 svchost.exe          0x000001b9f82027f0 NUMBER_OF_PROCESSORS           2
+    1172 svchost.exe          0x000001b9f82027f0 OneDrive                       C:\Users\ricksanchez\OneDrive
+    1172 svchost.exe          0x000001b9f82027f0 OS                             Windows_NT
+    1172 svchost.exe          0x000001b9f82027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\ricksanchez\AppData\Local\Microsoft\WindowsApps
+    1172 svchost.exe          0x000001b9f82027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1172 svchost.exe          0x000001b9f82027f0 PROCESSOR_ARCHITECTURE         AMD64
+    1172 svchost.exe          0x000001b9f82027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    1172 svchost.exe          0x000001b9f82027f0 PROCESSOR_LEVEL                6
+    1172 svchost.exe          0x000001b9f82027f0 PROCESSOR_REVISION             9e0a
+    1172 svchost.exe          0x000001b9f82027f0 ProgramData                    C:\ProgramData
+    1172 svchost.exe          0x000001b9f82027f0 ProgramFiles                   C:\Program Files
+    1172 svchost.exe          0x000001b9f82027f0 ProgramFiles(x86)              C:\Program Files (x86)
+    1172 svchost.exe          0x000001b9f82027f0 ProgramW6432                   C:\Program Files
+    1172 svchost.exe          0x000001b9f82027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    1172 svchost.exe          0x000001b9f82027f0 PUBLIC                         C:\Users\Public
+    1172 svchost.exe          0x000001b9f82027f0 SystemDrive                    C:
+    1172 svchost.exe          0x000001b9f82027f0 SystemRoot                     C:\Windows
+    1172 svchost.exe          0x000001b9f82027f0 TEMP                           C:\Users\RICKSA~1\AppData\Local\Temp
+    1172 svchost.exe          0x000001b9f82027f0 TMP                            C:\Users\RICKSA~1\AppData\Local\Temp
+    1172 svchost.exe          0x000001b9f82027f0 USERDNSDOMAIN                  C137.LOCAL
+    1172 svchost.exe          0x000001b9f82027f0 USERDOMAIN                     C137
+    1172 svchost.exe          0x000001b9f82027f0 USERDOMAIN_ROAMINGPROFILE      C137
+    1172 svchost.exe          0x000001b9f82027f0 USERNAME                       ricksanchez
+    1172 svchost.exe          0x000001b9f82027f0 USERPROFILE                    C:\Users\ricksanchez
+    1172 svchost.exe          0x000001b9f82027f0 windir                         C:\Windows
+    5896 explorer.exe         0x0000000008fb4730 ALLUSERSPROFILE                C:\ProgramData
+    5896 explorer.exe         0x0000000008fb4730 APPDATA                        C:\Users\ricksanchez\AppData\Roaming
+    5896 explorer.exe         0x0000000008fb4730 CommonProgramFiles             C:\Program Files\Common Files
+    5896 explorer.exe         0x0000000008fb4730 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    5896 explorer.exe         0x0000000008fb4730 CommonProgramW6432             C:\Program Files\Common Files
+    5896 explorer.exe         0x0000000008fb4730 COMPUTERNAME                   DESKTOP-SDN1RPT
+    5896 explorer.exe         0x0000000008fb4730 ComSpec                        C:\Windows\system32\cmd.exe
+    5896 explorer.exe         0x0000000008fb4730 DriverData                     C:\Windows\System32\Drivers\DriverData
+    5896 explorer.exe         0x0000000008fb4730 FPS_BROWSER_APP_PROFILE_STRING Internet Explorer
+    5896 explorer.exe         0x0000000008fb4730 FPS_BROWSER_US...ROFILE_STRING Default
+    5896 explorer.exe         0x0000000008fb4730 HOMEDRIVE                      C:
+    5896 explorer.exe         0x0000000008fb4730 HOMEPATH                       \Users\ricksanchez
+    5896 explorer.exe         0x0000000008fb4730 LOCALAPPDATA                   C:\Users\ricksanchez\AppData\Local
+    5896 explorer.exe         0x0000000008fb4730 LOGONSERVER                    \\CITADEL-DC01
+    5896 explorer.exe         0x0000000008fb4730 NUMBER_OF_PROCESSORS           2
+    5896 explorer.exe         0x0000000008fb4730 OneDrive                       C:\Users\ricksanchez\OneDrive
+    5896 explorer.exe         0x0000000008fb4730 OS                             Windows_NT
+    5896 explorer.exe         0x0000000008fb4730 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\ricksanchez\AppData\Local\Microsoft\WindowsApps;
+    5896 explorer.exe         0x0000000008fb4730 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    5896 explorer.exe         0x0000000008fb4730 PROCESSOR_ARCHITECTURE         AMD64
+    5896 explorer.exe         0x0000000008fb4730 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    5896 explorer.exe         0x0000000008fb4730 PROCESSOR_LEVEL                6
+    5896 explorer.exe         0x0000000008fb4730 PROCESSOR_REVISION             9e0a
+    5896 explorer.exe         0x0000000008fb4730 ProgramData                    C:\ProgramData
+    5896 explorer.exe         0x0000000008fb4730 ProgramFiles                   C:\Program Files
+    5896 explorer.exe         0x0000000008fb4730 ProgramFiles(x86)              C:\Program Files (x86)
+    5896 explorer.exe         0x0000000008fb4730 ProgramW6432                   C:\Program Files
+    5896 explorer.exe         0x0000000008fb4730 PSModulePath                   C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    5896 explorer.exe         0x0000000008fb4730 PUBLIC                         C:\Users\Public
+    5896 explorer.exe         0x0000000008fb4730 SESSIONNAME                    Console
+    5896 explorer.exe         0x0000000008fb4730 SystemDrive                    C:
+    5896 explorer.exe         0x0000000008fb4730 SystemRoot                     C:\Windows
+    5896 explorer.exe         0x0000000008fb4730 TEMP                           C:\Users\RICKSA~1\AppData\Local\Temp
+    5896 explorer.exe         0x0000000008fb4730 TMP                            C:\Users\RICKSA~1\AppData\Local\Temp
+    5896 explorer.exe         0x0000000008fb4730 USERDNSDOMAIN                  C137.LOCAL
+    5896 explorer.exe         0x0000000008fb4730 USERDOMAIN                     C137
+    5896 explorer.exe         0x0000000008fb4730 USERDOMAIN_ROAMINGPROFILE      C137
+    5896 explorer.exe         0x0000000008fb4730 USERNAME                       ricksanchez
+    5896 explorer.exe         0x0000000008fb4730 USERPROFILE                    C:\Users\ricksanchez
+    5896 explorer.exe         0x0000000008fb4730 windir                         C:\Windows
+    4312 svchost.exe          0x00000139cca027f0 ALLUSERSPROFILE                C:\ProgramData
+    4312 svchost.exe          0x00000139cca027f0 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    4312 svchost.exe          0x00000139cca027f0 CommonProgramFiles             C:\Program Files\Common Files
+    4312 svchost.exe          0x00000139cca027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    4312 svchost.exe          0x00000139cca027f0 CommonProgramW6432             C:\Program Files\Common Files
+    4312 svchost.exe          0x00000139cca027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    4312 svchost.exe          0x00000139cca027f0 ComSpec                        C:\Windows\system32\cmd.exe
+    4312 svchost.exe          0x00000139cca027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    4312 svchost.exe          0x00000139cca027f0 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    4312 svchost.exe          0x00000139cca027f0 NUMBER_OF_PROCESSORS           2
+    4312 svchost.exe          0x00000139cca027f0 OS                             Windows_NT
+    4312 svchost.exe          0x00000139cca027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+    4312 svchost.exe          0x00000139cca027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    4312 svchost.exe          0x00000139cca027f0 PROCESSOR_ARCHITECTURE         AMD64
+    4312 svchost.exe          0x00000139cca027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    4312 svchost.exe          0x00000139cca027f0 PROCESSOR_LEVEL                6
+    4312 svchost.exe          0x00000139cca027f0 PROCESSOR_REVISION             9e0a
+    4312 svchost.exe          0x00000139cca027f0 ProgramData                    C:\ProgramData
+    4312 svchost.exe          0x00000139cca027f0 ProgramFiles                   C:\Program Files
+    4312 svchost.exe          0x00000139cca027f0 ProgramFiles(x86)              C:\Program Files (x86)
+    4312 svchost.exe          0x00000139cca027f0 ProgramW6432                   C:\Program Files
+    4312 svchost.exe          0x00000139cca027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    4312 svchost.exe          0x00000139cca027f0 PUBLIC                         C:\Users\Public
+    4312 svchost.exe          0x00000139cca027f0 SystemDrive                    C:
+    4312 svchost.exe          0x00000139cca027f0 SystemRoot                     C:\Windows
+    4312 svchost.exe          0x00000139cca027f0 TEMP                           C:\Windows\TEMP
+    4312 svchost.exe          0x00000139cca027f0 TMP                            C:\Windows\TEMP
+    4312 svchost.exe          0x00000139cca027f0 USERDOMAIN                     C137
+    4312 svchost.exe          0x00000139cca027f0 USERNAME                       DESKTOP-SDN1RPT$
+    4312 svchost.exe          0x00000139cca027f0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    4312 svchost.exe          0x00000139cca027f0 windir                         C:\Windows
+    3388 svchost.exe          0x00000229db6027f0 ALLUSERSPROFILE                C:\ProgramData
+    3388 svchost.exe          0x00000229db6027f0 APPDATA                        C:\Users\ricksanchez\AppData\Roaming
+    3388 svchost.exe          0x00000229db6027f0 CommonProgramFiles             C:\Program Files\Common Files
+    3388 svchost.exe          0x00000229db6027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    3388 svchost.exe          0x00000229db6027f0 CommonProgramW6432             C:\Program Files\Common Files
+    3388 svchost.exe          0x00000229db6027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    3388 svchost.exe          0x00000229db6027f0 ComSpec                        C:\Windows\system32\cmd.exe
+    3388 svchost.exe          0x00000229db6027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    3388 svchost.exe          0x00000229db6027f0 HOMEDRIVE                      C:
+    3388 svchost.exe          0x00000229db6027f0 HOMEPATH                       \Users\ricksanchez
+    3388 svchost.exe          0x00000229db6027f0 LOCALAPPDATA                   C:\Users\ricksanchez\AppData\Local
+    3388 svchost.exe          0x00000229db6027f0 LOGONSERVER                    \\CITADEL-DC01
+    3388 svchost.exe          0x00000229db6027f0 NUMBER_OF_PROCESSORS           2
+    3388 svchost.exe          0x00000229db6027f0 OneDrive                       C:\Users\ricksanchez\OneDrive
+    3388 svchost.exe          0x00000229db6027f0 OS                             Windows_NT
+    3388 svchost.exe          0x00000229db6027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\ricksanchez\AppData\Local\Microsoft\WindowsApps
+    3388 svchost.exe          0x00000229db6027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3388 svchost.exe          0x00000229db6027f0 PROCESSOR_ARCHITECTURE         AMD64
+    3388 svchost.exe          0x00000229db6027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    3388 svchost.exe          0x00000229db6027f0 PROCESSOR_LEVEL                6
+    3388 svchost.exe          0x00000229db6027f0 PROCESSOR_REVISION             9e0a
+    3388 svchost.exe          0x00000229db6027f0 ProgramData                    C:\ProgramData
+    3388 svchost.exe          0x00000229db6027f0 ProgramFiles                   C:\Program Files
+    3388 svchost.exe          0x00000229db6027f0 ProgramFiles(x86)              C:\Program Files (x86)
+    3388 svchost.exe          0x00000229db6027f0 ProgramW6432                   C:\Program Files
+    3388 svchost.exe          0x00000229db6027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    3388 svchost.exe          0x00000229db6027f0 PUBLIC                         C:\Users\Public
+    3388 svchost.exe          0x00000229db6027f0 SystemDrive                    C:
+    3388 svchost.exe          0x00000229db6027f0 SystemRoot                     C:\Windows
+    3388 svchost.exe          0x00000229db6027f0 TEMP                           C:\Users\RICKSA~1\AppData\Local\Temp
+    3388 svchost.exe          0x00000229db6027f0 TMP                            C:\Users\RICKSA~1\AppData\Local\Temp
+    3388 svchost.exe          0x00000229db6027f0 USERDNSDOMAIN                  C137.LOCAL
+    3388 svchost.exe          0x00000229db6027f0 USERDOMAIN                     C137
+    3388 svchost.exe          0x00000229db6027f0 USERDOMAIN_ROAMINGPROFILE      C137
+    3388 svchost.exe          0x00000229db6027f0 USERNAME                       ricksanchez
+    3388 svchost.exe          0x00000229db6027f0 USERPROFILE                    C:\Users\ricksanchez
+    3388 svchost.exe          0x00000229db6027f0 windir                         C:\Windows
+    2084 StartMenuExper       0x0000016218a027f0 ALLUSERSPROFILE                C:\ProgramData
+    2084 StartMenuExper       0x0000016218a027f0 APPDATA                        C:\Users\ricksanchez\AppData\Roaming
+    2084 StartMenuExper       0x0000016218a027f0 CommonProgramFiles             C:\Program Files\Common Files
+    2084 StartMenuExper       0x0000016218a027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    2084 StartMenuExper       0x0000016218a027f0 CommonProgramW6432             C:\Program Files\Common Files
+    2084 StartMenuExper       0x0000016218a027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    2084 StartMenuExper       0x0000016218a027f0 ComSpec                        C:\Windows\system32\cmd.exe
+    2084 StartMenuExper       0x0000016218a027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    2084 StartMenuExper       0x0000016218a027f0 HOMEDRIVE                      C:
+    2084 StartMenuExper       0x0000016218a027f0 HOMEPATH                       \Users\ricksanchez
+    2084 StartMenuExper       0x0000016218a027f0 LOCALAPPDATA                   C:\Users\ricksanchez\AppData\Local\Packages\microsoft.windows.startmenuexperiencehost_cw5n1h2txyewy\AC
+    2084 StartMenuExper       0x0000016218a027f0 LOGONSERVER                    \\CITADEL-DC01
+    2084 StartMenuExper       0x0000016218a027f0 NUMBER_OF_PROCESSORS           2
+    2084 StartMenuExper       0x0000016218a027f0 OneDrive                       C:\Users\ricksanchez\OneDrive
+    2084 StartMenuExper       0x0000016218a027f0 OS                             Windows_NT
+    2084 StartMenuExper       0x0000016218a027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\ricksanchez\AppData\Local\Microsoft\WindowsApps
+    2084 StartMenuExper       0x0000016218a027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2084 StartMenuExper       0x0000016218a027f0 PROCESSOR_ARCHITECTURE         AMD64
+    2084 StartMenuExper       0x0000016218a027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    2084 StartMenuExper       0x0000016218a027f0 PROCESSOR_LEVEL                6
+    2084 StartMenuExper       0x0000016218a027f0 PROCESSOR_REVISION             9e0a
+    2084 StartMenuExper       0x0000016218a027f0 ProgramData                    C:\ProgramData
+    2084 StartMenuExper       0x0000016218a027f0 ProgramFiles                   C:\Program Files
+    2084 StartMenuExper       0x0000016218a027f0 ProgramFiles(x86)              C:\Program Files (x86)
+    2084 StartMenuExper       0x0000016218a027f0 ProgramW6432                   C:\Program Files
+    2084 StartMenuExper       0x0000016218a027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    2084 StartMenuExper       0x0000016218a027f0 PUBLIC                         C:\Users\Public
+    2084 StartMenuExper       0x0000016218a027f0 SystemDrive                    C:
+    2084 StartMenuExper       0x0000016218a027f0 SystemRoot                     C:\Windows
+    2084 StartMenuExper       0x0000016218a027f0 TEMP                           C:\Users\ricksanchez\AppData\Local\Packages\microsoft.windows.startmenuexperiencehost_cw5n1h2txyewy\AC\Temp
+    2084 StartMenuExper       0x0000016218a027f0 TMP                            C:\Users\ricksanchez\AppData\Local\Packages\microsoft.windows.startmenuexperiencehost_cw5n1h2txyewy\AC\Temp
+    2084 StartMenuExper       0x0000016218a027f0 USERDNSDOMAIN                  C137.LOCAL
+    2084 StartMenuExper       0x0000016218a027f0 USERDOMAIN                     C137
+    2084 StartMenuExper       0x0000016218a027f0 USERDOMAIN_ROAMINGPROFILE      C137
+    2084 StartMenuExper       0x0000016218a027f0 USERNAME                       ricksanchez
+    2084 StartMenuExper       0x0000016218a027f0 USERPROFILE                    C:\Users\ricksanchez
+    2084 StartMenuExper       0x0000016218a027f0 windir                         C:\Windows
+    8128 RuntimeBroker.       0x000002456c8027f0 ALLUSERSPROFILE                C:\ProgramData
+    8128 RuntimeBroker.       0x000002456c8027f0 APPDATA                        C:\Users\ricksanchez\AppData\Roaming
+    8128 RuntimeBroker.       0x000002456c8027f0 CommonProgramFiles             C:\Program Files\Common Files
+    8128 RuntimeBroker.       0x000002456c8027f0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    8128 RuntimeBroker.       0x000002456c8027f0 CommonProgramW6432             C:\Program Files\Common Files
+    8128 RuntimeBroker.       0x000002456c8027f0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    8128 RuntimeBroker.       0x000002456c8027f0 ComSpec                        C:\Windows\system32\cmd.exe
+    8128 RuntimeBroker.       0x000002456c8027f0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    8128 RuntimeBroker.       0x000002456c8027f0 HOMEDRIVE                      C:
+    8128 RuntimeBroker.       0x000002456c8027f0 HOMEPATH                       \Users\ricksanchez
+    8128 RuntimeBroker.       0x000002456c8027f0 LOCALAPPDATA                   C:\Users\ricksanchez\AppData\Local
+    8128 RuntimeBroker.       0x000002456c8027f0 LOGONSERVER                    \\CITADEL-DC01
+    8128 RuntimeBroker.       0x000002456c8027f0 NUMBER_OF_PROCESSORS           2
+    8128 RuntimeBroker.       0x000002456c8027f0 OneDrive                       C:\Users\ricksanchez\OneDrive
+    8128 RuntimeBroker.       0x000002456c8027f0 OS                             Windows_NT
+    8128 RuntimeBroker.       0x000002456c8027f0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\ricksanchez\AppData\Local\Microsoft\WindowsApps
+    8128 RuntimeBroker.       0x000002456c8027f0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    8128 RuntimeBroker.       0x000002456c8027f0 PROCESSOR_ARCHITECTURE         AMD64
+    8128 RuntimeBroker.       0x000002456c8027f0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    8128 RuntimeBroker.       0x000002456c8027f0 PROCESSOR_LEVEL                6
+    8128 RuntimeBroker.       0x000002456c8027f0 PROCESSOR_REVISION             9e0a
+    8128 RuntimeBroker.       0x000002456c8027f0 ProgramData                    C:\ProgramData
+    8128 RuntimeBroker.       0x000002456c8027f0 ProgramFiles                   C:\Program Files
+    8128 RuntimeBroker.       0x000002456c8027f0 ProgramFiles(x86)              C:\Program Files (x86)
+    8128 RuntimeBroker.       0x000002456c8027f0 ProgramW6432                   C:\Program Files
+    8128 RuntimeBroker.       0x000002456c8027f0 PSModulePath                   %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    8128 RuntimeBroker.       0x000002456c8027f0 PUBLIC                         C:\Users\Public
+    8128 RuntimeBroker.       0x000002456c8027f0 SystemDrive                    C:
+    8128 RuntimeBroker.       0x000002456c8027f0 SystemRoot                     C:\Windows
+    8128 RuntimeBroker.       0x000002456c8027f0 TEMP                           C:\Users\RICKSA~1\AppData\Local\Temp
+    8128 RuntimeBroker.       0x000002456c8027f0 TMP                            C:\Users\RICKSA~1\AppData\Local\Temp
+    8128 RuntimeBroker.       0x000002456c8027f0 USERDNSDOMAIN                  C137.LOCAL
+    8128 RuntimeBroker.       0x000002456c8027f0 USERDOMAIN                     C137
+    8128 RuntimeBroker.       0x000002456c8027f0 USERDOMAIN_ROAMINGPROFILE      C137
+    8128 RuntimeBroker.       0x000002456c8027f0 USERNAME                       ricksanchez
+    8128 RuntimeBroker.       0x000002456c8027f0 USERPROFILE                    C:\Users\ricksanchez
+    8128 RuntimeBroker.       0x000002456c8027f0 windir                         C:\Windows
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 ALLUSERSPROFILE                C:\ProgramData
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 APPDATA                        C:\Users\ricksanchez\AppData\Roaming
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 CommonProgramFiles             C:\Program Files\Common Files
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 CommonProgramW6432             C:\Program Files\Common Files
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 COMPUTERNAME                   DESKTOP-SDN1RPT
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 ComSpec                        C:\Windows\system32\cmd.exe
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 DriverData                     C:\Windows\System32\Drivers\DriverData
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 HOMEDRIVE                      C:
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 HOMEPATH                       \Users\ricksanchez
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 LOCALAPPDATA                   C:\Users\ricksanchez\AppData\Local
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 LOGONSERVER                    \\CITADEL-DC01
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 NUMBER_OF_PROCESSORS           2
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 OneDrive                       C:\Users\ricksanchez\OneDrive
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 OS                             Windows_NT
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\ricksanchez\AppData\Local\Microsoft\WindowsApps;
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 PROCESSOR_ARCHITECTURE         AMD64
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 PROCESSOR_LEVEL                6
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 PROCESSOR_REVISION             9e0a
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 ProgramData                    C:\ProgramData
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 ProgramFiles                   C:\Program Files
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 ProgramFiles(x86)              C:\Program Files (x86)
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 ProgramW6432                   C:\Program Files
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 PSModulePath                   C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 PUBLIC                         C:\Users\Public
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 SESSIONNAME                    Console
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 SystemDrive                    C:
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 SystemRoot                     C:\Windows
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 TEMP                           C:\Users\RICKSA~1\AppData\Local\Temp
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 TMP                            C:\Users\RICKSA~1\AppData\Local\Temp
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 USERDNSDOMAIN                  C137.LOCAL
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 USERDOMAIN                     C137
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 USERDOMAIN_ROAMINGPROFILE      C137
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 USERNAME                       ricksanchez
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 USERPROFILE                    C:\Users\ricksanchez
+    7252 vmtoolsd.exe         0x000001e25dd60fe0 windir                         C:\Windows

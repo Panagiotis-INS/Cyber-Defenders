@@ -1,0 +1,13 @@
+          Suggested Profile(s) : Win8SP0x64, Win81U1x64, Win2012R2x64_18340, Win2012R2x64, Win2012x64, Win8SP1x64_18340, Win8SP1x64
+                     AS Layer1 : SkipDuplicatesAMD64PagedMemory (Kernel AS)
+                     AS Layer2 : FileAddressSpace (/home/neuro/challenges/Cyber_Defenders/Way_up_there/c15-SzechuanSauce/citadeldc01.mem)
+                      PAE type : No PAE
+                           DTB : 0x1a7000L
+                          KDBG : 0xf800cba9ba20L
+          Number of Processors : 2
+     Image Type (Service Pack) : 0
+                KPCR for CPU 0 : 0xfffff800cbaea000L
+                KPCR for CPU 1 : 0xffffd0019fd55000L
+             KUSER_SHARED_DATA : 0xfffff78000000000L
+           Image date and time : 2020-09-19 04:39:59 UTC+0000
+     Image local date and time : 2020-09-18 21:39:59 -0700
