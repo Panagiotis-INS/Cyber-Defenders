@@ -62,7 +62,7 @@ volatility --plugin=/opt/volatility/volatility/plugins -f 20210430-Win10Home-20H
 strings chromehistory.log |grep "https://" |grep "com"
 ```
 
-- Flag6:
+- Flag6:0b493d8e26f03ccd2060e0be85f430af
 
 ```bash
 mkdir dump
@@ -89,9 +89,10 @@ cat pstree |grep "4352"
 cat cmdline.log |grep -i "notepad"
 ```
 
-- Flag10:
+- Flag10:```04:01:54```
 
 ```bash
 cat timeliner.log |grep "brave"
-
+volatility -f 20210430-Win10Home-20H2-64bit-memdump.mem --profile=Win10x64_19041 userassist |tee userassist.log
+cat userassist.log |grep "brave"
 ```
