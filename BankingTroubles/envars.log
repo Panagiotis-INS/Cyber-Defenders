@@ -1,0 +1,548 @@
+Pid      Process              Block      Variable                       Value
+-------- -------------------- ---------- ------------------------------ -----
+     548 smss.exe             0x00100000 CommonProgramFiles             
+     548 smss.exe             0x00100000 Path                           C:\WINDOWS\System32
+     548 smss.exe             0x00100000 ProgramFiles                   
+     548 smss.exe             0x00100000 SystemDrive                    C:
+     548 smss.exe             0x00100000 SystemRoot                     C:\WINDOWS
+     612 csrss.exe            0x00100000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     612 csrss.exe            0x00100000 FP_NO_HOST_CHECK               NO
+     612 csrss.exe            0x00100000 NUMBER_OF_PROCESSORS           1
+     612 csrss.exe            0x00100000 OS                             Windows_NT
+     612 csrss.exe            0x00100000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     612 csrss.exe            0x00100000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     612 csrss.exe            0x00100000 PROCESSOR_ARCHITECTURE         x86
+     612 csrss.exe            0x00100000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     612 csrss.exe            0x00100000 PROCESSOR_LEVEL                6
+     612 csrss.exe            0x00100000 PROCESSOR_REVISION             1a05
+     612 csrss.exe            0x00100000 SystemDrive                    C:
+     612 csrss.exe            0x00100000 SystemRoot                     C:\WINDOWS
+     612 csrss.exe            0x00100000 TEMP                           C:\WINDOWS\TEMP
+     612 csrss.exe            0x00100000 TMP                            C:\WINDOWS\TEMP
+     612 csrss.exe            0x00100000 windir                         C:\WINDOWS
+     644 winlogon.exe         0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     644 winlogon.exe         0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+     644 winlogon.exe         0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     644 winlogon.exe         0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     644 winlogon.exe         0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     644 winlogon.exe         0x00010000 FP_NO_HOST_CHECK               NO
+     644 winlogon.exe         0x00010000 LOGONSERVER                    \\BOB-DCADFEDC55C
+     644 winlogon.exe         0x00010000 NUMBER_OF_PROCESSORS           1
+     644 winlogon.exe         0x00010000 OS                             Windows_NT
+     644 winlogon.exe         0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     644 winlogon.exe         0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     644 winlogon.exe         0x00010000 PROCESSOR_ARCHITECTURE         x86
+     644 winlogon.exe         0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     644 winlogon.exe         0x00010000 PROCESSOR_LEVEL                6
+     644 winlogon.exe         0x00010000 PROCESSOR_REVISION             1a05
+     644 winlogon.exe         0x00010000 ProgramFiles                   C:\Program Files
+     644 winlogon.exe         0x00010000 SystemDrive                    C:
+     644 winlogon.exe         0x00010000 SystemRoot                     C:\WINDOWS
+     644 winlogon.exe         0x00010000 TEMP                           C:\WINDOWS\TEMP
+     644 winlogon.exe         0x00010000 TMP                            C:\WINDOWS\TEMP
+     644 winlogon.exe         0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+     644 winlogon.exe         0x00010000 windir                         C:\WINDOWS
+     688 services.exe         0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     688 services.exe         0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     688 services.exe         0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     688 services.exe         0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     688 services.exe         0x00010000 FP_NO_HOST_CHECK               NO
+     688 services.exe         0x00010000 NUMBER_OF_PROCESSORS           1
+     688 services.exe         0x00010000 OS                             Windows_NT
+     688 services.exe         0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     688 services.exe         0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     688 services.exe         0x00010000 PROCESSOR_ARCHITECTURE         x86
+     688 services.exe         0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     688 services.exe         0x00010000 PROCESSOR_LEVEL                6
+     688 services.exe         0x00010000 PROCESSOR_REVISION             1a05
+     688 services.exe         0x00010000 ProgramFiles                   C:\Program Files
+     688 services.exe         0x00010000 SystemDrive                    C:
+     688 services.exe         0x00010000 SystemRoot                     C:\WINDOWS
+     688 services.exe         0x00010000 TEMP                           C:\WINDOWS\TEMP
+     688 services.exe         0x00010000 TMP                            C:\WINDOWS\TEMP
+     688 services.exe         0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+     688 services.exe         0x00010000 windir                         C:\WINDOWS
+     700 lsass.exe            0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     700 lsass.exe            0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     700 lsass.exe            0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     700 lsass.exe            0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     700 lsass.exe            0x00010000 FP_NO_HOST_CHECK               NO
+     700 lsass.exe            0x00010000 NUMBER_OF_PROCESSORS           1
+     700 lsass.exe            0x00010000 OS                             Windows_NT
+     700 lsass.exe            0x00010000 Path                           C:\WINDOWS\System32
+     700 lsass.exe            0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     700 lsass.exe            0x00010000 PROCESSOR_ARCHITECTURE         x86
+     700 lsass.exe            0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     700 lsass.exe            0x00010000 PROCESSOR_LEVEL                6
+     700 lsass.exe            0x00010000 PROCESSOR_REVISION             1a05
+     700 lsass.exe            0x00010000 ProgramFiles                   C:\Program Files
+     700 lsass.exe            0x00010000 SystemDrive                    C:
+     700 lsass.exe            0x00010000 SystemRoot                     C:\WINDOWS
+     700 lsass.exe            0x00010000 TEMP                           C:\WINDOWS\TEMP
+     700 lsass.exe            0x00010000 TMP                            C:\WINDOWS\TEMP
+     700 lsass.exe            0x00010000 USERPROFILE                    C:\WINDOWS\system32\config\systemprofile
+     700 lsass.exe            0x00010000 windir                         C:\WINDOWS
+     852 vmacthlp.exe         0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     852 vmacthlp.exe         0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     852 vmacthlp.exe         0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     852 vmacthlp.exe         0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     852 vmacthlp.exe         0x00010000 FP_NO_HOST_CHECK               NO
+     852 vmacthlp.exe         0x00010000 NUMBER_OF_PROCESSORS           1
+     852 vmacthlp.exe         0x00010000 OS                             Windows_NT
+     852 vmacthlp.exe         0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     852 vmacthlp.exe         0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     852 vmacthlp.exe         0x00010000 PROCESSOR_ARCHITECTURE         x86
+     852 vmacthlp.exe         0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     852 vmacthlp.exe         0x00010000 PROCESSOR_LEVEL                6
+     852 vmacthlp.exe         0x00010000 PROCESSOR_REVISION             1a05
+     852 vmacthlp.exe         0x00010000 ProgramFiles                   C:\Program Files
+     852 vmacthlp.exe         0x00010000 SystemDrive                    C:
+     852 vmacthlp.exe         0x00010000 SystemRoot                     C:\WINDOWS
+     852 vmacthlp.exe         0x00010000 TEMP                           C:\WINDOWS\TEMP
+     852 vmacthlp.exe         0x00010000 TMP                            C:\WINDOWS\TEMP
+     852 vmacthlp.exe         0x00010000 USERPROFILE                    C:\WINDOWS\system32\config\systemprofile
+     852 vmacthlp.exe         0x00010000 windir                         C:\WINDOWS
+     880 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     880 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     880 svchost.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     880 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     880 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+     880 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+     880 svchost.exe          0x00010000 OS                             Windows_NT
+     880 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     880 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     880 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+     880 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     880 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+     880 svchost.exe          0x00010000 PROCESSOR_REVISION             1a05
+     880 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+     880 svchost.exe          0x00010000 SystemDrive                    C:
+     880 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+     880 svchost.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+     880 svchost.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+     880 svchost.exe          0x00010000 USERPROFILE                    C:\WINDOWS\system32\config\systemprofile
+     880 svchost.exe          0x00010000 windir                         C:\WINDOWS
+     948 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     948 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     948 svchost.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     948 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     948 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+     948 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+     948 svchost.exe          0x00010000 OS                             Windows_NT
+     948 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     948 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     948 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+     948 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     948 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+     948 svchost.exe          0x00010000 PROCESSOR_REVISION             1a05
+     948 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+     948 svchost.exe          0x00010000 SystemDrive                    C:
+     948 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+     948 svchost.exe          0x00010000 TEMP                           C:\DOCUME~1\NETWOR~1\LOCALS~1\Temp
+     948 svchost.exe          0x00010000 TMP                            C:\DOCUME~1\NETWOR~1\LOCALS~1\Temp
+     948 svchost.exe          0x00010000 USERDOMAIN                     NT AUTHORITY
+     948 svchost.exe          0x00010000 USERNAME                       NETWORK SERVICE
+     948 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\NetworkService
+     948 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1040 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1040 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1040 svchost.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1040 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1040 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1040 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1040 svchost.exe          0x00010000 OS                             Windows_NT
+    1040 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1040 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1040 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1040 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1040 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+    1040 svchost.exe          0x00010000 PROCESSOR_REVISION             1a05
+    1040 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1040 svchost.exe          0x00010000 SystemDrive                    C:
+    1040 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1040 svchost.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+    1040 svchost.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+    1040 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\NetworkService
+    1040 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1100 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1100 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1100 svchost.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1100 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1100 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1100 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1100 svchost.exe          0x00010000 OS                             Windows_NT
+    1100 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1100 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1100 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1100 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1100 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+    1100 svchost.exe          0x00010000 PROCESSOR_REVISION             1a05
+    1100 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1100 svchost.exe          0x00010000 SystemDrive                    C:
+    1100 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1100 svchost.exe          0x00010000 TEMP                           C:\DOCUME~1\NETWOR~1\LOCALS~1\Temp
+    1100 svchost.exe          0x00010000 TMP                            C:\DOCUME~1\NETWOR~1\LOCALS~1\Temp
+    1100 svchost.exe          0x00010000 USERDOMAIN                     NT AUTHORITY
+    1100 svchost.exe          0x00010000 USERNAME                       NETWORK SERVICE
+    1100 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\NetworkService
+    1100 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1244 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1244 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1244 svchost.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1244 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1244 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1244 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1244 svchost.exe          0x00010000 OS                             Windows_NT
+    1244 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1244 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1244 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1244 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1244 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+    1244 svchost.exe          0x00010000 PROCESSOR_REVISION             1a05
+    1244 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1244 svchost.exe          0x00010000 SystemDrive                    C:
+    1244 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1244 svchost.exe          0x00010000 TEMP                           C:\DOCUME~1\LOCALS~1\LOCALS~1\Temp
+    1244 svchost.exe          0x00010000 TMP                            C:\DOCUME~1\LOCALS~1\LOCALS~1\Temp
+    1244 svchost.exe          0x00010000 USERDOMAIN                     NT AUTHORITY
+    1244 svchost.exe          0x00010000 USERNAME                       LOCAL SERVICE
+    1244 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1244 svchost.exe          0x00010000 windir                         C:\WINDOWS
+    1460 spoolsv.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1460 spoolsv.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1460 spoolsv.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1460 spoolsv.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1460 spoolsv.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1460 spoolsv.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1460 spoolsv.exe          0x00010000 OS                             Windows_NT
+    1460 spoolsv.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1460 spoolsv.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1460 spoolsv.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1460 spoolsv.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1460 spoolsv.exe          0x00010000 PROCESSOR_LEVEL                6
+    1460 spoolsv.exe          0x00010000 PROCESSOR_REVISION             1a05
+    1460 spoolsv.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1460 spoolsv.exe          0x00010000 SystemDrive                    C:
+    1460 spoolsv.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1460 spoolsv.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+    1460 spoolsv.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+    1460 spoolsv.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1460 spoolsv.exe          0x00010000 windir                         C:\WINDOWS
+    1628 vmtoolsd.exe         0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1628 vmtoolsd.exe         0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1628 vmtoolsd.exe         0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1628 vmtoolsd.exe         0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1628 vmtoolsd.exe         0x00010000 FP_NO_HOST_CHECK               NO
+    1628 vmtoolsd.exe         0x00010000 NUMBER_OF_PROCESSORS           1
+    1628 vmtoolsd.exe         0x00010000 OS                             Windows_NT
+    1628 vmtoolsd.exe         0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1628 vmtoolsd.exe         0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1628 vmtoolsd.exe         0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1628 vmtoolsd.exe         0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1628 vmtoolsd.exe         0x00010000 PROCESSOR_LEVEL                6
+    1628 vmtoolsd.exe         0x00010000 PROCESSOR_REVISION             1a05
+    1628 vmtoolsd.exe         0x00010000 ProgramFiles                   C:\Program Files
+    1628 vmtoolsd.exe         0x00010000 SystemDrive                    C:
+    1628 vmtoolsd.exe         0x00010000 SystemRoot                     C:\WINDOWS
+    1628 vmtoolsd.exe         0x00010000 TEMP                           C:\WINDOWS\TEMP
+    1628 vmtoolsd.exe         0x00010000 TMP                            C:\WINDOWS\TEMP
+    1628 vmtoolsd.exe         0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1628 vmtoolsd.exe         0x00010000 windir                         C:\WINDOWS
+    1836 VMUpgradeHelper      0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1836 VMUpgradeHelper      0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1836 VMUpgradeHelper      0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1836 VMUpgradeHelper      0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1836 VMUpgradeHelper      0x00010000 FP_NO_HOST_CHECK               NO
+    1836 VMUpgradeHelper      0x00010000 NUMBER_OF_PROCESSORS           1
+    1836 VMUpgradeHelper      0x00010000 OS                             Windows_NT
+    1836 VMUpgradeHelper      0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1836 VMUpgradeHelper      0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1836 VMUpgradeHelper      0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1836 VMUpgradeHelper      0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1836 VMUpgradeHelper      0x00010000 PROCESSOR_LEVEL                6
+    1836 VMUpgradeHelper      0x00010000 PROCESSOR_REVISION             1a05
+    1836 VMUpgradeHelper      0x00010000 ProgramFiles                   C:\Program Files
+    1836 VMUpgradeHelper      0x00010000 SystemDrive                    C:
+    1836 VMUpgradeHelper      0x00010000 SystemRoot                     C:\WINDOWS
+    1836 VMUpgradeHelper      0x00010000 TEMP                           C:\WINDOWS\TEMP
+    1836 VMUpgradeHelper      0x00010000 TMP                            C:\WINDOWS\TEMP
+    1836 VMUpgradeHelper      0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1836 VMUpgradeHelper      0x00010000 windir                         C:\WINDOWS
+    2024 alg.exe              0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    2024 alg.exe              0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    2024 alg.exe              0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    2024 alg.exe              0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    2024 alg.exe              0x00010000 FP_NO_HOST_CHECK               NO
+    2024 alg.exe              0x00010000 NUMBER_OF_PROCESSORS           1
+    2024 alg.exe              0x00010000 OS                             Windows_NT
+    2024 alg.exe              0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    2024 alg.exe              0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    2024 alg.exe              0x00010000 PROCESSOR_ARCHITECTURE         x86
+    2024 alg.exe              0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    2024 alg.exe              0x00010000 PROCESSOR_LEVEL                6
+    2024 alg.exe              0x00010000 PROCESSOR_REVISION             1a05
+    2024 alg.exe              0x00010000 ProgramFiles                   C:\Program Files
+    2024 alg.exe              0x00010000 SystemDrive                    C:
+    2024 alg.exe              0x00010000 SystemRoot                     C:\WINDOWS
+    2024 alg.exe              0x00010000 TEMP                           C:\DOCUME~1\LOCALS~1\LOCALS~1\Temp
+    2024 alg.exe              0x00010000 TMP                            C:\DOCUME~1\LOCALS~1\LOCALS~1\Temp
+    2024 alg.exe              0x00010000 USERDOMAIN                     NT AUTHORITY
+    2024 alg.exe              0x00010000 USERNAME                       LOCAL SERVICE
+    2024 alg.exe              0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    2024 alg.exe              0x00010000 windir                         C:\WINDOWS
+    1756 explorer.exe         0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1756 explorer.exe         0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1756 explorer.exe         0x00010000 CLIENTNAME                     Console
+    1756 explorer.exe         0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1756 explorer.exe         0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1756 explorer.exe         0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1756 explorer.exe         0x00010000 FP_NO_HOST_CHECK               NO
+    1756 explorer.exe         0x00010000 HOMEDRIVE                      C:
+    1756 explorer.exe         0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1756 explorer.exe         0x00010000 LOGONSERVER                    \\BOB-DCADFEDC55C
+    1756 explorer.exe         0x00010000 NUMBER_OF_PROCESSORS           1
+    1756 explorer.exe         0x00010000 OS                             Windows_NT
+    1756 explorer.exe         0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1756 explorer.exe         0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1756 explorer.exe         0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1756 explorer.exe         0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1756 explorer.exe         0x00010000 PROCESSOR_LEVEL                6
+    1756 explorer.exe         0x00010000 PROCESSOR_REVISION             1a05
+    1756 explorer.exe         0x00010000 ProgramFiles                   C:\Program Files
+    1756 explorer.exe         0x00010000 SESSIONNAME                    Console
+    1756 explorer.exe         0x00010000 SystemDrive                    C:
+    1756 explorer.exe         0x00010000 SystemRoot                     C:\WINDOWS
+    1756 explorer.exe         0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1756 explorer.exe         0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1756 explorer.exe         0x00010000 USERDOMAIN                     BOB-DCADFEDC55C
+    1756 explorer.exe         0x00010000 USERNAME                       Administrator
+    1756 explorer.exe         0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1756 explorer.exe         0x00010000 windir                         C:\WINDOWS
+    1108 VMwareTray.exe       0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1108 VMwareTray.exe       0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1108 VMwareTray.exe       0x00010000 CLIENTNAME                     Console
+    1108 VMwareTray.exe       0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1108 VMwareTray.exe       0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1108 VMwareTray.exe       0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1108 VMwareTray.exe       0x00010000 FP_NO_HOST_CHECK               NO
+    1108 VMwareTray.exe       0x00010000 HOMEDRIVE                      C:
+    1108 VMwareTray.exe       0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1108 VMwareTray.exe       0x00010000 LOGONSERVER                    \\BOB-DCADFEDC55C
+    1108 VMwareTray.exe       0x00010000 NUMBER_OF_PROCESSORS           1
+    1108 VMwareTray.exe       0x00010000 OS                             Windows_NT
+    1108 VMwareTray.exe       0x00010000 Path                           C:\Program Files\VMware\VMware Tools\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1108 VMwareTray.exe       0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1108 VMwareTray.exe       0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1108 VMwareTray.exe       0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1108 VMwareTray.exe       0x00010000 PROCESSOR_LEVEL                6
+    1108 VMwareTray.exe       0x00010000 PROCESSOR_REVISION             1a05
+    1108 VMwareTray.exe       0x00010000 ProgramFiles                   C:\Program Files
+    1108 VMwareTray.exe       0x00010000 SESSIONNAME                    Console
+    1108 VMwareTray.exe       0x00010000 SystemDrive                    C:
+    1108 VMwareTray.exe       0x00010000 SystemRoot                     C:\WINDOWS
+    1108 VMwareTray.exe       0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1108 VMwareTray.exe       0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1108 VMwareTray.exe       0x00010000 USERDOMAIN                     BOB-DCADFEDC55C
+    1108 VMwareTray.exe       0x00010000 USERNAME                       Administrator
+    1108 VMwareTray.exe       0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1108 VMwareTray.exe       0x00010000 windir                         C:\WINDOWS
+    1116 VMwareUser.exe       0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1116 VMwareUser.exe       0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1116 VMwareUser.exe       0x00010000 CLIENTNAME                     Console
+    1116 VMwareUser.exe       0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1116 VMwareUser.exe       0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1116 VMwareUser.exe       0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1116 VMwareUser.exe       0x00010000 FP_NO_HOST_CHECK               NO
+    1116 VMwareUser.exe       0x00010000 HOMEDRIVE                      C:
+    1116 VMwareUser.exe       0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1116 VMwareUser.exe       0x00010000 LOGONSERVER                    \\BOB-DCADFEDC55C
+    1116 VMwareUser.exe       0x00010000 NUMBER_OF_PROCESSORS           1
+    1116 VMwareUser.exe       0x00010000 OS                             Windows_NT
+    1116 VMwareUser.exe       0x00010000 Path                           C:\Program Files\VMware\VMware Tools\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1116 VMwareUser.exe       0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1116 VMwareUser.exe       0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1116 VMwareUser.exe       0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1116 VMwareUser.exe       0x00010000 PROCESSOR_LEVEL                6
+    1116 VMwareUser.exe       0x00010000 PROCESSOR_REVISION             1a05
+    1116 VMwareUser.exe       0x00010000 ProgramFiles                   C:\Program Files
+    1116 VMwareUser.exe       0x00010000 SESSIONNAME                    Console
+    1116 VMwareUser.exe       0x00010000 SystemDrive                    C:
+    1116 VMwareUser.exe       0x00010000 SystemRoot                     C:\WINDOWS
+    1116 VMwareUser.exe       0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1116 VMwareUser.exe       0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1116 VMwareUser.exe       0x00010000 USERDOMAIN                     BOB-DCADFEDC55C
+    1116 VMwareUser.exe       0x00010000 USERNAME                       Administrator
+    1116 VMwareUser.exe       0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1116 VMwareUser.exe       0x00010000 windir                         C:\WINDOWS
+    1132 wscntfy.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1132 wscntfy.exe          0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1132 wscntfy.exe          0x00010000 CLIENTNAME                     Console
+    1132 wscntfy.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1132 wscntfy.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1132 wscntfy.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1132 wscntfy.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1132 wscntfy.exe          0x00010000 HOMEDRIVE                      C:
+    1132 wscntfy.exe          0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1132 wscntfy.exe          0x00010000 LOGONSERVER                    \\BOB-DCADFEDC55C
+    1132 wscntfy.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1132 wscntfy.exe          0x00010000 OS                             Windows_NT
+    1132 wscntfy.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1132 wscntfy.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1132 wscntfy.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1132 wscntfy.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1132 wscntfy.exe          0x00010000 PROCESSOR_LEVEL                6
+    1132 wscntfy.exe          0x00010000 PROCESSOR_REVISION             1a05
+    1132 wscntfy.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1132 wscntfy.exe          0x00010000 SESSIONNAME                    Console
+    1132 wscntfy.exe          0x00010000 SystemDrive                    C:
+    1132 wscntfy.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1132 wscntfy.exe          0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1132 wscntfy.exe          0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1132 wscntfy.exe          0x00010000 USERDOMAIN                     BOB-DCADFEDC55C
+    1132 wscntfy.exe          0x00010000 USERNAME                       Administrator
+    1132 wscntfy.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1132 wscntfy.exe          0x00010000 windir                         C:\WINDOWS
+     244 msiexec.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     244 msiexec.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     244 msiexec.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     244 msiexec.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     244 msiexec.exe          0x00010000 FP_NO_HOST_CHECK               NO
+     244 msiexec.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+     244 msiexec.exe          0x00010000 OS                             Windows_NT
+     244 msiexec.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     244 msiexec.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     244 msiexec.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+     244 msiexec.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     244 msiexec.exe          0x00010000 PROCESSOR_LEVEL                6
+     244 msiexec.exe          0x00010000 PROCESSOR_REVISION             1a05
+     244 msiexec.exe          0x00010000 ProgramFiles                   C:\Program Files
+     244 msiexec.exe          0x00010000 SystemDrive                    C:
+     244 msiexec.exe          0x00010000 SystemRoot                     C:\WINDOWS
+     244 msiexec.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+     244 msiexec.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+     244 msiexec.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\Default User
+     244 msiexec.exe          0x00010000 windir                         C:\WINDOWS
+     440 wuauclt.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     440 wuauclt.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     440 wuauclt.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     440 wuauclt.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     440 wuauclt.exe          0x00010000 FP_NO_HOST_CHECK               NO
+     440 wuauclt.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+     440 wuauclt.exe          0x00010000 OS                             Windows_NT
+     440 wuauclt.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     440 wuauclt.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     440 wuauclt.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+     440 wuauclt.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     440 wuauclt.exe          0x00010000 PROCESSOR_LEVEL                6
+     440 wuauclt.exe          0x00010000 PROCESSOR_REVISION             1a05
+     440 wuauclt.exe          0x00010000 ProgramFiles                   C:\Program Files
+     440 wuauclt.exe          0x00010000 SystemDrive                    C:
+     440 wuauclt.exe          0x00010000 SystemRoot                     C:\WINDOWS
+     440 wuauclt.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+     440 wuauclt.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+     440 wuauclt.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\NetworkService
+     440 wuauclt.exe          0x00010000 windir                         C:\WINDOWS
+     232 wuauclt.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     232 wuauclt.exe          0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+     232 wuauclt.exe          0x00010000 CLIENTNAME                     Console
+     232 wuauclt.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     232 wuauclt.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     232 wuauclt.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     232 wuauclt.exe          0x00010000 FP_NO_HOST_CHECK               NO
+     232 wuauclt.exe          0x00010000 HOMEDRIVE                      C:
+     232 wuauclt.exe          0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+     232 wuauclt.exe          0x00010000 LOGONSERVER                    \\BOB-DCADFEDC55C
+     232 wuauclt.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+     232 wuauclt.exe          0x00010000 OS                             Windows_NT
+     232 wuauclt.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     232 wuauclt.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     232 wuauclt.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+     232 wuauclt.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     232 wuauclt.exe          0x00010000 PROCESSOR_LEVEL                6
+     232 wuauclt.exe          0x00010000 PROCESSOR_REVISION             1a05
+     232 wuauclt.exe          0x00010000 ProgramFiles                   C:\Program Files
+     232 wuauclt.exe          0x00010000 SESSIONNAME                    Console
+     232 wuauclt.exe          0x00010000 SystemDrive                    C:
+     232 wuauclt.exe          0x00010000 SystemRoot                     C:\WINDOWS
+     232 wuauclt.exe          0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+     232 wuauclt.exe          0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+     232 wuauclt.exe          0x00010000 USERDOMAIN                     BOB-DCADFEDC55C
+     232 wuauclt.exe          0x00010000 USERNAME                       Administrator
+     232 wuauclt.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+     232 wuauclt.exe          0x00010000 windir                         C:\WINDOWS
+     888 firefox.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+     888 firefox.exe          0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+     888 firefox.exe          0x00010000 CLIENTNAME                     Console
+     888 firefox.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+     888 firefox.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+     888 firefox.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+     888 firefox.exe          0x00010000 FP_NO_HOST_CHECK               NO
+     888 firefox.exe          0x00010000 HOMEDRIVE                      C:
+     888 firefox.exe          0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+     888 firefox.exe          0x00010000 LOGONSERVER                    \\BOB-DCADFEDC55C
+     888 firefox.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+     888 firefox.exe          0x00010000 OS                             Windows_NT
+     888 firefox.exe          0x00010000 Path                           C:\Program Files\Mozilla Firefox\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+     888 firefox.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+     888 firefox.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+     888 firefox.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+     888 firefox.exe          0x00010000 PROCESSOR_LEVEL                6
+     888 firefox.exe          0x00010000 PROCESSOR_REVISION             1a05
+     888 firefox.exe          0x00010000 ProgramFiles                   C:\Program Files
+     888 firefox.exe          0x00010000 SESSIONNAME                    Console
+     888 firefox.exe          0x00010000 SystemDrive                    C:
+     888 firefox.exe          0x00010000 SystemRoot                     C:\WINDOWS
+     888 firefox.exe          0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+     888 firefox.exe          0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+     888 firefox.exe          0x00010000 USERDOMAIN                     BOB-DCADFEDC55C
+     888 firefox.exe          0x00010000 USERNAME                       Administrator
+     888 firefox.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+     888 firefox.exe          0x00010000 windir                         C:\WINDOWS
+    1752 AcroRd32.exe         0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1752 AcroRd32.exe         0x00010000 APPDATA                        C:\Documents and Settings\Administrator\Application Data
+    1752 AcroRd32.exe         0x00010000 CLIENTNAME                     Console
+    1752 AcroRd32.exe         0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1752 AcroRd32.exe         0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1752 AcroRd32.exe         0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1752 AcroRd32.exe         0x00010000 FP_NO_HOST_CHECK               NO
+    1752 AcroRd32.exe         0x00010000 HOMEDRIVE                      C:
+    1752 AcroRd32.exe         0x00010000 HOMEPATH                       \Documents and Settings\Administrator
+    1752 AcroRd32.exe         0x00010000 LOGONSERVER                    \\BOB-DCADFEDC55C
+    1752 AcroRd32.exe         0x00010000 NUMBER_OF_PROCESSORS           1
+    1752 AcroRd32.exe         0x00010000 OS                             Windows_NT
+    1752 AcroRd32.exe         0x00010000 Path                           C:\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins;C:\Program Files\Mozilla Firefox\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1752 AcroRd32.exe         0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1752 AcroRd32.exe         0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1752 AcroRd32.exe         0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1752 AcroRd32.exe         0x00010000 PROCESSOR_LEVEL                6
+    1752 AcroRd32.exe         0x00010000 PROCESSOR_REVISION             1a05
+    1752 AcroRd32.exe         0x00010000 ProgramFiles                   C:\Program Files
+    1752 AcroRd32.exe         0x00010000 SESSIONNAME                    Console
+    1752 AcroRd32.exe         0x00010000 SystemDrive                    C:
+    1752 AcroRd32.exe         0x00010000 SystemRoot                     C:\WINDOWS
+    1752 AcroRd32.exe         0x00010000 TEMP                           C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1752 AcroRd32.exe         0x00010000 TMP                            C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+    1752 AcroRd32.exe         0x00010000 USERDOMAIN                     BOB-DCADFEDC55C
+    1752 AcroRd32.exe         0x00010000 USERNAME                       Administrator
+    1752 AcroRd32.exe         0x00010000 USERPROFILE                    C:\Documents and Settings\Administrator
+    1752 AcroRd32.exe         0x00010000 windir                         C:\WINDOWS
+    1384 svchost.exe          0x00010000 ALLUSERSPROFILE                C:\Documents and Settings\All Users
+    1384 svchost.exe          0x00010000 CommonProgramFiles             C:\Program Files\Common Files
+    1384 svchost.exe          0x00010000 COMPUTERNAME                   BOB-DCADFEDC55C
+    1384 svchost.exe          0x00010000 ComSpec                        C:\WINDOWS\system32\cmd.exe
+    1384 svchost.exe          0x00010000 FP_NO_HOST_CHECK               NO
+    1384 svchost.exe          0x00010000 NUMBER_OF_PROCESSORS           1
+    1384 svchost.exe          0x00010000 OS                             Windows_NT
+    1384 svchost.exe          0x00010000 Path                           C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+    1384 svchost.exe          0x00010000 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    1384 svchost.exe          0x00010000 PROCESSOR_ARCHITECTURE         x86
+    1384 svchost.exe          0x00010000 PROCESSOR_IDENTIFIER           x86 Family 6 Model 26 Stepping 5, GenuineIntel
+    1384 svchost.exe          0x00010000 PROCESSOR_LEVEL                6
+    1384 svchost.exe          0x00010000 PROCESSOR_REVISION             1a05
+    1384 svchost.exe          0x00010000 ProgramFiles                   C:\Program Files
+    1384 svchost.exe          0x00010000 SystemDrive                    C:
+    1384 svchost.exe          0x00010000 SystemRoot                     C:\WINDOWS
+    1384 svchost.exe          0x00010000 TEMP                           C:\WINDOWS\TEMP
+    1384 svchost.exe          0x00010000 TMP                            C:\WINDOWS\TEMP
+    1384 svchost.exe          0x00010000 USERPROFILE                    C:\Documents and Settings\LocalService
+    1384 svchost.exe          0x00010000 windir                         C:\WINDOWS

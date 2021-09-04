@@ -1,0 +1,29 @@
+Offset(P)  Name                    PID pslist psscan thrdproc pspcid csrss session deskthrd ExitTime
+---------- -------------------- ------ ------ ------ -------- ------ ----- ------- -------- --------
+0x02268020 firefox.exe             888 True   True   True     True   True  True    True     
+0x022d6b88 alg.exe                2024 True   True   True     True   True  True    True     
+0x024ea020 svchost.exe            1040 True   True   True     True   True  True    True     
+0x01edd790 explorer.exe           1756 True   True   True     True   True  True    True     
+0x02456da0 services.exe            688 True   True   True     True   True  True    True     
+0x01fe55f0 svchost.exe            1244 True   True   True     True   True  True    True     
+0x023018b0 vmtoolsd.exe           1628 True   True   True     True   True  True    True     
+0x022618c8 AcroRd32.exe           1752 True   True   True     True   True  True    True     
+0x024e1da0 svchost.exe             948 True   True   True     True   True  True    True     
+0x01fea020 svchost.exe            1100 True   True   True     True   True  True    True     
+0x02409640 svchost.exe            1384 True   True   True     True   True  True    True     
+0x02329da0 lsass.exe               700 True   True   True     True   True  True    True     
+0x0241a020 wuauclt.exe             232 True   True   True     True   True  True    True     
+0x022cd5c8 VMwareUser.exe         1116 True   True   True     True   True  True    True     
+0x01fdd8d0 VMUpgradeHelper        1836 True   True   True     True   True  True    True     
+0x01e80c78 wuauclt.exe             440 True   True   True     True   True  True    True     
+0x01ea96f0 VMwareTray.exe         1108 True   True   True     True   True  True    True     
+0x01f3f020 vmacthlp.exe            852 True   True   True     True   True  True    True     
+0x0205b2e8 winlogon.exe            644 True   True   True     True   True  True    True     
+0x02466870 svchost.exe             880 True   True   True     True   True  True    True     
+0x01fde568 spoolsv.exe            1460 True   True   True     True   True  True    True     
+0x02533620 msiexec.exe             244 True   True   True     True   True  True    True     
+0x01eee5f8 wscntfy.exe            1132 True   True   True     True   True  True    True     
+0x02104228 smss.exe                548 True   True   True     True   False False   False    
+0x025c8830 System                    4 True   True   True     True   False False   False    
+0x024eeda0 csrss.exe               612 True   True   True     True   False True    True     
+0x01ee1af8 msiexec.exe             452 True   True   False    True   False False   False    2010-02-26 03:46:28 UTC+0000

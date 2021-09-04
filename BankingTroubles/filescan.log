@@ -1,0 +1,1826 @@
+Offset(P)            #Ptr   #Hnd Access Name
+------------------ ------ ------ ------ ----
+0x0000000001e6b0e8      1      1 ------ \Device\NamedPipe\browser
+0x0000000001e6b180      2      1 ------ \Device\NamedPipe\browser
+0x0000000001e6cd08      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\reflow.api
+0x0000000001e6d028      1      1 ------ \Device\Afd\Endpoint
+0x0000000001e6d0d8      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\Cache\_CACHE_002_
+0x0000000001e6d308      3      1 ------ \Device\Afd\Endpoint
+0x0000000001e6d3f0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\hnetwiz.dll
+0x0000000001e6e780      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\HyperTerminal.lnk
+0x0000000001e6ea40      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\calc.exe
+0x0000000001e6ee50      1      0 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Adobe\Acrobat\6.0\Updater\udstore.js
+0x0000000001e6f028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\riched20.dll
+0x0000000001e6f2d8      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\AdobeUM
+0x0000000001e70890      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Spades.lnk
+0x0000000001e723d8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e72cb0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\EWH32.api
+0x0000000001e72d48      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\ZY______.PFB
+0x0000000001e73d30      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e73dc8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\desktop.ini
+0x0000000001e73e60      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e73ef8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\GbDetect.dll
+0x0000000001e73f90      1      0 R----- \Device\HarddiskVolume1\WINDOWS\Prefetch\REGSVR32.EXE-25EEFE2F.pf
+0x0000000001e742c8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\tr_23[2].js
+0x0000000001e74a48      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Accessibility.api
+0x0000000001e74bc8      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\NetworkService\Cookies\index.dat
+0x0000000001e74ca0      1      0 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Microsoft\CryptnetUrlCache\MetaData\74BFD122C0875EC75DBE5C6DB4C59019
+0x0000000001e74ed0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\winmine.exe
+0x0000000001e75028      3      1 ------ \Device\Afd\Endpoint
+0x0000000001e756a8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e75f90      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsBrowserGlue.js
+0x0000000001e76028      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Outlook Express\wab.exe
+0x0000000001e76278      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Cache\Adobe Reader 6.0\ENUBIG\Abcpy.ini
+0x0000000001e764c8      1      1 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font
+0x0000000001e76740      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Set Program Access and Defaults.lnk
+0x0000000001e76858      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\xpinstal.dll
+0x0000000001e76978      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\olyrbtn_2010[1].gif
+0x0000000001e78028      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\browser.xpt
+0x0000000001e783f8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e79028      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\OPP.dll
+0x0000000001e790e0      1      1 ------ \Device\Afd\Endpoint
+0x0000000001e79c28      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-unknown.gif
+0x0000000001e79cc0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\pdf.ocx
+0x0000000001e7a028      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mobsync.exe
+0x0000000001e7a7c0      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\My Documents\My Music\Desktop.ini
+0x0000000001e7a8d8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\urchin[1].js
+0x0000000001e7bda8      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\PFM\SY______.PFM
+0x0000000001e7be40      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\AcroForm.api
+0x0000000001e7c960      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\plds4.dll
+0x0000000001e7cc78      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e7d248      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\yahoo.gif
+0x0000000001e7d688      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\sysmon.ocx
+0x0000000001e7e028      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\security[1].gif
+0x0000000001e7e940      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\stdole32.tlb
+0x0000000001e7f028      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\OLS\Locale\ENU\description.xml
+0x0000000001e80028      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\loading-image.gif
+0x0000000001e807b8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Updater.api
+0x0000000001e80850      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Soap.api
+0x0000000001e80f68      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\eBook04.html
+0x0000000001e81540      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Paint.lnk
+0x0000000001e816e8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001e81868      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001e81cf8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x0000000001e82288      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e82b10      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\lowsec\user.ds.lll
+0x0000000001e82e60      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsSidebar.js
+0x0000000001e83028      2      1 ------ \Device\NamedPipe\lsass
+0x0000000001e830c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\atmlib.dll
+0x0000000001e831d8      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\CourierStd-BoldOblique.otf
+0x0000000001e832d8      1      0 -WD--- \Device\HarddiskVolume1\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\OBJECTS.MAP
+0x0000000001e83630      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\quirk.css
+0x0000000001e83a68      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e83b38      1      0 -WD--- \Device\HarddiskVolume1\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\MAPPING2.MAP
+0x0000000001e83bd0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e83d28      1      0 -WD--- \Device\HarddiskVolume1\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\OBJECTS.DATA
+0x0000000001e83dc8      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000001e83f28      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wzcdlg.dll
+0x0000000001e85028      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\upsell_bg_2010[1].jpg
+0x0000000001e851c8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\PictureTasks.api
+0x0000000001e85348      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e85620      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e85f90      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e862a8      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Sign.html
+0x0000000001e864e0      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Javascripts\aform.js
+0x0000000001e86938      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e86d78      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e87f28      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e88458      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e888a8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\hp_1[1].css
+0x0000000001e88a50      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e88b88      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\google.old
+0x0000000001e89308      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\dxtrans.dll
+0x0000000001e893a0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\hiddenWindow.html
+0x0000000001e89970      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001e89e58      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e8a8e0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\en-US.manifest
+0x0000000001e8aad8      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000001e8ab70      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\desktop.ini
+0x0000000001e8ac70      1      0 R--rw- \Device\HarddiskVolume1\Program Files\MSN Gaming Zone\Windows\bckgzm.exe
+0x0000000001e8ae58      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e8b260      1      0 R--rw- \Device\HarddiskVolume1\Program Files\MSN Gaming Zone\Windows\Rvsezm.exe
+0x0000000001e8b438      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e8b6f0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001e8b978      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001e8c460      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e8c598      1      0 -WD--- \Device\HarddiskVolume1\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\INDEX.BTR
+0x0000000001e8c738      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\firefox.exe
+0x0000000001e8c850      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\SPPlugins\ADMPlugin.apl
+0x0000000001e8c8e8      1      1 R--r-- \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr107.tmp
+0x0000000001e8c9a8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\EScript.api
+0x0000000001e8cf90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msimsg.dll
+0x0000000001e8d9d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msihnd.dll
+0x0000000001e8de48      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\verdana.ttf
+0x0000000001e8f028      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x0000000001e8f780      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsBrowserContentHandler.js
+0x0000000001e8f8c0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\rasapi32.dll
+0x0000000001e90028      2      1 ------ \Device\NamedPipe\lsass
+0x0000000001e90650      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ws2help.dll
+0x0000000001e90778      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\ovr_57[2].css
+0x0000000001e91028      2      1 ------ \Device\NamedPipe\lsass
+0x0000000001e91238      2      1 ------ \Device\NamedPipe\ROUTER
+0x0000000001e912d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ntlsapi.dll
+0x0000000001e91700      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\updater.ini
+0x0000000001e919a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wups.dll
+0x0000000001e92d18      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\bullet_blue[1].jpg
+0x0000000001e933d8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\program[1].css
+0x0000000001e93520      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Mozilla Firefox\Mozilla Firefox.lnk
+0x0000000001e935b8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Services.lnk
+0x0000000001e93818      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\TPVMW32.dll
+0x0000000001e93970      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\drivers\kmixer.sys
+0x0000000001e94028      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat
+0x0000000001e94278      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\VMware\hgfs.dat
+0x0000000001e94348      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winhttp.dll
+0x0000000001e95028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\kmddsp.tsp
+0x0000000001e95398      1      0 RW-rwd \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\00F3AAQI\desktop.ini
+0x0000000001e95918      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\rasadhlp.dll
+0x0000000001e95e60      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e95e60      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e97028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\dciman32.dll
+0x0000000001e97490      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mycomput.dll
+0x0000000001e976d0      1      0 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\CAKLUB41.HTM
+0x0000000001e97bd0      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\desktop.ini
+0x0000000001e97ce8      1      0 RW-rwd \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\2XI9S3KX\desktop.ini
+0x0000000001e97f68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\inetcfg.dll
+0x0000000001e989b8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e98c60      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\georgiai.ttf
+0x0000000001e98e70      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[7]
+0x0000000001e991c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\svchost.exe
+0x0000000001e99258      1      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\h323log.txt
+0x0000000001e99360      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\h323.tsp
+0x0000000001e99600      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\tprdpw32.dll
+0x0000000001e99a10      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001e99c00      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msls31.dll
+0x0000000001e99d18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mshtml.dll
+0x0000000001e9a2e0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Remote Assistance.lnk
+0x0000000001e9a610      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ndptsp.tsp
+0x0000000001e9a880      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\WinSxS\Manifests\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9.Manifest
+0x0000000001e9a918      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ddrawex.dll
+0x0000000001e9aa08      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e9aaa0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Windows Movie Maker.lnk
+0x0000000001e9ad18      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shimeng.dll
+0x0000000001e9adb0      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\Administrator.bmp
+0x0000000001e9b028      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Cookies\index.dat
+0x0000000001e9b178      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\arialbd.ttf
+0x0000000001e9b638      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ipconf.tsp
+0x0000000001e9bd18      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[6]
+0x0000000001e9c5f0      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\SoftwareDistribution\DataStore\Logs\edb.log
+0x0000000001e9dac8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Adobe Reader 6.0.lnk
+0x0000000001e9e670      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msvfw32.dll
+0x0000000001e9e918      3      1 ------ \Device\NamedPipe\net\NtControlPipe13
+0x0000000001e9e9b0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\usp10.dll
+0x0000000001e9ec30      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\My Documents\My Pictures\Desktop.ini
+0x0000000001e9ee60      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\jscript.dll
+0x0000000001e9f360      1      0 R--rw- \Device\HarddiskVolume1\Program Files\MSN Gaming Zone\Windows\hrtzzm.exe
+0x0000000001e9f4f8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001e9fe88      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001ea0028      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\drivers\etc\hosts
+0x0000000001ea0318      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\Macromed\Flash\flash.ocx
+0x0000000001ea06f0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\comic.ttf
+0x0000000001ea0788      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\palab.ttf
+0x0000000001ea0f28      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\palai.ttf
+0x0000000001ea1370      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mstsc.exe
+0x0000000001ea18a0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\MSN Gaming Zone\Windows\shvlzm.exe
+0x0000000001ea1c38      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\MakeAccessible.api
+0x0000000001ea2090      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\gautami.ttf
+0x0000000001ea2388      1      0 R----- \Device\HarddiskVolume1\WINDOWS\Prefetch\SVCHOST.EXE-3530F672.pf
+0x0000000001ea2d38      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu
+0x0000000001ea3190      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuaucpl.cpl
+0x0000000001ea3b38      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ea3e40      1      0 RW-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\install_wizard.log
+0x0000000001ea40a8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuaucpl.cpl
+0x0000000001ea42b8      2      1 RWDrw- \Device\HarddiskVolume1\WINDOWS\Temp\Perflib_Perfdata_65c.dat
+0x0000000001ea4770      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\desktop.ini
+0x0000000001ea4a20      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ea4ab8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\browselc.dll
+0x0000000001ea4f90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Activate Windows.lnk
+0x0000000001ea50e0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Entertainment\Sound Recorder.lnk
+0x0000000001ea5368      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ea5f90      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\table-add-column-before-active.gif
+0x0000000001ea6308      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Recent\Desktop.ini
+0x0000000001ea6740      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ea6c40      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator
+0x0000000001ea7028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\drprov.dll
+0x0000000001ea7218      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ea7980      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rcbdyctl.dll
+0x0000000001ea7c00      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000001ea7d18      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Component Services.lnk
+0x0000000001ea7db0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ea7ef8      1      1 ------ \Device\NamedPipe\wkssvc
+0x0000000001ea8070      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_91481303
+0x0000000001ea8440      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001ea86f8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001ea8df0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001ea9028      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\VMwareTray.exe
+0x0000000001eaa038      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eaa2c8      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Desktop
+0x0000000001eaa6a0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eaac08      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\NetHood
+0x0000000001eaaf90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eab228      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eab2c0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Character Map.lnk
+0x0000000001eabbd0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\reporter.manifest
+0x0000000001eae700      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eae800      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001eae9e0      1      1 ------ \Device\NamedPipe\net\NtControlPipe13
+0x0000000001eaf180      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\PrintHood
+0x0000000001eaf5a0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001eafa40      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001eb00c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eb0180      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wshext.dll
+0x0000000001eb0288      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\usmt\migwiz.exe
+0x0000000001eb0c48      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\SoftwareDistribution\DataStore\DataStore.edb
+0x0000000001eb1228      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Files and Settings Transfer Wizard.lnk
+0x0000000001eb1aa0      2      1 ------ \Device\NamedPipe\ROUTER
+0x0000000001eb2028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\sensapi.dll
+0x0000000001eb22a0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.2180_x-ww_522f9f82
+0x0000000001eb2518      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Security Center.lnk
+0x0000000001eb25b0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\System Information.lnk
+0x0000000001eb2bd0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\defaults\pref\channel-prefs.js
+0x0000000001eb2e60      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Internet Explorer.lnk
+0x0000000001eb3788      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Review18.html
+0x0000000001eb38c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eb3988      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eb3cd0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Windows Catalog.lnk
+0x0000000001eb4aa8      1      0 -WD--- \Device\HarddiskVolume1\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\Repository\FS\MAPPING1.MAP
+0x0000000001eb4b40      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\msiexec.exe
+0x0000000001eb4e78      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[4]
+0x0000000001eb5298      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\defaults\profile\prefs.jsw
+0x0000000001eb5b90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eb5c60      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\Cache\_CACHE_001_
+0x0000000001eb5d18      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Spider Solitaire.lnk
+0x0000000001eb6028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cryptnet.dll
+0x0000000001eb6578      1      0 R--rw- \Device\HarddiskVolume1\Program Files\MSN\MSNCoreFiles\Install\msnms.ico
+0x0000000001eb6610      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\desktop.ini
+0x0000000001eb6e00      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\sylfaen.ttf
+0x0000000001eb6f90      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\tunga.ttf
+0x0000000001eb76e8      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\CourierStd.otf
+0x0000000001eb7990      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\georgia.ttf
+0x0000000001eb9028      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\kvwrap[1].png
+0x0000000001ebb028      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ebb100      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\olympics10-bg[1].jpg
+0x0000000001ebb630      1      0 RW-rwd \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\1WBGD152\desktop.ini
+0x0000000001ebb790      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\enterprise[1].gif
+0x0000000001ebbcc8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\catsrvut.dll
+0x0000000001ebc9f0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\abg-en-100c-000000[1].png
+0x0000000001ebcde0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\plds4.dll
+0x0000000001ebce78      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\entityTables\htmlEntityVersions.properties
+0x0000000001ebd028      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\nss3.dll
+0x0000000001ebdd18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msiexec.exe
+0x0000000001ebf028      2      1 ------ \Device\NamedPipe\ROUTER
+0x0000000001ec0028      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000001ec0508      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\glow_b[1].gif
+0x0000000001ec05a0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\symbol.ttf
+0x0000000001ec1028      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\ssl3.dll
+0x0000000001ec1b48      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\timesbd.ttf
+0x0000000001ec1f90      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Documents\desktop.ini
+0x0000000001ec2188      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ec2220      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\srclient.dll
+0x0000000001ec26f0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\setupapi.dll
+0x0000000001ec3210      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\spoolss.dll
+0x0000000001ec3820      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\timesbi.ttf
+0x0000000001ec3a28      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\georgiab.ttf
+0x0000000001ec3bd8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\timesi.ttf
+0x0000000001ec3d18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rastapi.dll
+0x0000000001ec3e48      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mshtmled.dll
+0x0000000001ec3ef0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\upnp.dll
+0x0000000001ec4558      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\win32spl.dll
+0x0000000001ec4680      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[6]
+0x0000000001ec48c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\Cache\Adobe Reader 6.0\ENUBIG\setup.exe
+0x0000000001ec4bd8      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\jsconsole-clhandler.js
+0x0000000001ec4e68      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\spool\prtprocs\w32x86\TPWinPrn.dll
+0x0000000001ec4f90      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[2]
+0x0000000001ec5028      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\HLS.api
+0x0000000001ec5978      1      1 ------ \Device\Afd\Endpoint
+0x0000000001ec6260      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\charsetData.properties
+0x0000000001ec6300      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\accwiz.exe
+0x0000000001ec6398      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\explorer.exe
+0x0000000001ec6518      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\ntbackup.exe
+0x0000000001ec7440      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\search[8]
+0x0000000001ec8028      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\browser.jar
+0x0000000001ec8240      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsDictionary.js
+0x0000000001ec8548      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rasppp.dll
+0x0000000001ec88f8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\hid.dll
+0x0000000001ec8a00      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\hidphone.tsp
+0x0000000001ec8e68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wtsapi32.dll
+0x0000000001ec9540      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\Logo_25wht[1].gif
+0x0000000001ec98a8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\shruti.ttf
+0x0000000001ecaa00      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\CourierStd-Bold.otf
+0x0000000001ecb448      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\ie_23[2].css
+0x0000000001ecb4e0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsHelperAppDlg.js
+0x0000000001ecbd00      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\pippki.manifest
+0x0000000001ecbe28      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\README.txt
+0x0000000001ecbf90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\WL_Hotmail_24x22_blue[1].gif
+0x0000000001ecc910      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\l_10646.ttf
+0x0000000001eccf60      1      1 ------ \Device\Afd\AsyncConnectHlp
+0x0000000001ecd5f8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\localspl.dll
+0x0000000001ecd7d8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\488[1].jpg
+0x0000000001ecda38      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ecdf08      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\sfc_os.dll
+0x0000000001ece230      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ece718      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\spool\drivers\color\kodak_dc.icm
+0x0000000001ece970      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\times.ttf
+0x0000000001ecec88      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msihnd.dll
+0x0000000001ecf028      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000001ed0640      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x0000000001ed0ae8      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\CourierStd-Oblique.otf
+0x0000000001ed0ce8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\utilman.exe
+0x0000000001ed1220      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\verdanab.ttf
+0x0000000001ed2028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\jscript.dll
+0x0000000001ed20e8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Windows Media Player.lnk
+0x0000000001ed21b0      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x0000000001ed2420      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x0000000001ed2740      1      1 ------ \Device\KSENUM#00000001\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x0000000001ed2988      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ed2e68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winsta.dll
+0x0000000001ed3568      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netui0.dll
+0x0000000001ed52c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msxml3.dll
+0x0000000001ed5358      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Remote Desktop Connection.lnk
+0x0000000001ed69e0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\version.dll
+0x0000000001ed6b68      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Agm.dll
+0x0000000001ed7628      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\nspr4.dll
+0x0000000001ed9d18      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eda3e0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001eda708      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x0000000001edad38      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\secur32.dll
+0x0000000001edb738      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\wlanalytics[2].js
+0x0000000001edb7d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dciman32.dll
+0x0000000001edc028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001edc0e8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001edc180      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001edc468      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001edc530      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001edc770      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001edc808      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_3bf8fa05
+0x0000000001edc8a0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001edc938      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001edca28      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\ntshrui.dll
+0x0000000001edcbe0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\magnify.exe
+0x0000000001edd6c0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Windows Messenger.lnk
+0x0000000001eddc70      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT
+0x0000000001ede3e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\shdocvw.dll
+0x0000000001ede478      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ede790      1      1 ------ \Device\Afd\Endpoint
+0x0000000001ede8d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\inetcfg.dll
+0x0000000001ede968      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\usbmon.dll
+0x0000000001edf210      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\rasman.dll
+0x0000000001ee1740      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\On-Screen Keyboard.lnk
+0x0000000001ee1a68      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\firefox1502[1].exe
+0x0000000001ee1f90      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\access.cpl
+0x0000000001ee2028      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Local Security Policy.lnk
+0x0000000001ee2378      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\courbi.ttf
+0x0000000001ee2628      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\msls31.dll
+0x0000000001ee2f90      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Internet Explorer\IEXPLORE.EXE
+0x0000000001ee3290      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\themeui.dll
+0x0000000001ee3450      1      0 RW-rw- \Device\HarddiskVolume1\WINDOWS\0.log
+0x0000000001ee3580      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\esent.dll
+0x0000000001ee36a8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\httpapi.dll
+0x0000000001ee38a8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001ee3a08      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\regsvr32.exe
+0x0000000001ee4570      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ee4868      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\en-US.jar
+0x0000000001ee4aa0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Computer Management.lnk
+0x0000000001ee4db8      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x0000000001ee4f90      1      1 ------ \Device\NamedPipe\Ctx_WinStation_API_service
+0x0000000001ee5380      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vmhgfs.dll
+0x0000000001ee55b8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\iepeers.dll
+0x0000000001ee5bd0      1      1 ------ \Device\Afd\Endpoint
+0x0000000001ee66a0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001ee6a38      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vbscript.dll
+0x0000000001ee8cf0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Network Connections.lnk
+0x0000000001ee9418      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ws2_32.dll
+0x0000000001eea028      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\History\History.IE5\MSHist012010022520100226\index.dat
+0x0000000001eea970      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Mozilla Firefox\Mozilla Firefox (Safe Mode).lnk
+0x0000000001eeaaa0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\cleanmgr.exe
+0x0000000001eeab40      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\browseui.dll
+0x0000000001eeb2d8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\termsrv.dll
+0x0000000001eec5e8     21      1 ------ \Device\Filter\SSLFilterChannel
+0x0000000001eec878      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001eec960      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001eecbd8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\arr[1].gif
+0x0000000001eed900      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Esl\AiodLite.dll
+0x0000000001eef268      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\verdanai.ttf
+0x0000000001eef3c0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\classic.manifest
+0x0000000001eef458      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\ariali.ttf
+0x0000000001eef738      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ef09c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001ef0aa8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\imgad[1].jpg
+0x0000000001ef1028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\midimap.dll
+0x0000000001ef1358      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\wdmaud.drv
+0x0000000001ef1d18      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\winspool.drv
+0x0000000001ef1f90      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001ef2468      2      1 ------ \Device\NamedPipe\srvsvc
+0x0000000001ef2538      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\GbDetect.dll
+0x0000000001ef3218      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\defaults\pref\reporter.js
+0x0000000001ef42b0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Installer\{AC76BA86-7AD7-1033-7B44-000000000001}\SC_Reader_DT.ico
+0x0000000001ef5028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\corpol.dll
+0x0000000001ef5188      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\comres.dll
+0x0000000001ef5360      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\search[6]
+0x0000000001ef55b8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\trebucbi.ttf
+0x0000000001ef5d20      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\greprefs\security-prefs.js
+0x0000000001ef7028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ef7470      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuapi.dll
+0x0000000001ef7640      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\c_1250.nls
+0x0000000001ef7810      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\c_1251.nls
+0x0000000001ef8198      1      1 ------ \Device\NamedPipe\net\NtControlPipe11
+0x0000000001ef83a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\alg.exe
+0x0000000001ef8ec8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rasmans.dll
+0x0000000001efa0e0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\icon_bing_s[1].png
+0x0000000001efa260      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\georgiaz.ttf
+0x0000000001efa340      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x0000000001efabb0      2      0 RWD--- \Device\HarddiskVolume1\$SetEndOfFileInfo
+0x0000000001efaec0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\jar50.dll
+0x0000000001efb2a0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001efbe28      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\resutils.dll
+0x0000000001efc298      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\MAPPING1.MAP
+0x0000000001efc460      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\ncprov.dll
+0x0000000001efc590      2      1 ------ \Device\NamedPipe\ROUTER
+0x0000000001efca40      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\colbact.dll
+0x0000000001efcbb8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001efd398      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemsvc.dll
+0x0000000001efdae0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001efde90      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\oobe\msoobe.exe
+0x0000000001efdf28      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msi.dll
+0x0000000001efe350      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemcore.dll
+0x0000000001efe690      1      0 RW-rwd \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\XXEZYIJD\desktop.ini
+0x0000000001eff588      3      1 ------ \Device\NamedPipe\net\NtControlPipe10
+0x0000000001f00178      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f01420      2      1 ------ \Device\Afd\Endpoint
+0x0000000001f02028      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000001f024d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\advpack.dll
+0x0000000001f02590      1      1 ------ \Device\NamedPipe\ntsvcs
+0x0000000001f03028      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\extensions.cache
+0x0000000001f030d8      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\reporter.jar
+0x0000000001f044f8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Documents\My Music\Desktop.ini
+0x0000000001f04868      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\stdole2.tlb
+0x0000000001f049b8      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\defaults\profile\mimeTypes.rdf
+0x0000000001f04ae8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f04c00      1      1 ------ \Device\NamedPipe\lsass
+0x0000000001f05038      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f05100      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f05198      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f054b8      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Cookies\index.dat
+0x0000000001f05708      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\arialbi.ttf
+0x0000000001f06358      2      1 ------ \Device\NamedPipe\W32TIME
+0x0000000001f06a18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\sens.dll
+0x0000000001f06f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\icaapi.dll
+0x0000000001f07028      3      1 ------ \Device\Afd\Endpoint
+0x0000000001f07e40      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\creativecommons.pngew
+0x0000000001f08210      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\desktop.ini
+0x0000000001f08538      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Command Prompt.lnk
+0x0000000001f08f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f091f0      1      0 R----- \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\icudt38l.dat
+0x0000000001f093e8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001f09778      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f09810      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f098a8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f09940      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f099d8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f09a70      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f0a638      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\desktop.ini
+0x0000000001f0b2f8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f0b578      2      1 ------ \Device\NamedPipe\srvsvc
+0x0000000001f0b6c0      1      1 ------ \Device\NamedPipe\srvsvc
+0x0000000001f0d820      2      1 RW-rw- \Device\NamedPipe\
+0x0000000001f0dc20      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f0dcb8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mspatcha.dll
+0x0000000001f0e028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001f0e2b8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ersvc.dll
+0x0000000001f0e390      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuaueng.dll
+0x0000000001f0e838      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f0e960      3      1 R--rwd \Device\HarddiskVolume1\WINDOWS\pchealth\helpctr\BATCH
+0x0000000001f0ef90      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\file[1].exe
+0x0000000001f0f8f0      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\History\History.IE5\MSHist012010022720100228\index.dat
+0x0000000001f10ab0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f10e00      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-audio.gif
+0x0000000001f10e98      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\comm.manifest
+0x0000000001f12028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f121c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\pchealth\helpctr\binaries\pchsvc.dll
+0x0000000001f12e00      1      0 R--r-d \Device\HarddiskVolume1\PROGRA~1\MSNGAM~1\Windows\chkrres.dll
+0x0000000001f12f00      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\gobject-2.0.dll
+0x0000000001f13028      3      1 ------ \Device\NamedPipe\net\NtControlPipe11
+0x0000000001f13198      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\srvsvc.dll
+0x0000000001f132d8      1      0 R--r-d \Device\HarddiskVolume1\PROGRA~1\MSNGAM~1\Windows\Hrtzres.dll
+0x0000000001f13a20      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001f13bf0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuapi.dll
+0x0000000001f146a8      1      1 ------ \Device\Afd\Endpoint
+0x0000000001f14b70      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f14cf0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\VMControlPanel.cpl
+0x0000000001f14ec0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dssenh.dll
+0x0000000001f153d0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f15618      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f15d38      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f15ee0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\powerOps.dll
+0x0000000001f16028      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f16138      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ipnathlp.dll
+0x0000000001f161d0      1      1 ------ \Device\NamedPipe\net\NtControlPipe10
+0x0000000001f16360      1      1 ------ \Device\NamedPipe\ROUTER
+0x0000000001f163f8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe
+0x0000000001f164d0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f16568      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\glib-2.0.dll
+0x0000000001f169e8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\wsecedit.dll
+0x0000000001f17880      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\TPVMMon.dll
+0x0000000001f17a48      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f17f90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f18798      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Windows Explorer.lnk
+0x0000000001f18980      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu
+0x0000000001f18b68      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Outlook Express\msimn.exe
+0x0000000001f19b78      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ssdpapi.dll
+0x0000000001f19eb8      1      1 ------ \Device\Afd\AsyncConnectHlp
+0x0000000001f1a640      1      1 ------ \Device\Afd\Endpoint
+0x0000000001f1b320      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x0000000001f1ba48      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\gmodule-2.0.dll
+0x0000000001f1cf90      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Cookies\index.dat
+0x0000000001f1da50      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f1dae8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\trkwks.dll
+0x0000000001f1df90      1      1 ------ \Device\Afd\Endpoint
+0x0000000001f1e4c0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\jsd3250.dll
+0x0000000001f1f400      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f1fb38      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wmisvc.dll
+0x0000000001f1ff40      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\defaults\autoconfig\platform.js
+0x0000000001f20028      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\intl.dll
+0x0000000001f20478      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cabinet.dll
+0x0000000001f205e8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winhttp.dll
+0x0000000001f21218      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Printme\PMAdobeIndex.url
+0x0000000001f212b0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\audiosrv.dll
+0x0000000001f219d8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\seclogon.dll
+0x0000000001f21f90      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\oldversion[1].js
+0x0000000001f22998      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\greprefs\xpinstall.js
+0x0000000001f22c38      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\aclui.dll
+0x0000000001f22d60      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\esdupdate.dll
+0x0000000001f22df8      1      1 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\CMap
+0x0000000001f24028      1      0 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Adobe\Acrobat\6.0\AcroForm\MRUFormsList
+0x0000000001f244f8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\powrprof.dll
+0x0000000001f24a38      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Entertainment\desktop.ini
+0x0000000001f24ae0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\comsnap.dll
+0x0000000001f24d00      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\ua.css
+0x0000000001f24e18      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\dxtmsft.dll
+0x0000000001f25538      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\schedsvc.dll
+0x0000000001f26128      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001f26528      1      1 ------ \Device\NamedPipe\net\NtControlPipe8
+0x0000000001f26a98      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ntlanman.dll
+0x0000000001f284b0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\trebuc.ttf
+0x0000000001f288b0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\multimedia[1].gif
+0x0000000001f28ad8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\cmd.exe
+0x0000000001f28c08      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001f292a0      1      1 ------ \Device\NamedPipe\srvsvc
+0x0000000001f29418      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\hp_55[1].js
+0x0000000001f2a078      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\mangal.ttf
+0x0000000001f2a768      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\moricons.dll
+0x0000000001f2a9a8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Windows Media Player\npwmsdrm.dll
+0x0000000001f2bae0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\arrow.gif
+0x0000000001f2c1a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\lmhsvc.dll
+0x0000000001f2c378      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000001f2c560      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mstask.dll
+0x0000000001f2c628      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001f2c740      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001f2d468      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001f2ebc8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001f300f0      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\SoftwareDistribution\DataStore\Logs\tmp.edb
+0x0000000001f30308      3      1 ------ \Device\NamedPipe\net\NtControlPipe8
+0x0000000001f30588      3      1 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\mof
+0x0000000001f30a30      1      1 ------ \Device\NamedPipe\atsvc
+0x0000000001f30c00      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\grid[1].gif
+0x0000000001f345e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\micross.ttf
+0x0000000001f34920      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dhcpcsvc.dll
+0x0000000001f34b70      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\iconv.dll
+0x0000000001f34c38      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001f35028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\activeds.dll
+0x0000000001f35130      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rasman.dll
+0x0000000001f355a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rasapi32.dll
+0x0000000001f358c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\adsldpc.dll
+0x0000000001f36758      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\clbcatq.dll
+0x0000000001f36a00      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\inetpp.dll
+0x0000000001f36a98      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msimg32.dll
+0x0000000001f372e8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001f375f8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rastls.dll
+0x0000000001f37730      2      1 ------ \Device\NamedPipe\keysvc
+0x0000000001f37868      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msxml3.dll
+0x0000000001f37900      1      1 ------ \Device\NamedPipe\winreg
+0x0000000001f37f30      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Entertainment\desktop.ini
+0x0000000001f38b50      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\charmap.exe
+0x0000000001f391b8      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x0000000001f39b60      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\NetworkService\ntuser.dat.LOG
+0x0000000001f39f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f3a340      1      1 ------ \Device\NamedPipe\net\NtControlPipe3
+0x0000000001f3a738      3      1 ------ \Device\NamedPipe\net\NtControlPipe2
+0x0000000001f3aba0      2      1 ------ \Device\Afd\Endpoint
+0x0000000001f3adb8      2      1 ------ \Device\Afd\Endpoint
+0x0000000001f3b2c8      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu
+0x0000000001f3b3e0      1      1 R--rw- \Device\HarddiskVolume1\Program Files\VMware\VMware Tools
+0x0000000001f3e028      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\spool\drivers\color
+0x0000000001f3e130      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0405
+0x0000000001f3e258      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0404
+0x0000000001f3e380      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0401
+0x0000000001f3e4a8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT\Accessories
+0x0000000001f3e5d0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\wbem\xml
+0x0000000001f3e6f8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\VGX
+0x0000000001f3e8b0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\pchealth\UploadLB\Binaries
+0x0000000001f3ec60      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f3ecf8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Help\Tours\mmTour
+0x0000000001f3ee20      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\IME\TINTLGNT
+0x0000000001f3f4b0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f3f740      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f3f868      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0009
+0x0000000001f3fd70      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imkr6_1\dicts
+0x0000000001f3fe98      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\usmt
+0x0000000001f40700      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\sensapi.dll
+0x0000000001f40838      2      1 ------ \Device\NamedPipe\Winsock2\CatalogChangeListener-410-0
+0x0000000001f415b0      2      1 ------ \Device\NamedPipe\ntsvcs
+0x0000000001f418c0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\cour.ttf
+0x0000000001f41f68      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\CHTIME\Applets
+0x0000000001f42028      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system
+0x0000000001f420f0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\drivers\disdn
+0x0000000001f42218      2      1 R--rw- \Device\HarddiskVolume1\Program Files\NetMeeting
+0x0000000001f42420      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f42718      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f428d0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\pchealth\helpctr\binaries
+0x0000000001f42a88      2      1 R--rw- \Device\HarddiskVolume1\Program Files\MSN Gaming Zone\Windows
+0x0000000001f42d30      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\msagent\intl
+0x0000000001f42f20      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\msagent
+0x0000000001f43d78      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\ddraw.dll
+0x0000000001f44558      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator
+0x0000000001f449a8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\sfc_os.dll
+0x0000000001f44be8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\sfc.dll
+0x0000000001f44e58      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\sfc.dll
+0x0000000001f45938      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ws2help.dll
+0x0000000001f45a68      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\certcli.dll
+0x0000000001f45b00      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winlogon.exe
+0x0000000001f47028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ws2_32.dll
+0x0000000001f472d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemprox.dll
+0x0000000001f47520      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html.css
+0x0000000001f476d8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\svchost.exe
+0x0000000001f47b10      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cscdll.dll
+0x0000000001f47d30      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Entertainment\Windows Media Player.lnk
+0x0000000001f48118      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\regapi.dll
+0x0000000001f48a70      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\AppPatch\AcGenral.dll
+0x0000000001f48ef8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ntdsapi.dll
+0x0000000001f49028      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\servsupp
+0x0000000001f49840      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rsaenh.dll
+0x0000000001f49940      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000001f49a68      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\bin\1033
+0x0000000001f49b00      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin
+0x0000000001f49d48      2      1 R--rw- \Device\HarddiskVolume1\Program Files\microsoft frontpage\version3.0\bin
+0x0000000001f49f00      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\bots\vinavbar
+0x0000000001f4a028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mswsock.dll
+0x0000000001f4a0e0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\drivers
+0x0000000001f4a178      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts
+0x0000000001f4a2a0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\bin
+0x0000000001f4a3c8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\inetsrv
+0x0000000001f4a4f0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin\_vti_aut
+0x0000000001f4a618      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi\_vti_aut
+0x0000000001f4a740      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Help
+0x0000000001f4a7d8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001f4a990      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin\_vti_adm
+0x0000000001f4af28      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wshtcpip.dll
+0x0000000001f4b2d8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f4b4e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\rsaenh.dll
+0x0000000001f4bae0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f4bf28      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f4d038      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001f4d1b8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9\comctl32.dll
+0x0000000001f4d380      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\scesrv.dll
+0x0000000001f4d620      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001f4dbb8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001f4dd20      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\secmod.db
+0x0000000001f5f3c0      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netapi32.dll
+0x0000000001f5f690      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wintrust.dll
+0x0000000001f5fa38      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msasn1.dll
+0x0000000001f5fed0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\authz.dll
+0x0000000001f60138      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\profmap.dll
+0x0000000001fc0710      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\hnetcfg.dll
+0x0000000001fc0980      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wdigest.dll
+0x0000000001fc0b18      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi\_vti_adm
+0x0000000001fc0bb0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\AppPatch
+0x0000000001fc0e38      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\cmessage.txt
+0x0000000001fc0ed0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\w32time.dll
+0x0000000001fc1490      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\Magnifier.lnk
+0x0000000001fc2e90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\firefox.exe
+0x0000000001fc72b0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001fc74e8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001fc7580      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001fc7868      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001fc7cc8      2      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\system32\config\systemprofile\Cookies\index.dat
+0x0000000001fcc340      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\basesrv.dll
+0x0000000001fcc588      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cryptui.dll
+0x0000000001fcc858      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\userenv.dll
+0x0000000001fccb28      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\apphelp.dll
+0x0000000001fccda8      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\crypt32.dll
+0x0000000001fcf160      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vga.dll
+0x0000000001fcf2c0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\vgaoem.fon
+0x0000000001fcf970      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\drivers\dxg.sys
+0x0000000001fd28d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\smss.exe
+0x0000000001fd2d18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\olecli32.dll
+0x0000000001fd33e8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\communications[1].gif
+0x0000000001fd3810      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}\install.rdf
+0x0000000001fd3f28      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001fd4028      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\toolkit.manifest
+0x0000000001fd4148      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\grey_box_2010[1].jpg
+0x0000000001fd4598      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001fd47c0      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-image.gif
+0x0000000001fd4a80      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000001fd4b18      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\abg-en-100c-ffffff[1].png
+0x0000000001fd4e18      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Outlook Express.lnk
+0x0000000001fd5e90      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\My Documents\desktop.ini
+0x0000000001fd9440      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\mvboli.ttf
+0x0000000001fd9760      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\couri.ttf
+0x0000000001fd98a8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\SendMail.api
+0x0000000001fd9940      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Search5.api
+0x0000000001fd9f90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Hearts.lnk
+0x0000000001fda7a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001fdb778      2      1 ------ \Device\NamedPipe\wkssvc
+0x0000000001fdb8a8      2      1 ------ \Device\NamedPipe\wkssvc
+0x0000000001fdbdd0      1      1 ------ \Device\NamedPipe\keysvc
+0x0000000001fdbe78      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001fdc320      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cryptsvc.dll
+0x0000000001fdc530      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wkssvc.dll
+0x0000000001fdcef8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winipsec.dll
+0x0000000001fdcf90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001fdd708      1      1 ------ \Device\NamedPipe\spoolss
+0x0000000001fddcd8      2      1 ------ \Device\NamedPipe\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x0000000001fdf7c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001fdfde8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001fdff90      2      1 R--rwd \Device\HarddiskVolume1\$Extend\$ObjId
+0x0000000001fe05d0      2      1 ------ \Device\Afd\Endpoint
+0x0000000001fe14f8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\pstorsvc.dll
+0x0000000001fe16c8      2      1 ------ \Device\NamedPipe\spoolss
+0x0000000001fe2410      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msv1_0.dll
+0x0000000001fe2e80      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\raschap.dll
+0x0000000001fe3028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\impact.ttf
+0x0000000001fe3a80      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\compreg.dat
+0x0000000001fe3ed0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\atl.dll
+0x0000000001fe4920      1      1 ------ \Device\NamedPipe\trkwks
+0x0000000001fe49b8      2      1 ------ \Device\NamedPipe\epmapper
+0x0000000001fe5db8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\xpti.dat
+0x0000000001fe67f0      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x0000000001fe6cc8      1      1 ------ \Device\NamedPipe\epmapper
+0x0000000001fe8cd8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001fe8e08      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\tapi32.dll
+0x0000000001fe9600      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dnsrslvr.dll
+0x0000000001fe9a98      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\LocalService\ntuser.dat.LOG
+0x0000000001fe9c48      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\LocalService\NTUSER.DAT
+0x0000000001fe9f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001fea5e0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dhcpcsvc.dll
+0x0000000001feb6d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dispex.dll
+0x0000000001febcc8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\IA32.api
+0x0000000001fec028      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\Cache\_CACHE_MAP_
+0x0000000001fec730      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\MSCTF.dll
+0x0000000001fec9a8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Tour Windows XP.lnk
+0x0000000001fecb50      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\xpsp2res.dll
+0x0000000001fed308      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\riched20.dll
+0x0000000001fed518      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001fed730      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001feda50      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\tapi32.dll
+0x0000000001fedc80      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001fedd18      1      1 ------ \Device\NamedPipe\net\NtControlPipe5
+0x0000000001fee0a8      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\search[4]
+0x0000000001feeaf8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\CoolType.dll
+0x0000000001feec88      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rasadhlp.dll
+0x0000000001fef3e8      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x0000000001ff0540      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001ff07d8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000001ff0b28      1      1 ------ \Device\NamedPipe\net\NtControlPipe2
+0x0000000001ff0d10      1      1 ------ \Device\Afd\AsyncConnectHlp
+0x0000000001ff0ec8      3      1 ------ \Device\NamedPipe\net\NtControlPipe5
+0x0000000001ff0f90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ff3118      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0425
+0x0000000001ff3260      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041e
+0x0000000001ff3388      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041a
+0x0000000001ff34b0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0418
+0x0000000001ff35d8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0402
+0x0000000001ff3700      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0C0A
+0x0000000001ff3828      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0816
+0x0000000001ff39a0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0804
+0x0000000001ff3ac8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0424
+0x0000000001ff3bf0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041f
+0x0000000001ff3d18      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041D
+0x0000000001ff3e40      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041b
+0x0000000001ff3f68      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0419
+0x0000000001ff42c0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Movie Maker
+0x0000000001ff4718      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000001ff4ac0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna
+0x0000000001ff4c28      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\SpeechEngines\Microsoft\Lexicon\1033
+0x0000000001ff4d50      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\IME\PINTLGNT
+0x0000000001ff4e78      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\shared
+0x0000000001ff50f8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT
+0x0000000001ff5348      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Triedit
+0x0000000001ff5418      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\advpack.dll
+0x0000000001ff5698      2      1 ------ \Device\Afd\Endpoint
+0x0000000001ff5f40      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imjp8_1
+0x0000000001ff6550      1      1 ------ \Device\NamedPipe\net\NtControlPipe7
+0x0000000001ff7f90      2      1 ------ \Device\NamedPipe\InitShutdown
+0x0000000001ff8028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\umpnpmgr.dll
+0x0000000001ff8d88      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemcons.dll
+0x0000000001ff8f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\lsasrv.dll
+0x0000000001ff9158      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vmx_fb.dll
+0x0000000001ff94c8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x0000000001ff97b8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msvcp60.dll
+0x0000000001ff9d70      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ff9f68      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cryptdll.dll
+0x0000000001ffaaf0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000001ffac50      1      0 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\lowsec\user.ds
+0x0000000001fface8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\show_ads[2].js
+0x0000000001ffadf0      3      1 R--r-- \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\plugtmp\PDF.php
+0x0000000001ffae88      1      1 ------ \Device\NamedPipe\ROUTER
+0x0000000001ffb028      2      1 ------ \Device\NamedPipe\lsass
+0x0000000001ffb3e8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\spool\drivers\color\is330.icm
+0x0000000001ffb510      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\desktop.ini
+0x0000000001ffbb90      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\pala.ttf
+0x0000000001ffbef8      2      1 RWDrw- \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Perflib_Perfdata_f4.dat
+0x0000000001ffbf90      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\verdanaz.ttf
+0x0000000001ffd1c8      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\win32k.sys
+0x0000000001ffe880      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\uxtheme.dll
+0x0000000001ffeb48      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\wst_czec.fon
+0x0000000001ffff90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msv1_0.dll
+0x0000000002000028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000002041870      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Cache\Adobe Reader 6.0\ENUBIG\Data1.cab
+0x00000000020429a8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000020453b0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\olecnv32.dll
+0x000000000204e228      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\pstorec.dll
+0x000000000204e2e8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\olesvr32.dll
+0x000000000204f4b0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\locale.nls
+0x0000000002054ab8      1      0 -WD--- \Device\HarddiskVolume1\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\ComDb.Dat
+0x0000000002054f90      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\History\History.IE5\index.dat
+0x0000000002057028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\vgasys.fon
+0x0000000002057630      3      0 RWD--- \Device\HarddiskVolume1\$BitMap
+0x0000000002057c20      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\oleaut32.dll
+0x0000000002058178      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\samsrv.dll
+0x00000000020584c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\explorer.exe
+0x0000000002058720      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\eBay.gifew
+0x0000000002058a28      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cnbjmon.dll
+0x0000000002059340      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\tcpmon.dll
+0x0000000002059c60      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002059dc8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\pjlmon.dll
+0x000000000205a398      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\samlib.dll
+0x000000000205a7a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shimeng.dll
+0x000000000205ac58      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dnsapi.dll
+0x000000000205c028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\lsass.exe
+0x000000000205c3d0      2      1 ------ \Device\Afd\Endpoint
+0x000000000205c8b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\win.ini
+0x000000000205c950      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\smalle.fon
+0x000000000205ce80      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\modern.fon
+0x000000000205dee8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\narrator.exe
+0x0000000002060380      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\kernel32.dll
+0x0000000002061cc0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\iphlpapi.dll
+0x00000000020a1bb0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\toolkit.jar
+0x00000000020a2dc0      2      1 ------ \Device\NamedPipe\lsass
+0x00000000020b69e8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\lz32.dll
+0x00000000020b8218      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Cookies\index.dat
+0x00000000020b8338      2      1 ------ \Device\NamedPipe\lsass
+0x00000000020bd440      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_91481303
+0x00000000020be028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\sortkey.nls
+0x00000000020be598      1      1 R----- \Device\HarddiskVolume1\WINDOWS\system32\lowsec\user.ds
+0x00000000020be8c8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\AccessibleMarshal.dll
+0x00000000020bf178      2      1 ------ \Device\NamedPipe\lsass
+0x00000000020c0b68      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x00000000020c1960      1      1 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Messages\ENU\RdrMsgENU.pdf
+0x00000000020c1a38      3      1 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\drivers\etc
+0x00000000020c1ba8      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\components\xpinstal.dll
+0x00000000020c1cd0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\creativecommons.src
+0x00000000020c3028      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mydocs.dll
+0x00000000020c31a0      1      1 ------ \Device\NamedPipe\lsarpc
+0x00000000020c3e98      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\estre.ttf
+0x00000000020c50c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cscdll.dll
+0x00000000020c5420      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\generatedPublisherConfig[2].js
+0x00000000020c5a98      3      1 ------ \Device\NamedPipe\net\NtControlPipe6
+0x00000000020c5eb8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000020c6e68      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\defaults\pref\firefox.js
+0x00000000020c6f90      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\answers.src
+0x00000000020c7298      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000020c73b0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000020c74d8      1      1 ------ \Device\NamedPipe\net\NtControlPipe6
+0x00000000020c7680      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\43A225B7742FAFAA1C96B01C63A6E[1].gif
+0x00000000020c7720      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\desktop.ini
+0x00000000020c77b8      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT\Accessories\wordpad.exe
+0x00000000020c7bf0      3      1 ------ \Device\NamedPipe\net\NtControlPipe0
+0x00000000020c8150      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winspool.drv
+0x00000000020c8500      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\comres.dll
+0x00000000020c8730      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wlnotify.dll
+0x00000000020c8ef8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\XFA.api
+0x00000000020c8f90      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x00000000020c9378      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Data Sources (ODBC).lnk
+0x00000000020c9d20      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Backup.lnk
+0x00000000020ca558      2      1 ------ \Device\NamedPipe\winreg
+0x00000000020ca5f0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\oakley.dll
+0x00000000020cad18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winrnr.dll
+0x00000000020cb988      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wsock32.dll
+0x00000000020cbaf8      2      1 ------ \Device\RawIp\47
+0x00000000020cc028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000020cc738      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rpcss.dll
+0x00000000020cc8a8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ntmarta.dll
+0x00000000020cd440      2      1 ------ \Device\NamedPipe\Ctx_WinStation_API_service
+0x00000000020cd4d8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x00000000020cd730      3      1 ------ \Device\NamedPipe\net\NtControlPipe1
+0x00000000020d01e0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\PeerNet
+0x00000000020d0308      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Speech\1033
+0x00000000020d03a0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\SpeechEngines\Microsoft
+0x00000000020d0658      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000020d06f0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\wbem\snmp
+0x00000000020d0818      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna\Shell\Metallic
+0x00000000020d0900      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna\Shell\Homestead
+0x00000000020d0be0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna\Shell\NormalColor
+0x00000000020d0d08      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Speech
+0x00000000020d0f00      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700\msvcp80.dll
+0x00000000020d15f0      5      1 RWDr-- \Device\HarddiskVolume1\System Volume Information\tracking.log
+0x00000000020d2028      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\Com
+0x00000000020d2ee0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\Setup
+0x00000000020d36d0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Windows Media Player\wmplayer.exe
+0x00000000020d37a0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000020d3d80      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000020d4280      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shsvcs.dll
+0x00000000020d4600      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\w3ssl.dll
+0x00000000020d48a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\odbcint.dll
+0x00000000020d4938      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\odbcint.dll
+0x00000000020d4b10      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\strmfilt.dll
+0x00000000020d4ba8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\WindowsShell.Manifest
+0x00000000020d4e08      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9\comctl32.dll
+0x00000000020d5690      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msprivs.dll
+0x00000000020d6350      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\wst_engl.fon
+0x00000000020d9780      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\History\History.IE5\index.dat
+0x00000000020d9b20      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\perfproc.dll
+0x00000000020da028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\psapi.dll
+0x00000000020da2e8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\geo.nls
+0x00000000020da9e8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\extensions.rdf
+0x00000000020daea0      1      1 ------ \Device\Afd\Endpoint
+0x00000000020db380      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000020db4a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\csrsrv.dll
+0x00000000020f27a0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000020f2de8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\AppPatch\drvmain.sdb
+0x00000000020fd028      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\gdi32.dll
+0x00000000020fdd20      2      1 ------ \Device\NamedPipe\lsass
+0x0000000002104800      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\comdlg32.dll
+0x0000000002106aa8      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\advapi32.dll
+0x000000000210b6e0      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msvcrt.dll
+0x000000000210b9b0      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\comctl32.dll
+0x000000000210bc58      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shlwapi.dll
+0x0000000002110028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\ntdll.dll
+0x0000000002114590      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\unicode.nls
+0x0000000002129e80      3      0 RWD--- \Device\HarddiskVolume1\$Mft
+0x0000000002135470      1      0 R--r-d \Device\HarddiskVolume1\PROGRA~1\MSNGAM~1\Windows\Rvseres.dll
+0x0000000002136028      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000021364f0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002136728      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x0000000002261190      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\sndrec32.exe
+0x0000000002261250      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\charsetalias.properties
+0x0000000002261b50      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\System Restore.lnk
+0x0000000002262f90      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\extensions.ini
+0x0000000002263428      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Startup\desktop.ini
+0x00000000022634c0      1      0 -WD--- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\bookmarkbackups\bookmarks-2010-02-27.html
+0x0000000002264120      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\pdf.ocx
+0x00000000022641b8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002264250      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\PrintMe Internet Printing\Learn More.lnk
+0x00000000022642e8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\url.dll
+0x00000000022644d8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002264970      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\regsvr32.exe
+0x0000000002264d98      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002265430      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsSetDefaultBrowser.js
+0x00000000022656c8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Accessibility\Accessibility Wizard.lnk
+0x0000000002265a40      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\acledit.dll
+0x0000000002266598      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\netshell.dll
+0x0000000002266630      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT\hypertrm.exe
+0x00000000022668a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mscms.dll
+0x0000000002266a90      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\b_13[2].css
+0x0000000002266e80      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Browser\nppdf32.dll
+0x0000000002267330      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002267738      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Windows Media Player\npdrmv2.dll
+0x00000000022677d0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Calculator.lnk
+0x0000000002268538      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\arrowd.gif
+0x0000000002268670      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsCloseAllWindows.js
+0x0000000002269d60      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000226b998      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\spool\drivers\color\sRGB Color Space Profile.icm
+0x000000000226bb68      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\Templates\legal_46.pdf
+0x000000000226c770      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\dpnet.dll
+0x000000000226c8e8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\osk.exe
+0x000000000226ce80      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\Templates\B5_fit.pdf
+0x000000000226cf90      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\components\jar50.dll
+0x000000000226d028      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\inetcpl.cpl
+0x000000000226d388      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000226dd90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\WordPad.lnk
+0x000000000226e028      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\pipe[1].gif
+0x000000000226e338      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\Templates\A4_fit.pdf
+0x000000000226e3e0      1      0 -W--w- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\CMap\AdobeFnt07.lst
+0x000000000226e6d0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000226eb18      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PictureTasks\OLS\Locale\ENU\manifest.xml
+0x000000000226ec40      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\weblink.api
+0x000000000226ecd8      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Javascripts\media.js
+0x000000000226f028      3      1 RW---- \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr106.tmp
+0x000000000226f0d0      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\compatibility.ini
+0x000000000226f5b8      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\areatool.gif
+0x00000000022705d0      1      0 -WD--- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\chrome\userChrome-example.css
+0x0000000002270728      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\els.dll
+0x00000000022707c0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Movie Maker\moviemk.exe
+0x0000000002271028      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Hearts.lnk
+0x00000000022713a8      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Optional\README.TXT
+0x0000000002271980      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002271b28      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002271cd0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002272028      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\Cache\_CACHE_003_
+0x00000000022720e0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\google.gif
+0x0000000002272260      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022725e8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002272748      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\forms.css
+0x0000000002272c68      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002273038      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002273368      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002273500      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\amazondotcom.src
+0x0000000002273618      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022737b0      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Application Data\desktop.ini
+0x00000000022743d0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022747e0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\printme.api
+0x0000000002274b98      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002274ed8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Multimedia\Multimedia.api
+0x0000000002275390      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\expansion_embed[2].js
+0x00000000022762f8      1      0 -WD--- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\bookmarks.bak
+0x0000000002276868      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\odbcad32.exe
+0x0000000002276e50      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Event Viewer.lnk
+0x0000000002276ee8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\freecell.exe
+0x0000000002277868      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\AcroRd32.exe
+0x0000000002277ee8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\Performance.lnk
+0x0000000002278630      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\measure_loop.gif
+0x0000000002278938      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\layerisvisible.gif
+0x0000000002279a20      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsExtensionManager.js
+0x0000000002279da0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000227ab20      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Minesweeper.lnk
+0x000000000227ae78      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\highlighter.gif
+0x000000000227af90      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\search.rdf
+0x000000000227b190      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\AdobePiStd.otf
+0x000000000227c300      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\desktop.ini
+0x000000000227c640      1      1 ------ \Device\Afd\AsyncConnectHlp
+0x000000000227d330      1      0 -W-r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\Logs\wbemess.log
+0x000000000227db88      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x000000000227dd20      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x000000000227ddb8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\SPPlugins\ExpressViews.apl
+0x000000000227de50      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x000000000227df68      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x000000000227f608      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x000000000227f770      2      1 ------ \Device\NamedPipe\lsass
+0x000000000227fc28      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\bg_blue_2[1].gif
+0x0000000002280518      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT\Pinball\PINBALL.EXE
+0x0000000002281028      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\broken-image.gif
+0x0000000002281360      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\browserconfig.properties
+0x0000000002281680      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\ZX______.PFB
+0x0000000002282bd0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\6to4svc.dll
+0x0000000002283028      2      1 ------ \Device\NamedPipe\lsass
+0x0000000002283190      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ntlanman.dll
+0x00000000022838e0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002283d18      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\kvlc[1].png
+0x0000000002284188      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022845e8      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\CMap\Identity-H
+0x0000000002284ef8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\i[1].png
+0x0000000002285560      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\ariblk.ttf
+0x0000000002285790      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\courbd.ttf
+0x0000000002285ca0      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\prefs.js
+0x00000000022864b0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\$winnt$.inf
+0x0000000002286a20      3      1 ------ \Device\NamedPipe\net\NtControlPipe12
+0x00000000022876e8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002287888      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mfcsubs.dll
+0x0000000002289878      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002289b38      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mspaint.exe
+0x000000000228aa30      1      0 RW-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\install_status.log
+0x000000000228ad10      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x000000000228af90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\icfgnt5.dll
+0x000000000228b028      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat
+0x000000000228b198      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x000000000228b780      2      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Messages\ENU\RdrMsgENU.pdf
+0x000000000228c488      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Internet Explorer\IEXPLORE.EXE
+0x000000000228caa0      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\dap[1].js
+0x000000000228cd28      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\kvarr[1].gif
+0x000000000228ce48      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Startup\desktop.ini
+0x000000000228d598      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wups.dll
+0x000000000228d638      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dispex.dll
+0x000000000228d960      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-find.gif
+0x000000000228e9e0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\compatUI.dll
+0x000000000228ea78      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\classic.jar
+0x000000000228ebe8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Cookies\index.dat
+0x000000000228f8c8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\primedns[1].gif
+0x000000000228fd50      1      0 -WD--- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\mimeTypes.rdf
+0x000000000228ff90      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\abg[1].js
+0x0000000002290410      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002290520      1      0 R--r-- \Device\HarddiskVolume1\Documents and Settings\Administrator\Desktop\acrobat60.exe
+0x0000000002290978      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\plc4.dll
+0x0000000002290d40      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\desktop.ini
+0x00000000022910c8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\desktop.ini
+0x00000000022915a8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\banner_728x90freescan[1].jpg
+0x0000000002292180      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\uniplat.dll
+0x00000000022926c0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002292890      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\rcimlby.exe
+0x0000000002292f90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\msn_b2[1].gif
+0x0000000002293138      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\unimdm.tsp
+0x0000000002294028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000002294d20      1      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\ega.cpi
+0x00000000022955c0      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-telnet.gif
+0x0000000002295a20      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\header[1].gif
+0x0000000002295e20      2      0 RW---- \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr107.tmp
+0x0000000002295eb8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vdmdbg.dll
+0x00000000022960e0      1      1 ------ \Device\NamedPipe\net\NtControlPipe12
+0x0000000002296580      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000002296618      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\nav_logo7[1].png
+0x00000000022969c0      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Documents\My Pictures\Desktop.ini
+0x0000000002296ad8      1      1 RWD--- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\parent.lock
+0x0000000002297180      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wshext.dll
+0x00000000022977b0      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[5]
+0x0000000002297c10      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\wsock32.dll
+0x0000000002297cd0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002298028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\stobject.dll
+0x0000000002298170      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\mlang.dll
+0x0000000002298a38      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002298b58      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002298f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\batmeter.dll
+0x0000000002299190      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-binary.gif
+0x0000000002299428      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\MSIMTF.dll
+0x0000000002299998      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ddrawex.dll
+0x0000000002299bb8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\MSIMTF.dll
+0x000000000229a028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ddraw.dll
+0x000000000229a4a8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dxtmsft.dll
+0x000000000229a560      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ntdll.dll
+0x000000000229a698      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\atl.dll
+0x000000000229ace8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\webcheck.dll
+0x000000000229adb0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x000000000229b028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\icfgnt5.dll
+0x000000000229b488      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x000000000229c0f0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\webdings.ttf
+0x000000000229c3e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\raavi.ttf
+0x000000000229c870      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Freecell.lnk
+0x000000000229ca40      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\eBay.src
+0x000000000229cc98      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x000000000229d090      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\latha.ttf
+0x000000000229d830      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000229dab0      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\jquery[1].js
+0x000000000229df90      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x000000000229e5e8      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\xpcom_compat.dll
+0x000000000229e690      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\ie4uinit.exe
+0x000000000229fb68      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\profiles.ini
+0x000000000229fc00      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\notepad.exe
+0x000000000229ff90      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\js3250.dll
+0x00000000022a0330      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Application Data\VMware\VMware Tools\manifest.txt
+0x00000000022a0668      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a0788      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Desktop\acrobat60.exe
+0x00000000022a09b8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022a12e8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a1978      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rasdlg.dll
+0x00000000022a2028      2      1 ------ \Device\NamedPipe\lsass
+0x00000000022a2228      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a22c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\xpsp1res.dll
+0x00000000022a2460      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022a2a38      3      1 ------ \Device\Afd\Endpoint
+0x00000000022a3290      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msisip.dll
+0x00000000022a39f8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\dfrgres.dll
+0x00000000022a3b38      1      1 ------ \Device\NamedPipe\ROUTER
+0x00000000022a3db0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a3e58      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Disk Cleanup.lnk
+0x00000000022a4028      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\CD Burning
+0x00000000022a41a0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\DigSig.api
+0x00000000022a4388      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Windows Update.lnk
+0x00000000022a4590      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Wireless Network Setup Wizard.lnk
+0x00000000022a4728      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuauclt.exe
+0x00000000022a5038      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a5148      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\shgina.dll
+0x00000000022a5218      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ntshrui.dll
+0x00000000022a5750      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022a5cb8      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Desktop
+0x00000000022a5dc8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a6028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\davclnt.dll
+0x00000000022a63f8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Windows Media Player\npdsplay.dll
+0x00000000022a6630      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a7680      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\VMwareTray.exe
+0x00000000022a7718      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Documents\My Videos\Desktop.ini
+0x00000000022a7950      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022a81d8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Backgammon.lnk
+0x00000000022a83a8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wscntfy.exe
+0x00000000022a8a38      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\framd.ttf
+0x00000000022a8cd8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a8e58      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022a9028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022a90d0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022a9380      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_3bf8fa05\mfc80u.dll
+0x00000000022a9418      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_3bf8fa05
+0x00000000022a9518      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\sigc-2.0.dll
+0x00000000022aa028      1      1 ------ \Device\NamedPipe\lsarpc
+0x00000000022aa0e0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\nspr4.dll
+0x00000000022aa4d0      3      1 ------ \Device\Afd\Endpoint
+0x00000000022aa738      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\wingding.ttf
+0x00000000022aa9f8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shdoclc.dll
+0x00000000022aade8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022abc98      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\JP2KLib.dll
+0x00000000022abd30      1      1 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox
+0x00000000022abdc8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\softokn3.dll
+0x00000000022ac7f8      3      1 ------ \Device\Afd\Endpoint
+0x00000000022ad028      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\defaults\pref\firefox-l10n.js
+0x00000000022ad240      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022ad580      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\tapisrv.dll
+0x00000000022ad8f0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022adbb8      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\xpti.dat.tmp
+0x00000000022adef8      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Recent
+0x00000000022ae2c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022ae688      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022ae8a0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022aebb0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000022af3e8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\c_28591.nls
+0x00000000022af4e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\atl.dll
+0x00000000022afb50      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Address Book.lnk
+0x00000000022b02e8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022b0940      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\js3250.dll
+0x00000000022b0ea8      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsProxyAutoConfig.js
+0x00000000022b0f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vmhgfs.dll
+0x00000000022b4028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netui1.dll
+0x00000000022b4af8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netrap.dll
+0x00000000022b4f68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msimg32.dll
+0x00000000022b8028      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\pluginreg.dat
+0x00000000022b8668      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\aaaamon.dll
+0x00000000022b8ac8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\KonaBase[1].js
+0x00000000022b8ea0      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-text.gif
+0x00000000022b9250      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\olygrad_2010[1].jpg
+0x00000000022b9460      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\Macromed\Flash\flash.ocx
+0x00000000022b9cd8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\catsrv.dll
+0x00000000022ba4f0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dnsapi.dll
+0x00000000022bb168      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022bc648      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wdmaud.drv
+0x00000000022bcb00      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\New Connection Wizard.lnk
+0x00000000022bd360      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dxtrans.dll
+0x00000000022bd560      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shfolder.dll
+0x00000000022be168      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Synchronize.lnk
+0x00000000022bef90      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\SY______.PFB
+0x00000000022bf278      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu
+0x00000000022bf720      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Disk Defragmenter.lnk
+0x00000000022bf820      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\imm32.dll
+0x00000000022bfd18      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x00000000022c09a0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022c0b48      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mspatcha.dll
+0x00000000022c0cb0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\cabinet.dll
+0x00000000022c1df8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cscui.dll
+0x00000000022c21c8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022c2f28      1      0 R--r-d \Device\HarddiskVolume1\PROGRA~1\MSNGAM~1\Windows\Shvlres.dll
+0x00000000022c31a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022c3298      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuauclt.exe
+0x00000000022c3bf0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\MSInfo\msinfo32.exe
+0x00000000022c4ef8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\framdit.ttf
+0x00000000022c4f90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022c50d0      1      1 RW---- \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr110.tmp
+0x00000000022c5a38      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Desktop\Mozilla Firefox.lnk
+0x00000000022c6868      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsPostUpdateWin.js
+0x00000000022c6900      1      1 ------ \Device\Afd\Endpoint
+0x00000000022c7368      1      1 ------ \Device\KSENUM#00000001\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x00000000022c7468      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\cscui.dll
+0x00000000022c79a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ssdpsrv.dll
+0x00000000022c7b98      1      1 ------ \Device\NamedPipe\ROUTER
+0x00000000022c9028      2      1 ------ \Device\NamedPipe\lsass
+0x00000000022c9468      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\midimap.dll
+0x00000000022c9bd8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\actxprxy.dll
+0x00000000022cadd8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022cbe68      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\w3ssl.dll
+0x00000000022cbf90      1      1 RW---- \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr10C.tmp
+0x00000000022cc0a8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\browseui.dll
+0x00000000022cc1c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\davclnt.dll
+0x00000000022cd358      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022cd930      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Installer\{AC76BA86-7AD7-1033-7B44-000000000001}\PRINTME_DOWNLOAD.ico
+0x00000000022cdbd8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\VMwareUser.exe
+0x00000000022cdde0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022ce028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemcons.dll
+0x00000000022ce198      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022ceb40      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\oledlg.dll
+0x00000000022cebd8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022cf488      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\browselc.dll
+0x00000000022cf538      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\perfos.dll
+0x00000000022cfd18      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022cff28      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Web\Wallpaper\Bliss.bmp
+0x00000000022d0428      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\msacm32.drv
+0x00000000022d0a40      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\iepeers.dll
+0x00000000022d0ad8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\c_1253.nls
+0x00000000022d1190      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Installer\{AC76BA86-7AD7-1033-7B44-000000000001}\SC_Reader_PM.ico
+0x00000000022d14c0      1      1 ------ \Device\Afd\Endpoint
+0x00000000022d1618      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netcfgx.dll
+0x00000000022d1850      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022d2c38      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\actxprxy.dll
+0x00000000022d34d8      2      1 ------ \Device\Afd\Endpoint
+0x00000000022d4998      2      1 ------ \Device\Afd\Endpoint
+0x00000000022d4b68      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\hnetcfg.dll
+0x00000000022d5f90      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\answers.old
+0x00000000022d6028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x00000000022d70e0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022d7178      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\wupdmgr.exe
+0x00000000022d7210      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mfc42.dll
+0x00000000022d7f20      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\History\desktop.ini
+0x00000000022d8be0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mshtmled.dll
+0x00000000022d92e0      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\ntuser.dat.LOG
+0x00000000022d9558      1      1 ------ \Device\Afd\Endpoint
+0x00000000022da0f8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022da3d8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Cookies\index.dat
+0x00000000022da470      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\History\History.IE5\index.dat
+0x00000000022dab40      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022dabd8      1      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\SoftwareDistribution\ReportingEvents.log
+0x00000000022dac90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wmiprvsd.dll
+0x00000000022dad60      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\upnp.dll
+0x00000000022daf90      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022db458      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\rtutils.dll
+0x00000000022db6a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\clusapi.dll
+0x00000000022db9d0      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\greprefs\all.js
+0x00000000022dc1b0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mtxclu.dll
+0x00000000022dc4c8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022dc840      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\comsvcs.dll
+0x00000000022dd1b0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wscsvc.dll
+0x00000000022ddc08      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\fastprox.dll
+0x00000000022ddf28      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\esscli.dll
+0x00000000022de230      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022de540      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemcomn.dll
+0x00000000022de700      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemprox.dll
+0x00000000022dfe78      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\CMap\Identity-V
+0x00000000022e02b0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\pngfilt.dll
+0x00000000022e04a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\pngfilt.dll
+0x00000000022e05a8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Search.api
+0x00000000022e0640      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\SaveAsRTF.api
+0x00000000022e0dd0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022e1798      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022e2340      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\drprov.dll
+0x00000000022e2520      3      1 ------ \Device\Afd\Endpoint
+0x00000000022e33b0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\tourstart.exe
+0x00000000022e4238      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022e42e8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mlang.dll
+0x00000000022e4398      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\imm32.dll
+0x00000000022e4430      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\MSCTF.dll
+0x00000000022e4530      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\System Tools\Scheduled Tasks.lnk
+0x00000000022e4768      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022e48a0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\linkinfo.dll
+0x00000000022e5028      1      1 ------ \Device\NamedPipe\W32TIME
+0x00000000022e5150      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msxml3r.dll
+0x00000000022e51e8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000022e5550      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\browser.dll
+0x00000000022e62a0      2      1 ------ \Device\NamedPipe\lsass
+0x00000000022e6338      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022e6e00      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\hgfsUsability.dll
+0x00000000022e8370      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x00000000022e8650      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Favorites\Desktop.ini
+0x00000000022e8988      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\ie6_25[2].css
+0x00000000022e91d0      3      1 ------ \Device\NamedPipe\net\NtControlPipe9
+0x00000000022e9d88      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vbscript.dll
+0x00000000022ea710      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022eaa98      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022eb5c8      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\atmfd.dll
+0x00000000022eb660      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Ace.dll
+0x00000000022eb780      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\hgfsServer.dll
+0x00000000022eb988      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022eba20      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022ebab8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022ebb50      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022ebbe8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022ebc80      3      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022eccd0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022ecef8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuauserv.dll
+0x00000000022f11b0      1      1 ------ \Device\Afd\Endpoint
+0x00000000022f13a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000022f1440      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wuaueng.dll
+0x00000000022f1568      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000022f1688      2      1 ------ \Device\NamedPipe\PCHFaultRepExecPipe
+0x00000000022f17a0      2      1 ------ \Device\NamedPipe\PCHHangRepExecPipe
+0x00000000022f1df8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dmserver.dll
+0x00000000022f2028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\framedyn.dll
+0x00000000022f2178      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\e.exe
+0x00000000022f2578      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\vmtools.dll
+0x00000000022f2728      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000022f2a68      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\gthread-2.0.dll
+0x00000000022f2c18      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000022f2de8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\es.dll
+0x00000000022f3638      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\credui.dll
+0x00000000022f3878      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wzcsapi.dll
+0x00000000022f3ba8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netshell.dll
+0x00000000022f3cc8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netman.dll
+0x00000000022f4820      3      2 ------ \Device\RawIp\255
+0x00000000022f48b8      1      1 ------ \Device\Afd\Endpoint
+0x00000000022f4e78      1      1 ------ \Device\Afd\Endpoint
+0x00000000022f4f40      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\xpcom_core.dll
+0x00000000022f5128      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\guestInfo.dll
+0x00000000022f5338      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\uxtheme.dll
+0x00000000022f54b8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000022f5688      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022f5830      2      1 ------ \Device\NamedPipe\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x00000000022f5bc0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\autoUpgrade.dll
+0x00000000022f6360      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022f6f90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\resolutionSet.dll
+0x00000000022f7028      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022f70e8      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022f7180      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022f7218      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022f72b0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022f7348      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022f73e0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022f7c98      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Program Compatibility Wizard.lnk
+0x00000000022f7e78      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000022f7f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msi.dll
+0x00000000022f8068      1      0 -WD--- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\uninstall\install_wizard1.log
+0x00000000022f8d18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\psbase.dll
+0x00000000022f8e90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\vix.dll
+0x00000000022f9bd0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\ntkrnlpa.exe
+0x00000000022f9f28      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\timeSync.dll
+0x00000000022fa650     10      1 ------ \Device\Afd\Endpoint
+0x00000000022fb510      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\pipe[1].gif
+0x00000000022fb5b0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000022fb988      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\Narrator.lnk
+0x00000000022fbde0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\kmddsp.tsp
+0x00000000022fc8e0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator
+0x00000000022fc978      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\plugins\vmsvc\deployPkgPlugin.dll
+0x00000000022fcaa0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Communications\Network Setup Wizard.lnk
+0x00000000022fcb68      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000022fcef0      2      1 ------ \Device\NamedPipe\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x00000000022fd128      2      1 ------ \Device\NamedPipe\trkwks
+0x00000000022fe188      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msacm32.drv
+0x00000000022fe6c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\repdrvfs.dll
+0x00000000022fe9d8      1      1 ------ \Device\NamedPipe\EVENTLOG
+0x00000000022fede0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000022fff90      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\sens.dll
+0x0000000002300c50      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+0x0000000002300f28      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002301518      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vssapi.dll
+0x0000000002301708      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\srsvc.dll
+0x0000000002302620      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msidle.dll
+0x00000000023029d8      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[4]
+0x0000000002302a90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Annotations\Annots.api
+0x00000000023044c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shgina.dll
+0x00000000023047b0      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\SchedLgU.Txt
+0x0000000002305720      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsUpdateService.js
+0x0000000002305838      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\render_ads[2].js
+0x0000000002305a68      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\olybg_2010[1].gif
+0x0000000002306128      2      1 ------ \Device\NamedPipe\lsass
+0x0000000002306270      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\_ers_ocjkiU[2].js
+0x0000000002306830      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\test_domain[2].js
+0x0000000002306940      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\history.dat
+0x00000000023069d8      1      1 ------ \Device\Afd\Endpoint
+0x0000000002306ba8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Pinball.lnk
+0x0000000002307d60      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-movie.gif
+0x0000000002308b90      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\defaults\profile\localstore.rdf
+0x0000000002308d80      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\smime3.dll
+0x0000000002308ef8      1      0 RW---- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Microsoft\CryptnetUrlCache\MetaData\486CC6AFD08942336C61FCD401C4A1D1
+0x0000000002308f90      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\shell32.dll
+0x00000000023093d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\esent.dll
+0x0000000002309730      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wmi.dll
+0x0000000002309908      2      0 RWD--- \Device\HarddiskVolume1\$SetEndOfFileInfo
+0x0000000002309a08      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rtutils.dll
+0x0000000002309b70      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wzcsvc.dll
+0x000000000230a178      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\search[5]
+0x000000000230aa08      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\utilities[1].gif
+0x000000000230aaa0      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\compreg.dat.tmp
+0x000000000230abe8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x000000000230acb8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\ImageViewer\ImageViewer.API
+0x000000000230b028      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\kvrc[1].png
+0x000000000230b190      1      1 ------ \Device\Afd\Endpoint
+0x000000000230b400      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x000000000230b860      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\xpcom_core.dll
+0x000000000230be08      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x000000000230c188      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000230c840      2      1 ------ \Device\NTPNP_PCI0042\Topology
+0x000000000230cb40      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemsvc.dll
+0x000000000230cf90      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x000000000230ef90      2      1 ------ \Device\NamedPipe\atsvc
+0x000000000230f3b8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mswsock.dll
+0x000000000230f558      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Checkers.lnk
+0x000000000230ff28      1      0 -WD--- \Device\HarddiskVolume1\WINDOWS\system32\sdra64.exe
+0x0000000002310028      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Notepad.lnk
+0x0000000002310428      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002310bd8      2      1 R--r-- \Device\HarddiskVolume1\WINDOWS\Registration\R000000000007.clb
+0x0000000002313188      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\regsvc.dll
+0x0000000002313220      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\vmtoolsd.exe
+0x0000000002313338      1      1 ------ \Device\NamedPipe\winlogonrpc
+0x0000000002313ba8      1      0 R--r-d \Device\HarddiskVolume1\PROGRA~1\MOVIEM~1\WMM2RES.dll
+0x0000000002313f90      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\spider.exe
+0x0000000002314838      1      0 R--r-d \Device\HarddiskVolume1\PROGRA~1\MSNGAM~1\Windows\bckgres.dll
+0x00000000023148d8      2      1 ------ \Device\NamedPipe\ROUTER
+0x0000000002314970      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Messenger\msmsgs.exe
+0x0000000002314b70      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mprapi.dll
+0x0000000002314d18      1      1 ------ \Device\Afd\Endpoint
+0x0000000002314f28      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\acctres.dll
+0x00000000023150e8      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\chrome\browser.manifest
+0x00000000023156c8      2      1 ------ \Device\NamedPipe\lsass
+0x0000000002315bd0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\arial.ttf
+0x0000000002315d18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winrnr.dll
+0x00000000023161c8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0000000002316650      1      1 ------ \Device\NamedPipe\net\NtControlPipe4
+0x0000000002316a80      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002316de8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Desktop\Adobe Reader 6.0.lnk
+0x0000000002316f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_91481303\mfc80ENU.dll
+0x0000000002317028      1      1 ------ \Device\NamedPipe\lsarpc
+0x00000000023170f0      2      1 ------ \Device\NamedPipe\lsass
+0x0000000002317328      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\eBook.api
+0x0000000002317428      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\entityTables\transliterate.properties
+0x0000000002317600      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mshtml.dll
+0x0000000002317820      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\KonaLibInline[1].js
+0x0000000002317950      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\yahoo.src
+0x00000000023182f8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\olysilverbg_2010[1].gif
+0x0000000002318520      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\palabi.ttf
+0x00000000023185b8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Media\Windows XP Start.wav
+0x0000000002319cb0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\xpsp2res.dll
+0x0000000002319d78      3      1 ------ \Device\NamedPipe\net\NtControlPipe3
+0x0000000002319f58      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rpcss.dll
+0x000000000231aa98      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000231b7d8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\video[1].gif
+0x000000000231e088      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0416
+0x000000000231e1b0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0415
+0x000000000231e2d8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0414
+0x000000000231e400      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0413
+0x000000000231e528      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0412
+0x000000000231e650      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0411
+0x000000000231e778      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0410
+0x000000000231e8a0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\040e
+0x000000000231e9c8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\040D
+0x000000000231eaf0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\040C
+0x000000000231ec18      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\040b
+0x000000000231ed40      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0408
+0x000000000231ee68      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0407
+0x000000000231ef90      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0406
+0x000000000231f028      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Internet Explorer
+0x000000000231f0e8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imkr6_1
+0x000000000231f2c0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\MSInfo
+0x000000000231f870      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000231f908      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Internet Explorer\Connection Wizard
+0x000000000231fa30      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\xircom
+0x000000000231fd00      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imkr6_1\applets
+0x000000000231fe28      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imjp8_1\applets
+0x000000000231ff28      1      1 ------ \Device\NamedPipe\net\NtControlPipe9
+0x0000000002320320      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Windows Media Player
+0x00000000023204c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\clbcatq.dll
+0x0000000002320560      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winscard.dll
+0x0000000002320798      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\DAO
+0x0000000002320830      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS
+0x00000000023208c8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi
+0x0000000002320af0      1      1 ------ \Device\NamedPipe\protected_storage
+0x0000000002320c08      2      1 ------ \Device\NamedPipe\protected_storage
+0x0000000002321518      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\webclnt.dll
+0x0000000002322888      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002322e68      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[2]
+0x0000000002323760      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000023258d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ncobjapi.dll
+0x00000000023259e8      2      1 ------ \Device\NamedPipe\DAV RPC SERVICE
+0x0000000002325a80      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\script.fon
+0x0000000002326140      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\secur32.dll
+0x00000000023264b8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msacm32.dll
+0x0000000002326b80      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winmm.dll
+0x0000000002326f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\AppPatch\AcGenral.dll
+0x0000000002327430      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shdoclc.dll
+0x0000000002328280      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002328590      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\iphlpapi.dll
+0x0000000002328988      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\marlett.ttf
+0x0000000002328dc0      2      1 ------ \Device\NamedPipe\ntsvcs
+0x0000000002328ef8      2      1 ------ \Device\Afd\Endpoint
+0x0000000002328f90      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\tahoma.ttf
+0x00000000023292e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\winlogon.exe
+0x00000000023296d0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\tahomabd.ttf
+0x000000000234f028      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\imagehlp.dll
+0x000000000234fe88      1      1 ------ \Device\NamedPipe\lsarpc
+0x00000000023f0c40      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\olethk32.dll
+0x0000000002409338      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\WinSxS\Policies\x86_policy.6.0.Microsoft.Windows.Common-Controls_6595b64144ccf1df_x-ww_5ddad775\6.0.2600.2180.Policy
+0x00000000024100e8      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\fonts\fontEncoding.properties
+0x00000000024137f8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002413890      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024142b8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Internet Reversi.lnk
+0x0000000002414e58      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\XUL.mfl
+0x0000000002414ef8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mshearts.exe
+0x0000000002414f90      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\filemgmt.dll
+0x0000000002416028      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\fonts\fontNameMap.properties
+0x00000000024160e8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Bib.dll
+0x0000000002416180      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Entertainment\Volume Control.lnk
+0x0000000002416240      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\xpsp3res.dll
+0x0000000002416d68      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\Restore\rstrui.exe
+0x0000000002417c88      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\PrintMe Internet Printing\Download Driver.lnk
+0x00000000024185e8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\bookmarks.html
+0x00000000024189f8      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\AcroIEHelper.dll
+0x0000000002418a90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\ActiveX\AcroIEHelper.dll
+0x0000000002418b28      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\MSN.lnk
+0x0000000002418c58      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002418e10      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002418ef8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002418f90      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Accessories\Accessibility\desktop.ini
+0x0000000002419468      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\xpcom_compat.dll
+0x0000000002419500      3      1 ------ \Device\NamedPipe\_AVIRA_2108
+0x00000000024196a0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\sol.exe
+0x0000000002419738      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002419868      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002419900      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\Accessibility.api
+0x0000000002419e68      1      0 -WD--- \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\Mozilla\Firefox\Profiles\6e0nnrv4.default\chrome\userContent-example.css
+0x0000000002419f90      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-sound.gif
+0x000000000241a2e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\wzcdlg.dll
+0x000000000241a4d8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Start Menu\Programs\Accessories\Accessibility\Utility Manager.lnk
+0x000000000241a570      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\search[7]
+0x000000000241a6b8      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\search[5]
+0x000000000241ae10      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\mshtml.tlb
+0x000000000241bf90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\nssckbi.dll
+0x000000000241c028      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\sma8[1].js
+0x000000000241c648      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000241f5b8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000241fa90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PDDom.api
+0x0000000002420488      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\plug_ins\PPKLite.api
+0x0000000002420848      1      1 ------ \Device\NamedPipe\lsarpc
+0x0000000002420b50      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\PFM\zx______.pfm
+0x0000000002420e58      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font\PFM\zy______.pfm
+0x0000000002421aa8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\olyrbg_2010[1].gif
+0x0000000002421b40      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\olygbtn_2010[1].gif
+0x0000000002423260      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\graphics[1].gif
+0x0000000002423820      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002423df0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002424168      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\ftp[1].gif
+0x0000000002424280      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002424320      1      1 ------ \Device\NamedPipe\wkssvc
+0x00000000024245b0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002424718      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\filesharing[1].gif
+0x0000000002424ae8      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Javascripts\Annots.js
+0x0000000002424c10      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\internet[1].gif
+0x0000000002425d10      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Games\Solitaire.lnk
+0x00000000024262f8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu\Programs\Administrative Tools\desktop.ini
+0x0000000002427038      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002427228      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002427450      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x0000000002428028      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\res\html\gopher-menu.gif
+0x0000000002428418      1      0 -W---- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\HowTo\ENU\Images\addfile.gif
+0x0000000002428c88      1      0 RW-rwd \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\firefox1502[1].exe
+0x0000000002429b08      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\search[6]
+0x000000000243c7d0      1      0 -W-rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\softokn3.chk
+0x000000000244e028      2      1 ------ \Device\NamedPipe\lsass
+0x0000000002456028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mstlsapi.dll
+0x00000000024565e8      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x0000000002456720      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wshtcpip.dll
+0x0000000002457a00      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ole32.dll
+0x000000000245d4d0      3      0 RWD--- \Device\HarddiskVolume1\$Mft
+0x000000000245e928      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Mozilla Firefox\plugins\npnul32.dll
+0x000000000245fc58      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000245ff90      1      0 R--rw- \Device\HarddiskVolume1\Program Files\MSN Gaming Zone\Windows\chkrzm.exe
+0x00000000024620d8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0000000002462678      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\NetworkService\NTUSER.DAT
+0x0000000002462e90      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\config\SysEvent.Evt
+0x0000000002463390      2      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\config\SecEvent.Evt
+0x0000000002463638      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\config\AppEvent.Evt
+0x00000000024639b0      3      1 ------ \Device\NamedPipe\_AVIRA_2109
+0x0000000002464028      1      1 R----- \Device\HarddiskVolume1\WINDOWS\system32\sdra64.exe
+0x0000000002465028      2      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\system32\config\systemprofile\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x0000000002465308      1      1 ------ \Device\NamedPipe\net\NtControlPipe0
+0x0000000002465440      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\duser.dll
+0x00000000024654e0      2      1 ------ \Device\NamedPipe\lsass
+0x00000000024656c8      3      1 ------ \Device\NamedPipe\net\NtControlPipe7
+0x0000000002465e58      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x0000000002466af8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x00000000024679e0      2      1 ------ \Device\NamedPipe\SfcApi
+0x0000000002467ac8      1      1 ------ \Device\NamedPipe\SfcApi
+0x000000000246a180      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\SpeechEngines\Microsoft\TTS\1033
+0x000000000246a2a8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\Restore
+0x000000000246a440      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\chsime\applets
+0x000000000246a5e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msacm32.dll
+0x000000000246a680      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shfolder.dll
+0x000000000246aaa0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT\Pinball
+0x000000000246abc8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\shared\res
+0x000000000246ae18      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\spoolss.dll
+0x000000000246af40      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\npp
+0x000000000246b6f0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\admisapi\scripts
+0x000000000246b948      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\admcgi\scripts
+0x000000000246ba70      1      0 R--r-d \Device\HarddiskVolume1\Program Files\VMware\VMware Tools\vmacthlp.exe
+0x000000000246bc00      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\1033
+0x000000000246bc98      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\System
+0x000000000246c220      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\IME\CINTLGNT
+0x000000000246c668      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\wbem
+0x000000000246c870      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000246ce08      1      1 ------ \Device\NamedPipe\scerpc
+0x000000000246cf90      2      1 ------ \Device\NamedPipe\scerpc
+0x000000000246dc20      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x000000000246df90      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\search[4]
+0x000000000246e028      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\searchplugins\google.src
+0x000000000246e328      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\KD474HKH\oly_pipe_2010[1].gif
+0x000000000246ef90      1      0 R--r-d \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\ff_temp\xpcom.ns\bin\plc4.dll
+0x000000000246f360      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000246f5f0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000246f8f0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000246fc10      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000246ff90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\sxs.dll
+0x00000000024701d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wmiutils.dll
+0x00000000024710e8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\trebucit.ttf
+0x0000000002471bd0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\rasmontr.dll
+0x0000000002472598      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\8NWR8PY3\5146F629B72E6A89B01B5FF61E30B8[1].gif
+0x0000000002472698      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\imgutil.dll
+0x0000000002472ab0      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Updater\bootstrap.js
+0x0000000002472b98      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000024741c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\csrss.exe
+0x0000000002475118      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winsta.dll
+0x00000000024764b0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\schannel.dll
+0x00000000024766b0      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x00000000024a4210      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\sorttbls.nls
+0x00000000024a7500      1      1 ------ \Device\NamedPipe\lsarpc
+0x00000000024bf6a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024bfc28      2      1 RW--w- \Device\HarddiskVolume1\pagefile.sys
+0x00000000024c09c8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\12520850.cpx
+0x00000000024c0b50      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024c0f90      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat
+0x00000000024c1070      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\version.dll
+0x00000000024c1340      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\user32.dll
+0x00000000024c1630      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\urlmon.dll
+0x00000000024c19d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\url.dll
+0x00000000024c1ca0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shell32.dll
+0x00000000024c1f90      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\rpcrt4.dll
+0x00000000024c2310      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shdocvw.dll
+0x00000000024c2620      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wow32.dll
+0x00000000024c2728      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\nddeapi.dll
+0x00000000024ccc38      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\comicbd.ttf
+0x00000000024cda68      1      0 -W-r-- \Device\HarddiskVolume1\System Volume Information\_restore{834817DC-A3FD-4C6D-B5EC-0713C53C7E4B}\RP3\snapshot\_REGISTRY_MACHINE_SYSTEM
+0x00000000024d1570      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x00000000024d1690      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\12520437.cpx
+0x00000000024d1980      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\default.LOG
+0x00000000024d1a18      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\SAM.LOG
+0x00000000024d2028      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000024d21d8      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\system.LOG
+0x00000000024d2270      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\software.LOG
+0x00000000024d2308      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY.LOG
+0x00000000024d2538      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\SAM
+0x00000000024d26d0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x00000000024d28a8      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\default
+0x00000000024d2c18      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\system
+0x00000000024d2df0      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\software
+0x00000000024d30c0      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY
+0x00000000024d6740      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS
+0x00000000024d6840      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x00000000024da598      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\ctype.nls
+0x00000000024dabb0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ipsecsvc.dll
+0x00000000024df158      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\sndvol32.exe
+0x00000000024df298      2      1 ------ \Device\NamedPipe\winlogonrpc
+0x00000000024df4b0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024df670      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000024df868      1      1 ------ \Device\NamedPipe\lsarpc
+0x00000000024df9b8      3      1 R--rwd \Device\HarddiskVolume1\WINDOWS\Tasks
+0x00000000024dfad0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\acelpdec.ax
+0x00000000024dfbd0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\spoolsv.exe
+0x00000000024e0b28      3      1 ------ \Device\NamedPipe\net\NtControlPipe4
+0x00000000024e0bf0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024e3618      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000024e36b0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000024e3ea0      1      1 R----- \Device\HarddiskVolume1\WINDOWS\system32\lowsec\local.ds
+0x00000000024e4650      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\eventlog.dll
+0x00000000024e4838      2      1 ------ \Device\NamedPipe\Winsock2\CatalogChangeListener-3b4-0
+0x00000000024e5038      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000024e5cd0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winmm.dll
+0x00000000024e8028      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0426
+0x00000000024e8c20      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS
+0x00000000024e8dd8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\xerox\nwwia
+0x00000000024e8f00      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0427
+0x00000000024e9028      1      1 ------ \Device\NamedPipe\net\NtControlPipe1
+0x00000000024e90d8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\mui
+0x00000000024e9290      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\MSSoap\Binaries\Resources\1033
+0x00000000024e9448      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\MSSoap\Binaries
+0x00000000024e9530      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\oobe
+0x00000000024e9688      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Outlook Express
+0x00000000024e9880      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700\msvcr80.dll
+0x00000000024e9a30      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700
+0x00000000024e9bc0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\srchasst
+0x00000000024e9c58      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime
+0x00000000024e9f10      1      1 ------ \Device\NamedPipe\lsarpc
+0x00000000024ea2b8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024eac18      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\scecli.dll
+0x00000000024eb138      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\inf
+0x00000000024eb2e0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\Y9UHCP2P\grey_loader[1].gif
+0x00000000024eb378      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wtsapi32.dll
+0x00000000024eb5b0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\System\Ole DB
+0x00000000024eb978      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\System\ado
+0x00000000024ebc98      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x00000000024ebf68      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\System\msadc
+0x00000000024ec528      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\AppPatch\sysmain.sdb
+0x00000000024ec760      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data
+0x00000000024ec7f8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\services.exe
+0x00000000024ecdf8      1      1 ------ \Device\NamedPipe\InitShutdown
+0x00000000024ed2d8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\sxs.dll
+0x00000000024ed3a0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024ed710      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\odbc32.dll
+0x00000000024edf40      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msgina.dll
+0x00000000024ee380      1      1 ------ \Device\NamedPipe\DAV RPC SERVICE
+0x00000000024ee580      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\roman.fon
+0x00000000024eeb88      2      1 ------ \Device\NamedPipe\TerminalServer\AutoReconnect
+0x00000000024f0028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\imgutil.dll
+0x00000000024f00e8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\UDUFSTIB\new[1].gif
+0x00000000024f01e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\lucon.ttf
+0x00000000024f0510      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\History\History.IE5\index.dat
+0x00000000024f3028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\setupapi.dll
+0x00000000024f3448      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\perfdisk.dll
+0x00000000024f3b40      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024f43c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemess.dll
+0x00000000024f4460      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\trebucbd.ttf
+0x00000000024f4990      2      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\system32\config\systemprofile\Local Settings\History\History.IE5\index.dat
+0x00000000024f4ca8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\dllcache
+0x00000000024f4e28      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\INDEX.BTR
+0x00000000024f4ec0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\sserife.fon
+0x00000000024f51b8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000024f5360      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\OBJECTS.DATA
+0x00000000024f53f8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\coure.fon
+0x00000000024f5890      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\OBJECTS.MAP
+0x00000000024f5928      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\wst_swed.fon
+0x00000000024f5c78      2      1 ------ \Device\NamedPipe\lsass
+0x00000000024f5dc0      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\INDEX.MAP
+0x00000000024f5e58      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\wst_span.fon
+0x00000000024f6210      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\MAPPING.VER
+0x00000000024f62a8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\wst_ital.fon
+0x00000000024f6740      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\MAPPING2.MAP
+0x00000000024f67d8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\wst_germ.fon
+0x00000000024f69e0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\kerberos.dll
+0x00000000024f6d08      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\wst_fren.fon
+0x0000000002509a88      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wldap32.dll
+0x0000000002509d58      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wininet.dll
+0x000000000250a8c8      1      1 ------ \Device\NamedPipe\lsarpc
+0x000000000250ae10      2      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mpr.dll
+0x000000000250b328      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netlogon.dll
+0x000000000250b838      1      1 -W-rw- \Device\HarddiskVolume1\WINDOWS\Debug\PASSWD.LOG
+0x000000000250c398      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\vgafix.fon
+0x00000000025349b8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\msencode.dll
+0x000000000253b200      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x000000000253b6c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winsrv.dll
+0x000000000256a1d0      3      0 RWD--- \Device\HarddiskVolume1\$LogFile
+0x00000000025841d0      3      0 RWD--- \Device\HarddiskVolume1\$MftMirr
+0x00000000025b3dd8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x00000000025e3788      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Mozilla Firefox\components\nsXmlRpcClient.js

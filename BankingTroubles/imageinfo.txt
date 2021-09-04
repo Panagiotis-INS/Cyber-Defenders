@@ -1,0 +1,12 @@
+          Suggested Profile(s) : WinXPSP2x86, WinXPSP3x86 (Instantiated with WinXPSP2x86)
+                     AS Layer1 : IA32PagedMemoryPae (Kernel AS)
+                     AS Layer2 : FileAddressSpace (/home/neuro/challenges/CyberDefenders/BankingTroubles/Bob.vmem)
+                      PAE type : PAE
+                           DTB : 0x319000L
+                          KDBG : 0x80544ce0L
+          Number of Processors : 1
+     Image Type (Service Pack) : 2
+                KPCR for CPU 0 : 0xffdff000L
+             KUSER_SHARED_DATA : 0xffdf0000L
+           Image date and time : 2010-02-27 20:12:38 UTC+0000
+     Image local date and time : 2010-02-27 15:12:38 -0500
