@@ -118,7 +118,11 @@ cat all-javascripts-from-my.pdf |grep "eval"
 
 Started analyzing the functions and got the flag
 
-- Flag 11:
+- Flag 11:XiIHG
+
+On a Malware analysis VM I used:
+
+<code>https://github.com/servo/mozjs</code> and <code>https://blog.didierstevens.com/programs/spidermonkey/</code> in order to evaluate the exploit and get the code from the logs
 
 - Flag 12:```066f61950bdd31db4ba95959b86b5269```
 
