@@ -1,0 +1,125 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    420
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    484
+Command line : C:\Windows\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+csrss.exe pid:    524
+Command line : C:\Windows\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    532
+Command line : wininit.exe
+************************************************************************
+winlogon.exe pid:    560
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    608
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    620
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+lsm.exe pid:    628
+Command line : C:\Windows\system32\lsm.exe
+************************************************************************
+svchost.exe pid:    792
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+VBoxService.exe pid:    836
+Command line : system32\VBoxService.exe
+************************************************************************
+svchost.exe pid:    892
+Command line : C:\Windows\system32\svchost.exe -k rpcss
+************************************************************************
+svchost.exe pid:    984
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:   1012
+Command line : C:\Windows\system32\svchost.exe -k GPSvcGroup
+************************************************************************
+svchost.exe pid:   1024
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+SLsvc.exe pid:   1040
+Command line : C:\Windows\system32\SLsvc.exe
+************************************************************************
+svchost.exe pid:   1108
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1176
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:   1204
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+svchost.exe pid:   1352
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+spoolsv.exe pid:   1476
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1512
+Command line : C:\Windows\system32\svchost.exe -k apphost
+************************************************************************
+svchost.exe pid:   1556
+Command line : C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:   1568
+Command line : C:\Windows\system32\svchost.exe -k regsvc
+************************************************************************
+svchost.exe pid:   1680
+Command line : C:\Windows\System32\svchost.exe -k WerSvcGroup
+************************************************************************
+taskeng.exe pid:   1984
+Command line : taskeng.exe {6CB08E8B-D510-4679-AE0A-1A733C326820}
+************************************************************************
+taskeng.exe pid:   1444
+Command line : taskeng.exe {D55A4A0C-25DD-4DA7-A8BE-1DCE417A0C4D}
+************************************************************************
+dwm.exe pid:   1688
+Command line : "C:\Windows\system32\Dwm.exe"
+************************************************************************
+explorer.exe pid:    816
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+VBoxTray.exe pid:   1816
+Command line : "C:\Windows\System32\VBoxTray.exe" 
+************************************************************************
+cmd.exe pid:    612
+Command line : "C:\Windows\System32\cmd.exe" 
+************************************************************************
+svchost.exe pid:   2424
+Command line : C:\Windows\System32\svchost.exe -k tapisrv
+************************************************************************
+msdtc.exe pid:   2620
+Command line : C:\Windows\System32\msdtc.exe
+************************************************************************
+xampp-control.e pid:   2768
+Command line : "C:\xampp\xampp-control.exe" 
+************************************************************************
+httpd.exe pid:   2796
+Command line : c:\xampp\apache\bin\httpd.exe
+************************************************************************
+mysqld.exe pid:   2804
+Command line : "c:\xampp\mysql\bin\mysqld.exe" --defaults-file="c:\xampp\mysql\bin\my.ini" --standalone
+************************************************************************
+FileZillaServer pid:   2856
+Command line : c:\xampp\filezillaftp\filezillaserver.exe -compat -start
+************************************************************************
+httpd.exe pid:   2880
+Command line : C:\xampp\apache\bin\httpd.exe -d C:/xampp/apache
+************************************************************************
+wuauclt.exe pid:   2516
+Command line : "C:\Windows\system32\wuauclt.exe"
+************************************************************************
+cmd.exe pid:   1972
+Command line : "C:\Windows\System32\cmd.exe" 
+************************************************************************
+TrustedInstalle pid:   3848
+Command line : C:\Windows\servicing\TrustedInstaller.exe
+************************************************************************
+FTK Imager.exe pid:   2120
+Command line : "\\Vboxsvr\101\FTK-Imager\FTK Imager.exe" 

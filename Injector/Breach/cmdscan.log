@@ -1,0 +1,41 @@
+**************************************************
+CommandProcess: csrss.exe Pid: 524
+CommandHistory: 0x5a24708 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 17 LastAdded: 16 LastDisplayed: 16
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x2d8
+Cmd #0 @ 0xe907c8: ipconfig
+Cmd #1 @ 0xe91af8: cls
+Cmd #2 @ 0xe91db0: ipconfig
+Cmd #3 @ 0x5a34bd0: net user user1 user1 /add
+Cmd #4 @ 0x5a34eb8: net user user1 root@psut /add
+Cmd #5 @ 0x5a34c10: net user user1 Root@psut /add
+Cmd #6 @ 0x5a24800: cls
+Cmd #7 @ 0x5a34c58: net /?
+Cmd #8 @ 0x5a34d88: net localgroup /?
+Cmd #9 @ 0x5a34f48: net localgroup "Remote Desktop Users" user1 /add
+Cmd #10 @ 0x5a34c70: net /?
+Cmd #11 @ 0xe911b0: netsh /?
+Cmd #12 @ 0xe907e8: netsh firewall /?
+Cmd #13 @ 0xe91218: netsh firewall set service type = remotedesktop /?
+Cmd #14 @ 0xe91288: netsh firewall set service type = remotedesktop enable
+Cmd #15 @ 0xe91300: netsh firewall set service type=remotedesktop mode=enable
+Cmd #16 @ 0xe91380: netsh firewall set service type=remotedesktop mode=enable scope=subnet
+**************************************************
+CommandProcess: csrss.exe Pid: 524
+CommandHistory: 0x5a30950 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 2 LastAdded: 1 LastDisplayed: 1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x7ec
+Cmd #0 @ 0xe91970: netsh fireall set service type=remotedesktop mode=enable scope=subnet
+Cmd #1 @ 0x5a17b58: netsh firewall set service type=remotedesktop mode=enable scope=subnet
+Cmd #38 @ 0x5a30bc8:                 
+Cmd #39 @ 0x5a24890: et.exe
+Cmd #48 @ 0x5a24890: et.exe
+Cmd #49 @ 0xe91af8: cls
+**************************************************
+CommandProcess: csrss.exe Pid: 524
+CommandHistory: 0x5a30ad0 Application: httpd.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x3bc

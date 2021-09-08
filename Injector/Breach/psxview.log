@@ -1,0 +1,44 @@
+Offset(P)  Name                    PID pslist psscan thrdproc pspcid csrss session deskthrd ExitTime
+---------- -------------------- ------ ------ ------ -------- ------ ----- ------- -------- --------
+0x3efd5200 FileZillaServer        2856 True   True   True     True   True  True    True     
+0x019c1100 cmd.exe                1972 True   True   True     True   True  True    False    
+0x3f20eb88 svchost.exe            1024 True   True   True     True   True  True    True     
+0x3ef9ec70 mysqld.exe             2804 True   True   True     True   True  True    True     
+0x3f53bd90 services.exe            608 True   True   True     True   True  True    False    
+0x3f1ca020 taskeng.exe            1984 True   True   True     True   True  True    True     
+0x3f545d90 lsm.exe                 628 True   True   True     True   True  True    True     
+0x3ef8e5d0 msdtc.exe              2620 True   True   True     True   True  True    True     
+0x3f5ded90 VBoxService.exe         836 True   True   True     True   True  True    True     
+0x3f2dfd90 svchost.exe            1512 True   True   True     True   True  True    True     
+0x3ef68300 FTK Imager.exe         2120 True   True   True     True   True  True    True     
+0x3f5d4020 svchost.exe             792 True   True   True     True   True  True    True     
+0x3fa4cb70 TrustedInstalle        3848 True   True   True     True   True  True    True     
+0x3f2e6c28 svchost.exe            1568 True   True   True     True   True  True    False    
+0x3ef84d90 svchost.exe            2424 True   True   True     True   True  True    True     
+0x3f235630 svchost.exe            1108 True   True   True     True   True  True    True     
+0x3efaa020 xampp-control.e        2768 True   True   True     True   True  True    True     
+0x3f32b020 taskeng.exe            1444 True   True   True     True   True  True    True     
+0x3ee4d7c0 httpd.exe              2796 True   True   True     True   True  True    True     
+0x3f21e020 SLsvc.exe              1040 True   True   True     True   True  True    True     
+0x3f218020 svchost.exe            1012 True   True   True     True   True  True    True     
+0x3f5f0020 svchost.exe             892 True   True   True     True   True  True    True     
+0x3f4ed8c8 svchost.exe            1352 True   True   True     True   True  True    True     
+0x3f2365d0 svchost.exe            1176 True   True   True     True   True  True    True     
+0x3ee7b7f8 cmd.exe                 612 True   True   True     True   True  True    False    
+0x3f2cad90 spoolsv.exe            1476 True   True   True     True   True  True    True     
+0x3ee652a0 VBoxTray.exe           1816 True   True   True     True   True  True    True     
+0x3f23e020 svchost.exe            1204 True   True   True     True   True  True    True     
+0x29e02730 wuauclt.exe            2516 True   True   True     True   True  True    True     
+0x3ee368e0 explorer.exe            816 True   True   True     True   True  True    True     
+0x3f2f2d90 svchost.exe            1680 True   True   True     True   True  True    False    
+0x3ee2f168 dwm.exe                1688 True   True   True     True   True  True    True     
+0x3f542020 lsass.exe               620 True   True   True     True   True  True    False    
+0x3f2e4af0 svchost.exe            1556 True   True   True     True   True  True    True     
+0x3efd77a8 httpd.exe              2880 True   True   True     True   True  True    True     
+0x3f52c9f8 wininit.exe             532 True   True   True     True   True  True    True     
+0x3f206020 svchost.exe             984 True   True   True     True   True  True    True     
+0x3f47ed90 winlogon.exe            560 True   True   True     True   True  True    True     
+0x3f512208 csrss.exe               484 True   True   True     True   False True    True     
+0x02f57910 System                    4 True   True   True     True   False False   False    
+0x3f52d530 csrss.exe               524 True   True   True     True   False True    True     
+0x3f4382d0 smss.exe                420 True   True   True     True   False False   False    
