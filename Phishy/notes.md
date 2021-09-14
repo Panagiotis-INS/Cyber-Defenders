@@ -1,15 +1,14 @@
 # Author: Panagiotis Fiskilis/Neuro
 
+## Challenge name:Cyber Defenders:Phishy
+
 ## Description: ##
 
 ```
 A company’s employee joined a fake iPhone giveaway. Our team took a disk image of the employee's system for further analysis. As a security analyst, you are tasked to identify how the system was compromised.
 ```
 
-##Basic Housekeeping:##
-
-
-#Flags:
+# Flags:
 
 - Flag 1:```WIN-NF3JQEU4G0T```
 
