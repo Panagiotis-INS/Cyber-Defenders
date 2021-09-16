@@ -1,0 +1,32 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: 
+Evidence Number: 
+Unique Description: 
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for D:\Users\Mawso3a\Desktop\FirstHack.ad1:
+[Custom Content Sources]
+ Horcrux.E01:Partition 5 [14304MB]:NONAME [ext4]|[root]|boot|*(Wildcard,Consider Case,Include Subdirectories)
+ Horcrux.E01:Partition 5 [14304MB]:NONAME [ext4]|[root]|var|log|*(Wildcard,Consider Case,Include Subdirectories)
+ Horcrux.E01:Partition 5 [14304MB]:NONAME [ext4]|[root]|root|*(Wildcard,Consider Case,Include Subdirectories)
+[Computed Hashes]
+ MD5 checksum:    f7c4fab05c3a7473ed59b549eef5a509
+ SHA1 checksum:   8875899aa4c6498b410250d48503f64e283528e9
+
+Image information:
+ Acquisition started:   Tue May 25 15:33:49 2021
+ Acquisition finished:  Tue May 25 15:34:32 2021
+ Segment list:
+  D:\Users\0xMohammed\Desktop\FirstHack.ad1
+
+Image Verification Results:
+ Verification started:  Tue May 25 15:34:33 2021
+ Verification finished: Tue May 25 15:34:39 2021
+ MD5 checksum:    f7c4fab05c3a7473ed59b549eef5a509 : verified
+ SHA1 checksum:   8875899aa4c6498b410250d48503f64e283528e9 : verified
