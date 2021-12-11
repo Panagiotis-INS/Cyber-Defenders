@@ -1,0 +1,50 @@
+root:$6$3RcPs5kLpF6IM3z1$LgtNjuCm4VO3iX3CRosqwO9MlO8Y4/qHhjpZBCoJxRwp2WvyLl/VsjBkpbTo0cgBORry1.3sEOq8PGV4YARQ80:0:0:root:/root:/bin/bash
+bin:*:1:1:bin:/bin:/sbin/nologin
+daemon:*:2:2:daemon:/sbin:/sbin/nologin
+adm:*:3:4:adm:/var/adm:/sbin/nologin
+lp:*:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:*:5:0:sync:/sbin:/bin/sync
+shutdown:*:6:0:shutdown:/sbin:/sbin/shutdown
+halt:*:7:0:halt:/sbin:/sbin/halt
+mail:*:8:12:mail:/var/spool/mail:/sbin/nologin
+operator:*:11:0:operator:/root:/sbin/nologin
+games:*:12:100:games:/usr/games:/sbin/nologin
+ftp:*:14:50:FTP User:/var/ftp:/sbin/nologin
+nobody:*:65534:65534:Kernel Overflow User:/:/sbin/nologin
+dbus:!!:81:81:System message bus:/:/sbin/nologin
+systemd-coredump:!!:999:997:systemd Core Dumper:/:/sbin/nologin
+systemd-resolve:!!:193:193:systemd Resolver:/:/sbin/nologin
+tss:!!:59:59:Account used for TPM access:/dev/null:/sbin/nologin
+geoclue:!!:998:996:User for geoclue:/var/lib/geoclue:/sbin/nologin
+libstoragemgmt:!!:997:993:daemon account for libstoragemgmt:/var/run/lsm:/sbin/nologin
+qemu:!!:107:107:qemu user:/:/sbin/nologin
+clevis:!!:996:992:Clevis Decryption Framework unprivileged user:/var/cache/clevis:/sbin/nologin
+usbmuxd:!!:113:113:usbmuxd user:/:/sbin/nologin
+unbound:!!:995:991:Unbound DNS resolver:/etc/unbound:/sbin/nologin
+gluster:!!:994:990:GlusterFS daemons:/run/gluster:/sbin/nologin
+rpc:!!:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin
+avahi:!!:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin
+polkitd:!!:993:989:User for polkitd:/:/sbin/nologin
+rtkit:!!:172:172:RealtimeKit:/proc:/sbin/nologin
+pipewire:!!:992:988:PipeWire System Daemon:/var/run/pipewire:/sbin/nologin
+radvd:!!:75:75:radvd user:/:/sbin/nologin
+dnsmasq:!!:987:987:Dnsmasq DHCP and DNS server:/var/lib/dnsmasq:/sbin/nologin
+saslauth:!!:986:76:Saslauthd user:/run/saslauthd:/sbin/nologin
+cockpit-ws:!!:985:985:User for cockpit web service:/nonexisting:/sbin/nologin
+cockpit-wsinstance:!!:984:984:User for cockpit-ws instances:/nonexisting:/sbin/nologin
+chrony:!!:983:983::/var/lib/chrony:/sbin/nologin
+rpcuser:!!:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+colord:!!:982:982:User for colord:/var/lib/colord:/sbin/nologin
+sssd:!!:981:981:User for sssd:/:/sbin/nologin
+pulse:!!:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin
+setroubleshoot:!!:980:977::/var/lib/setroubleshoot:/sbin/nologin
+flatpak:!!:979:976:User for flatpak system helper:/:/sbin/nologin
+gdm:!!:42:42::/var/lib/gdm:/sbin/nologin
+gnome-initial-setup:!!:978:975::/run/gnome-initial-setup/:/sbin/nologin
+sshd:!!:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+tcpdump:!!:72:72::/:/sbin/nologin
+cyberdefenders:$6$HoZglLX7oL$BTWgEZdlHC9zZxd09R1iv9V.IKgPAQyLKQglMk248Tg9YdqIHz/jfI9Dm2H5XZJIlIhfqFWL.cA8r5BDQg6DF.:1000:1000:cyberdefenders:/home/cyberdefenders:/bin/bash
+rossatron:$6$VXPKT.St9Jp0S2FH$EKA.JwvuEIT175KLTbZS61sEsOz6vDbeh5/2iFDfpm3.roox5WYt999a4hrYcTXNfnEoLnWJuC4xo0NPmBirl0:1001:1001::/home/rossatron:/bin/bash
+chandler:$6$xdxNx4nGS0Vtzgce$POVKT0aEvAZ9ttELyuxacv2MCwsit6Dwvh9djrsI2RpTm/3YRPwM/8AKJKlmu71R35rDKfmCeUuF3jyPa7m9m/:1002:1002::/home/chandler:/bin/bash
+tribbiani.j:$6$HFhBsAvLO313zCa6$uRplyo7AFyfTbFRX.RbJxKk3CnEaq8NND04zH.iKn7rLU8Umt3wOyFqmA.d9sLCAVOrVWAu6wv88CUzcjBz5C1:1003:1003::/home/tribbiani.j:/bin/bash
+rachel:$5$Fv2PqfurMmI879J7$ALSJ.w4KTP.mHrHxM2FYV3ueSipCf/QSfQUlATmWuuB:1004:1004:Anon:/home/rachel:/bin/bash
