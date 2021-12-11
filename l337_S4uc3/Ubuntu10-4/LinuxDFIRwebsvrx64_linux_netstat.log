@@ -1,0 +1,188 @@
+UNIX 2496                  init/1     
+UNIX 3867                  init/1     
+UNIX 2601                  init/1     
+UNIX 4256                  init/1     
+UNIX 2598       upstart-udev-br/347   
+UNIX 2604                 udevd/349   
+UNIX 2635                 udevd/349   
+UNIX 2636                 udevd/349   
+UNIX 2636                 udevd/461   
+UNIX 2636                 udevd/462   
+TCP      0.0.0.0         :   22 0.0.0.0         :    0 LISTEN                       sshd/736  
+TCP      ::              :   22 ::              :    0 LISTEN                       sshd/736  
+UNIX 3852              rsyslogd/742   /dev/log
+UNIX 3843           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 3854           dbus-daemon/744   
+UNIX 3855           dbus-daemon/744   
+UNIX 3872           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 3918           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 3920           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 3999           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 3930           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 4034           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 3956           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 4318           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 3987           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 5134           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 4218           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 5387           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 5612           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 5691           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 5700           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 6490           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 5723           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 5989           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 6125           dbus-daemon/744   /var/run/dbus/system_bus_socket
+UNIX 3919            gdm-binary/766   
+UNIX 4064            gdm-binary/766   
+UNIX 3913        NetworkManager/771   
+UNIX 3917        NetworkManager/771   
+UNIX 3928        NetworkManager/771   
+UNIX 3945          avahi-daemon/776   
+UNIX 3948          avahi-daemon/776   
+UNIX 3953          avahi-daemon/776   /var/run/avahi-daemon/socket
+UNIX 3955          avahi-daemon/776   
+UDP      0.0.0.0         : 5353 0.0.0.0         :    0                      avahi-daemon/776  
+UDP      0.0.0.0         :41571 0.0.0.0         :    0                      avahi-daemon/776  
+UNIX 3945          avahi-daemon/781   
+UNIX 3949          avahi-daemon/781   
+UNIX 3986         modem-manager/783   
+UNIX 3992         modem-manager/783   
+UNIX 3997       console-kit-dae/785   
+UNIX 4033       console-kit-dae/785   
+UNIX 4216        wpa_supplicant/891   
+UNIX 4217        wpa_supplicant/891   
+UNIX 4254                 acpid/921   /var/run/acpid.socket
+UNIX 4427                 acpid/921   /var/run/acpid.socket
+UNIX 4269                 acpid/921   
+UNIX 6122                 acpid/921   /var/run/acpid.socket
+UNIX 4316       gdm-simple-slav/930   
+UNIX 5084       gdm-simple-slav/930   
+UNIX 5132       gdm-simple-slav/930   
+UNIX 5133       gdm-simple-slav/930   
+UNIX 5272       gdm-simple-slav/930   
+UNIX 5658       gdm-simple-slav/930   
+UNIX 5695       gdm-simple-slav/930   
+UNIX 4363                  Xorg/948   
+UNIX 4364                  Xorg/948   /tmp/.X11-unix/X1
+UNIX 4426                  Xorg/948   
+UNIX 5085                  Xorg/948   
+UNIX 5236                  Xorg/948   
+UNIX 5250                  Xorg/948   
+UNIX 5285                  Xorg/948   
+UNIX 5425                  Xorg/948   
+UNIX 5511                  Xorg/948   
+UNIX 5621                  Xorg/948   
+UNIX 5652                  Xorg/948   
+TCP      127.0.0.1       : 3306 0.0.0.0         :    0 LISTEN                     mysqld/965  
+UNIX 4449                mysqld/965   /var/run/mysqld/mysqld.sock
+UNIX 6532                mysqld/965   /var/run/mysqld/mysqld.sock
+TCP      ::1             :  631 ::              :    0 LISTEN                      cupsd/971  
+TCP      127.0.0.1       :  631 0.0.0.0         :    0 LISTEN                      cupsd/971  
+UNIX 4409                 cupsd/971   /var/run/cups/cups.sock
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1032 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1040 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1042 
+TCP      172.16.0.108    :   80 172.16.0.1      :49851 CLOSE_WAIT                apache2/1042 
+UNIX 6531               apache2/1042  
+TCP      0.0.0.0         : 4444 0.0.0.0         :    0 LISTEN                    apache2/1042 
+TCP      172.16.0.108    : 4444 172.16.0.1      :43614 ESTABLISHED               apache2/1042 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1043 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1045 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1047 
+UNIX 5235           dbus-launch/1105  
+UNIX 5249           dbus-launch/1105  
+UNIX 5246           dbus-daemon/1107  
+UNIX 5247           dbus-daemon/1107  
+UNIX 5248           dbus-daemon/1107  
+UNIX 5294           dbus-daemon/1107  
+UNIX 5428           dbus-daemon/1107  
+UNIX 5336           dbus-daemon/1107  
+UNIX 5443           dbus-daemon/1107  
+UNIX 5513           dbus-daemon/1107  
+UNIX 5449           dbus-daemon/1107  
+UNIX 5614           dbus-daemon/1107  
+UNIX 5685           dbus-daemon/1107  
+UNIX 5699           dbus-daemon/1107  
+UNIX 5819           dbus-daemon/1107  
+UNIX 6029           dbus-daemon/1107  
+UNIX 5284         gnome-session/1110  
+UNIX 5293         gnome-session/1110  
+UNIX 5310         gnome-session/1110  
+UNIX 5311         gnome-session/1110  /tmp/.ICE-unix/1110
+UNIX 5390         gnome-session/1110  
+UNIX 5392         gnome-session/1110  /tmp/orbit-gdm/linc-456-0-153b1716185af
+UNIX 5395         gnome-session/1110  /tmp/orbit-gdm/linc-456-0-153b1716185af
+UNIX 5524         gnome-session/1110  
+UNIX 5578         gnome-session/1110  
+UNIX 5689         gnome-session/1110  
+UNIX 6489         gnome-session/1110  
+UNIX 5333              gconfd-2/1126  /tmp/orbit-gdm/linc-466-0-1f7f79321678c
+UNIX 5335              gconfd-2/1126  
+UNIX 5386              gconfd-2/1126  
+UNIX 5391              gconfd-2/1126  /tmp/orbit-gdm/linc-466-0-1f7f79321678c
+UNIX 5394              gconfd-2/1126  
+UNIX 5435              gconfd-2/1126  /tmp/orbit-gdm/linc-466-0-1f7f79321678c
+UNIX 5438              gconfd-2/1126  
+UNIX 5518              gconfd-2/1126  /tmp/orbit-gdm/linc-466-0-1f7f79321678c
+UNIX 5521              gconfd-2/1126  
+UNIX 5704              gconfd-2/1126  /tmp/orbit-gdm/linc-466-0-1f7f79321678c
+UNIX 5707              gconfd-2/1126  
+UNIX 5424       gnome-settings-/1129  
+UNIX 5427       gnome-settings-/1129  
+UNIX 5434       gnome-settings-/1129  
+UNIX 5436       gnome-settings-/1129  /tmp/orbit-gdm/linc-469-0-7ad28c5b25fe3
+UNIX 5439       gnome-settings-/1129  /tmp/orbit-gdm/linc-469-0-7ad28c5b25fe3
+UNIX 5442       gnome-settings-/1129  
+UNIX 5448                 gvfsd/1131  
+UNIX 5510              metacity/1133  
+UNIX 5512              metacity/1133  
+UNIX 5517              metacity/1133  
+UNIX 5519              metacity/1133  /tmp/orbit-gdm/linc-46d-0-492e5c923a16a
+UNIX 5522              metacity/1133  /tmp/orbit-gdm/linc-46d-0-492e5c923a16a
+UNIX 5523              metacity/1133  
+UNIX 6028              metacity/1133  
+UNIX 5611       gdm-simple-gree/1135  
+UNIX 5620       gdm-simple-gree/1135  
+UNIX 5657       gdm-simple-gree/1135  
+UNIX 5697       gdm-simple-gree/1135  
+UNIX 5703       gdm-simple-gree/1135  
+UNIX 5705       gdm-simple-gree/1135  /tmp/orbit-gdm/linc-46f-0-175d88fb4fa47
+UNIX 5708       gdm-simple-gree/1135  /tmp/orbit-gdm/linc-46f-0-175d88fb4fa47
+UNIX 5800       gdm-simple-gree/1135  
+UNIX 5817       gdm-simple-gree/1135  
+UNIX 5610               xfconfd/1138  
+UNIX 5690       gdm-session-wor/1143  
+UNIX 5694       gdm-session-wor/1143  
+UNIX 5651       xfce4-power-man/1144  
+UNIX 5684       xfce4-power-man/1144  
+UNIX 5688       xfce4-power-man/1144  
+UNIX 5698       xfce4-power-man/1144  
+UNIX 5721                  hald/1147  
+UNIX 5722                  hald/1147  
+UNIX 5726                  hald/1147  
+UNIX 5747                  hald/1147  
+UNIX 5752                  hald/1147  
+UNIX 5947                  hald/1147  
+UNIX 6074                  hald/1147  
+UNIX 6080                  hald/1147  
+UNIX 6130                  hald/1147  
+UNIX 5745           hald-runner/1148  
+UNIX 5873       hald-addon-inpu/1190  
+UNIX 5988       hald-addon-stor/1204  
+UNIX 6012       hald-addon-stor/1204  
+UNIX 6079       hald-addon-acpi/1210  
+UNIX 6121       hald-addon-acpi/1210  
+UNIX 6123       hald-addon-stor/1212  
+UNIX 6129       hald-addon-stor/1212  
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1267 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1269 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1270 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1271 
+UNIX 6531                    sh/1274  
+TCP      0.0.0.0         : 4444 0.0.0.0         :    0 LISTEN                         sh/1274 
+TCP      172.16.0.108    : 4444 172.16.0.1      :43614 ESTABLISHED                    sh/1274 
+UNIX 6531                    sh/1275  
+TCP      0.0.0.0         : 4444 0.0.0.0         :    0 LISTEN                         sh/1275 
+TCP      172.16.0.108    : 4444 172.16.0.1      :43614 ESTABLISHED                    sh/1275 
+TCP      0.0.0.0         :   80 0.0.0.0         :    0 LISTEN                    apache2/1441 

@@ -1,0 +1,144 @@
+Name   Pid    Environment 
+init              1      ROOTFSTYPE=ext4 HOME=/ DPKG_ARCH=amd64 IPOPTS= init=/sbin/init ROOTFLAGS= panic= ROOTDELAY= break= TERM=linux quiet=y BOOT_IMAGE=/boot/vmlinuz-2.6.32-38-server PATH=/sbin:/usr/sbin:/bin:/usr/bin resume_offset= blacklist= MODPROBE_OPTIONS=-qb PWD=/ readonly=y HWADDR= rootmnt=/root ROOT=/dev/disk/by-uuid/e0257799-c4e7-4106-8037-7a121f3cf19a BOOT=local
+kthreadd          2      
+migration/0       3      
+ksoftirqd/0       4      
+watchdog/0        5      
+migration/1       6      
+ksoftirqd/1       7      
+watchdog/1        8      
+migration/2       9      
+ksoftirqd/2       10     
+watchdog/2        11     
+migration/3       12     
+ksoftirqd/3       13     
+watchdog/3        14     
+events/0          15     
+events/1          16     
+events/2          17     
+events/3          18     
+cpuset            19     
+khelper           20     
+netns             21     
+async/mgr         22     
+pm                23     
+sync_supers       25     
+bdi-default       26     
+kintegrityd/0     27     
+kintegrityd/1     28     
+kintegrityd/2     29     
+kintegrityd/3     30     
+kblockd/0         31     
+kblockd/1         32     
+kblockd/2         33     
+kblockd/3         34     
+kacpid            35     
+kacpi_notify      36     
+kacpi_hotplug     37     
+ata/0             38     
+ata/1             39     
+ata/2             40     
+ata/3             41     
+ata_aux           42     
+ksuspend_usbd     43     
+khubd             44     
+kseriod           45     
+kmmcd             46     
+khungtaskd        51     
+kswapd0           52     
+ksmd              53     
+aio/0             54     
+aio/1             55     
+aio/2             56     
+aio/3             57     
+ecryptfs-kthrea   58     
+crypto/0          59     
+crypto/1          60     
+crypto/2          61     
+crypto/3          62     
+pciehpd           65     
+scsi_eh_0         66     
+scsi_eh_1         67     
+kstriped          69     
+kmpathd/0         70     
+kmpathd/1         71     
+kmpathd/2         72     
+kmpathd/3         73     
+kmpath_handlerd   74     
+ksnapd            75     
+kondemand/0       76     
+kondemand/1       77     
+kondemand/2       78     
+kondemand/3       79     
+kconservative/0   80     
+kconservative/1   81     
+kconservative/2   82     
+kconservative/3   83     
+mpt_poll_0        223    
+mpt/0             263    
+scsi_eh_2         266    
+jbd2/sda1-8       283    
+ext4-dio-unwrit   284    
+ext4-dio-unwrit   285    
+ext4-dio-unwrit   286    
+ext4-dio-unwrit   287    
+upstart-udev-br   347    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux JOB=udev INSTANCE= UPSTART_EVENTS=starting UPSTART_JOB=upstart-udev-bridge UPSTART_INSTANCE=
+udevd             349    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux UPSTART_EVENTS=virtual-filesystems UPSTART_JOB=udev UPSTART_INSTANCE=
+udevd             461    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux UPSTART_EVENTS=virtual-filesystems UPSTART_JOB=udev UPSTART_INSTANCE=
+udevd             462    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux UPSTART_EVENTS=virtual-filesystems UPSTART_JOB=udev UPSTART_INSTANCE=
+kpsmoused         505    
+sshd              736    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux UPSTART_EVENTS=filesystem UPSTART_JOB=ssh UPSTART_INSTANCE=
+rsyslogd          742    UPSTART_INSTANCE= UPSTART_JOB=rsyslog TERM=linux PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin UPSTART_EVENTS=filesystem PWD=/
+dbus-daemon       744    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux UPSTART_EVENTS=local-filesystems UPSTART_JOB=dbus UPSTART_INSTANCE=
+gdm-binary        766    UPSTART_INSTANCE= INSTANCE= UPSTART_JOB=gdm TERM=linux XORGCONFIG=/etc/X11/xorg.conf PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin LANG=en_US.UTF-8 UPSTART_EVENTS=filesystem started stopped PWD=/ RESULT=ok JOB=udevtrigger
+NetworkManager    771    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux JOB=dbus INSTANCE= UPSTART_EVENTS=local-filesystems started UPSTART_JOB=network-manager UPSTART_INSTANCE=
+avahi-daemon      776    
+avahi-daemon      781    
+modem-manager     783    DBUS_STARTER_BUS_TYPE=system
+console-kit-dae   785    DBUS_STARTER_BUS_TYPE=system
+wpa_supplicant    891    DBUS_STARTER_BUS_TYPE=system
+getty             897    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel UPSTART_JOB=tty4 UPSTART_INSTANCE=
+getty             901    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel UPSTART_JOB=tty5 UPSTART_INSTANCE=
+getty             910    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel UPSTART_JOB=tty2 UPSTART_INSTANCE=
+getty             912    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel UPSTART_JOB=tty3 UPSTART_INSTANCE=
+getty             917    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel UPSTART_JOB=tty6 UPSTART_INSTANCE=
+acpid             921    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel UPSTART_JOB=acpid UPSTART_INSTANCE=
+irqbalance        922    UPSTART_INSTANCE= UPSTART_JOB=irqbalance TERM=linux PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel PWD=/
+atd               925    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel UPSTART_JOB=atd UPSTART_INSTANCE=
+cron              926    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel UPSTART_JOB=cron UPSTART_INSTANCE=
+gdm-simple-slav   930    UPSTART_INSTANCE= INSTANCE= UPSTART_JOB=gdm TERM=linux XORGCONFIG=/etc/X11/xorg.conf PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin LANG=en_US.UTF-8 UPSTART_EVENTS=filesystem started stopped PWD=/ RESULT=ok JOB=udevtrigger
+Xorg              948    JOB=udevtrigger PWD=/ LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux UPSTART_JOB=gdm XORGCONFIG=/etc/X11/xorg.conf UPSTART_INSTANCE= RESULT=ok INSTANCE= UPSTART_EVENTS=filesystem started stopped
+mysqld            965    PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux HOME=/etc/mysql IFACE=lo LOGICAL=lo ADDRFAM=inet METHOD=loopback RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=net-device-up local-filesystems runlevel UPSTART_JOB=mysql UPSTART_INSTANCE=
+cupsd             971    UPSTART_INSTANCE= runlevel=2 UPSTART_JOB=rc TERM=linux PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=runlevel PWD=/ previous=N TZ=America/New_York VERBOSE=no
+apache2           1032   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+apache2           1040   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+apache2           1042   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+apache2           1043   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+apache2           1045   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+apache2           1047   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+dbus-launch       1105   DISPLAY=:1 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database LOGNAME=gdm GDM_VERSION=2.30.0 HOME=/var/lib/gdm LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin PWD=/var/lib/gdm SHELL=/bin/false GVFS_DISABLE_FUSE=1 RUNNING_UNDER_GDM=true USER=gdm USERNAME=gdm XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831
+dbus-daemon       1107   DISPLAY=:1 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database LOGNAME=gdm GDM_VERSION=2.30.0 HOME=/var/lib/gdm LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin PWD=/var/lib/gdm SHELL=/bin/false GVFS_DISABLE_FUSE=1 RUNNING_UNDER_GDM=true USER=gdm USERNAME=gdm XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831
+gnome-session     1110   DISPLAY=:1 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database LOGNAME=gdm GDM_VERSION=2.30.0 HOME=/var/lib/gdm LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin PWD=/var/lib/gdm SHELL=/bin/false GVFS_DISABLE_FUSE=1 RUNNING_UNDER_GDM=true USER=gdm USERNAME=gdm XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831
+getty             1123   PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux JOB=rc INSTANCE= RESULT=ok RUNLEVEL=2 PREVLEVEL=N UPSTART_EVENTS=stopped UPSTART_JOB=tty1 UPSTART_INSTANCE=
+gconfd-2          1126   SHELL=/bin/false XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831 DISPLAY=:1.0 SESSION_MANAGER=local/WWW01:@/tmp/.ICE-unix/1110,unix/WWW01:/tmp/.ICE-unix/1110 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated USERNAME=gdm GDM_VERSION=2.30.0 RUNNING_UNDER_GDM=true XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database GVFS_DISABLE_FUSE=1 USER=gdm DBUS_STARTER_BUS_TYPE=session PWD=/var/lib/gdm LANG=en_US.UTF-8 LOGNAME=gdm HOME=/var/lib/gdm
+gnome-settings-   1129   DISPLAY=:1.0 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database LOGNAME=gdm GDM_VERSION=2.30.0 HOME=/var/lib/gdm LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin PWD=/var/lib/gdm SHELL=/bin/false GVFS_DISABLE_FUSE=1 RUNNING_UNDER_GDM=true USER=gdm USERNAME=gdm XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831 GNOME_DESKTOP_SESSION_ID=this-is-deprecated SESSION_MANAGER=local/WWW01:@/tmp/.ICE-unix/1110,unix/WWW01:/tmp/.ICE-unix/1110 ORBIT_SOCKETDIR=/tmp/orbit-gdm DESKTOP_AUTOSTART_ID=10907ec9db3d17a252137885289212230200000011100007
+gvfsd             1131   SHELL=/bin/false XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831 DISPLAY=:1.0 SESSION_MANAGER=local/WWW01:@/tmp/.ICE-unix/1110,unix/WWW01:/tmp/.ICE-unix/1110 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated USERNAME=gdm GDM_VERSION=2.30.0 RUNNING_UNDER_GDM=true XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database GVFS_DISABLE_FUSE=1 USER=gdm DBUS_STARTER_BUS_TYPE=session PWD=/var/lib/gdm LANG=en_US.UTF-8 LOGNAME=gdm HOME=/var/lib/gdm
+metacity          1133   DISPLAY=:1.0 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database LOGNAME=gdm GDM_VERSION=2.30.0 HOME=/var/lib/gdm LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin PWD=/var/lib/gdm SHELL=/bin/false GVFS_DISABLE_FUSE=1 RUNNING_UNDER_GDM=true USER=gdm USERNAME=gdm XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831 GNOME_DESKTOP_SESSION_ID=this-is-deprecated SESSION_MANAGER=local/WWW01:@/tmp/.ICE-unix/1110,unix/WWW01:/tmp/.ICE-unix/1110 ORBIT_SOCKETDIR=/tmp/orbit-gdm DESKTOP_AUTOSTART_ID=10907ec9db3d17a252137885289212237400000011100008
+gdm-simple-gree   1135   DISPLAY=:1.0 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database LOGNAME=gdm GDM_VERSION=2.30.0 HOME=/var/lib/gdm LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin PWD=/var/lib/gdm SHELL=/bin/false GVFS_DISABLE_FUSE=1 RUNNING_UNDER_GDM=true USER=gdm USERNAME=gdm XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831 GNOME_DESKTOP_SESSION_ID=this-is-deprecated SESSION_MANAGER=local/WWW01:@/tmp/.ICE-unix/1110,unix/WWW01:/tmp/.ICE-unix/1110 ORBIT_SOCKETDIR=/tmp/orbit-gdm DESKTOP_AUTOSTART_ID=10907ec9db3d17a252137885289212159700000011100002
+xfconfd           1138   USER=gdm ORBIT_SOCKETDIR=/tmp/orbit-gdm HOME=/var/lib/gdm XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831 GDM_VERSION=2.30.0 LOGNAME=gdm DESKTOP_AUTOSTART_ID=10907ec9db3d17a252137885289212172700000011100004 USERNAME=gdm GNOME_DESKTOP_SESSION_ID=this-is-deprecated SESSION_MANAGER=local/WWW01:@/tmp/.ICE-unix/1110,unix/WWW01:/tmp/.ICE-unix/1110 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin DISPLAY=:1.0 LANG=en_US.UTF-8 GVFS_DISABLE_FUSE=1 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database SHELL=/bin/false RUNNING_UNDER_GDM=true PWD=/ XDG_CONFIG_DIRS=/usr/share/xubuntu/xdg-gdm:/etc/xdg/xdg-xubuntu
+gdm-session-wor   1143   DISPLAY=:1 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database JOB=udevtrigger PWD=/ LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin TERM=linux UPSTART_JOB=gdm XORGCONFIG=/etc/X11/xorg.conf UPSTART_INSTANCE= RESULT=ok INSTANCE= UPSTART_EVENTS=filesystem started stopped
+xfce4-power-man   1144   USER=gdm ORBIT_SOCKETDIR=/tmp/orbit-gdm HOME=/var/lib/gdm XDG_SESSION_COOKIE=bf76d6dd4e7a0354d86f7ee752140be8-1378852891.965046-262885831 GDM_VERSION=2.30.0 LOGNAME=gdm DESKTOP_AUTOSTART_ID=10907ec9db3d17a252137885289212172700000011100004 USERNAME=gdm GNOME_DESKTOP_SESSION_ID=this-is-deprecated SESSION_MANAGER=local/WWW01:@/tmp/.ICE-unix/1110,unix/WWW01:/tmp/.ICE-unix/1110 PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin DISPLAY=:1.0 LANG=en_US.UTF-8 GVFS_DISABLE_FUSE=1 XAUTHORITY=/var/run/gdm/auth-for-gdm-XIoAcg/database SHELL=/bin/false RUNNING_UNDER_GDM=true PWD=/ XDG_CONFIG_DIRS=/usr/share/xubuntu/xdg-gdm:/etc/xdg/xdg-xubuntu
+hald              1147   DBUS_STARTER_BUS_TYPE=system
+hald-runner       1148   PATH=/usr/lib/hal:/usr/lib/hal/scripts:/usr/bin
+hald-addon-inpu   1190   
+hald-addon-stor   1204   
+hald-addon-acpi   1210   
+hald-addon-stor   1212   
+apache2           1267   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+flush-8:0         1268   
+apache2           1269   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+apache2           1270   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+apache2           1271   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+sh                1274   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
+sh                1275   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_USER=www-data APACHE_RUN_GROUP=www-data PWD=/var/www/pma
+apache2           1441   APACHE_PID_FILE=/var/run/apache2.pid PATH=/usr/local/bin:/usr/bin:/bin LANG=C APACHE_RUN_GROUP=www-data APACHE_RUN_USER=www-data PWD=/
