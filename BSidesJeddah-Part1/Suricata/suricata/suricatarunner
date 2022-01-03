@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+
+if [ -z "$BRIM_SURICATA_USER_DIR" ]; then
+    userdir="$dir"
+    ruledir="$dir/var/lib/suricata/rules"
+else
+    userdir="$BRIM_SURICATA_USER_DIR"
+    ruledir="$userdir/rules"
+    if [ ! -d "$ruledir" ]; then
+        mkdir -p "$ruledir"
+    fi
+    if [ ! -f "$ruledir/suricata.rules" ]; then
+        cp "$dir/var/lib/suricata/rules/suricata.rules" "$ruledir"
+    fi
+fi
+
+cp "$dir/brim-conf.yaml" "$userdir/brim-conf-run.yaml"
+
+echo "
+rule-files:
+  - $ruledir/suricata.rules
+" >> "$userdir/brim-conf-run.yaml"
+
+LD_LIBRARY_PATH="$dir/bin" exec "$dir/bin/suricata" -c "$userdir/brim-conf-run.yaml" --set classification-file="$dir/etc/suricata/classification.config" --set reference-config-file="$dir/etc/suricata/reference.config" --set threshold-file="$dir/etc/suricata/threshold.config" -r -

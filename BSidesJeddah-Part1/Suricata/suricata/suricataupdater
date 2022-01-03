@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+
+if [ -z "$BRIM_SURICATA_USER_DIR" ]; then
+    datadir="$dir/var/lib/suricata"
+else
+    datadir="$BRIM_SURICATA_USER_DIR"
+    if [ ! -d "$datadir" ]; then
+        mkdir -p "$datadir"
+    fi
+fi
+
+
+echo "
+data-directory: $datadir
+dist-rule-directory: $dir/share/suricata/rules
+" > "$datadir/update.yaml"
+
+ca_path="$(openssl version -d | cut -d ' ' -f 2)"
+ca_path="${ca_path//\"}"
+
+SSL_CERT_FILE="$ca_path/cert.pem" LD_LIBRARY_PATH="$dir/bin" exec "$dir/bin/suricata-update" --suricata "$dir/bin/suricata" --suricata-conf "$dir/brim-conf.yaml" --conf "$datadir/update.yaml" --no-test --no-reload "$@"

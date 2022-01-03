@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Jan  2 20:48:46 2022
+Invocation: foremost stream_1223.cab 
+Output directory: /home/neuro/challenges/Cyber-Defenders/BSidesJeddah-Part1/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: stream_1223.cab
+Start: Sun Jan  2 20:48:46 2022
+Length: 8 KB (8786 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.dll 	       8 KB 	         82 	 11/16/2020 20:58:13
+Finish: Sun Jan  2 20:48:46 2022
+
+1 FILES EXTRACTED
+	
+exe:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Jan  2 20:48:46 2022

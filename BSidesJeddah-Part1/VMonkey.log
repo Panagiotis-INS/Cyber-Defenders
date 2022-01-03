@@ -1,0 +1,20 @@
+[*] Running 'docker ps' to see if script has required privileges to run...
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+[*] Pulling and starting container...
+[*] Attempting to copy file web_server.docx into container ID 986e2475198514c2c91b4b366a1302e811eacd48647ab772b97f0bd5f1e6ad63
+[*] Starting openoffice listener for file content conversions...
+[*] Checking for ViperMonkey and dependency updates...
+[*] Disabling network connection for container ID 986e2475198514c2c91b4b366a1302e811eacd48647ab772b97f0bd5f1e6ad63
+ _    ___                 __  ___            __             
+| |  / (_)___  ___  _____/  |/  /___  ____  / /_____  __  __
+| | / / / __ \/ _ \/ ___/ /|_/ / __ \/ __ \/ //_/ _ \/ / / /
+| |/ / / /_/ /  __/ /  / /  / / /_/ / / / / ,< /  __/ /_/ / 
+|___/_/ .___/\___/_/  /_/  /_/\____/_/ /_/_/|_|\___/\__, /  
+     /_/                                           /____/   
+vmonkey 1.0.2 - https://github.com/decalage2/ViperMonkey
+THIS IS WORK IN PROGRESS - Check updates regularly!
+Please report any issue at https://github.com/decalage2/ViperMonkey/issues
+
+===============================================================================
+FILE: /root/web_server.docx
+[*] Done - Killing docker container 986e2475198514c2c91b4b366a1302e811eacd48647ab772b97f0bd5f1e6ad63
