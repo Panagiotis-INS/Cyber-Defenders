@@ -1,0 +1,211 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    292
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    412
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+smss.exe pid:    504
+************************************************************************
+csrss.exe pid:    512
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:    560
+Command line : winlogon.exe
+************************************************************************
+wininit.exe pid:    568
+Command line : wininit.exe
+************************************************************************
+services.exe pid:    652
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    664
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+svchost.exe pid:    764
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+svchost.exe pid:    824
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+dwm.exe pid:    912
+Command line : "dwm.exe"
+************************************************************************
+svchost.exe pid:    972
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    996
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    508
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+svchost.exe pid:    400
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:    944
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+svchost.exe pid:   1092
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:   1100
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+spoolsv.exe pid:   1592
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1668
+Command line : C:\Windows\System32\svchost.exe -k utcsvc
+************************************************************************
+svchost.exe pid:   1732
+Command line : C:\Windows\System32\svchost.exe -k smbsvcs
+************************************************************************
+svchost.exe pid:   1764
+Command line : C:\Windows\system32\svchost.exe -k appmodel
+************************************************************************
+wlms.exe pid:   1852
+Command line : C:\Windows\system32\wlms\wlms.exe
+************************************************************************
+MsMpEng.exe pid:   1876
+Command line : "C:\Program Files\Windows Defender\MsMpEng.exe"
+************************************************************************
+vm3dservice.ex pid:   1896
+Command line : C:\Windows\system32\vm3dservice.exe
+************************************************************************
+vmtoolsd.exe pid:   1904
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+************************************************************************
+VGAuthService. pid:   1912
+Command line : "C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe"
+************************************************************************
+vm3dservice.ex pid:    892
+Command line : vm3dservice.exe -n
+************************************************************************
+svchost.exe pid:   2136
+Command line : C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted
+************************************************************************
+dllhost.exe pid:   2812
+Command line : C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+************************************************************************
+msdtc.exe pid:   2912
+Command line : C:\Windows\System32\msdtc.exe
+************************************************************************
+WmiPrvSE.exe pid:   3004
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+WmiPrvSE.exe pid:   2560
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+svchost.exe pid:   3176
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+************************************************************************
+RuntimeBroker. pid:   4064
+Command line : C:\Windows\System32\RuntimeBroker.exe -Embedding
+************************************************************************
+sihost.exe pid:   2196
+Command line : sihost.exe
+************************************************************************
+svchost.exe pid:   2756
+Command line : C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+************************************************************************
+taskhostw.exe pid:   2424
+Command line : taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+************************************************************************
+userinit.exe pid:   1140
+************************************************************************
+explorer.exe pid:   2676
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+ShellExperienc pid:   3496
+Command line : "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+************************************************************************
+SearchUI.exe pid:   3408
+Command line : "C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+************************************************************************
+ServerManager. pid:   2552
+Command line : "C:\Windows\system32\ServerManager.exe" 
+************************************************************************
+vmtoolsd.exe pid:   3732
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+jusched.exe pid:   4172
+Command line : "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe" 
+************************************************************************
+cmd.exe pid:   4356
+Command line : "C:\Windows\System32\cmd.exe" /C "C:\Users\Administrator\Desktop\wls1411\user_projects\domains\base_domain\bin\startNodeManager.cmd" 
+************************************************************************
+conhost.exe pid:   4364
+Command line : \??\C:\Windows\system32\conhost.exe 0x4
+************************************************************************
+java.exe pid:   4456
+Command line : 
+************************************************************************
+cmd.exe pid:   4556
+Command line : "C:\Windows\System32\cmd.exe" /C "C:\Users\Administrator\Desktop\wls1411\user_projects\domains\base_domain\bin\startWebLogic.cmd" 
+************************************************************************
+conhost.exe pid:   4564
+Command line : \??\C:\Windows\system32\conhost.exe 0x4
+************************************************************************
+cmd.exe pid:   4736
+Command line : cmd  /c "C:\Users\Administrator\Desktop\wls1411\wlserver\common\derby\bin\startNetworkServer.bat "
+************************************************************************
+java.exe pid:   4752
+Command line : 
+************************************************************************
+java.exe pid:   4772
+Command line : 
+************************************************************************
+jucheck.exe pid:   1392
+Command line : "C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe" -auto
+************************************************************************
+fontdrvhost.ex pid:   2824
+Command line : "fontdrvhost.exe"
+************************************************************************
+armsvc.exe pid:    840
+Command line : "C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe"
+************************************************************************
+powershell.exe pid:   4344
+Command line : 
+************************************************************************
+conhost.exe pid:   4636
+Command line : \??\C:\Windows\system32\conhost.exe 0x4
+************************************************************************
+powershell.exe pid:   4200
+************************************************************************
+powershell.exe pid:   2712
+************************************************************************
+powershell.exe pid:   2132
+************************************************************************
+powershell.exe pid:   4264
+************************************************************************
+powershell.exe pid:   3684
+************************************************************************
+powershell.exe pid:   3676
+************************************************************************
+powershell.exe pid:   3520
+************************************************************************
+powershell.exe pid:   1012
+************************************************************************
+powershell.exe pid:   2200
+************************************************************************
+powershell.exe pid:    776
+************************************************************************
+powershell.exe pid:   1616
+************************************************************************
+mmc.exe pid:   2688
+Command line : "C:\Windows\system32\mmc.exe" "C:\Windows\system32\taskschd.msc" /s
+************************************************************************
+svchost.exe pid:   1488
+Command line : "C:\Users\Administrator\Desktop\svchost.exe"
+************************************************************************
+notepad.exe pid:   4596
+Command line : "C:\Windows\System32\notepad.exe" exfiltrator.txt
+************************************************************************
+RamCapture64.e pid:   2568
+Command line : "C:\Users\Administrator\Desktop\RamCapturer\x64\RamCapture64.exe" 
+************************************************************************
+conhost.exe pid:   3524
+Command line : \??\C:\Windows\system32\conhost.exe 0x4

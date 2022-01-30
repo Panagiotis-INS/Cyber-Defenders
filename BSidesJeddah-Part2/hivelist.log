@@ -1,0 +1,22 @@
+Volatility 3 Framework 1.0.1
+
+Offset	FileFullPath	File output
+
+0x808fe7e35000		Disabled
+0x808fe7e41000	\REGISTRY\MACHINE\SYSTEM	Disabled
+0x808fe7e85000	\REGISTRY\MACHINE\HARDWARE	Disabled
+0x808fe9f1a000	\Device\HarddiskVolume2\EFI\Microsoft\Boot\BCD	Disabled
+0x808fe858e000	\SystemRoot\System32\Config\SOFTWARE	Disabled
+0x808fe88f6000	\SystemRoot\System32\Config\DEFAULT	Disabled
+0x808fef18f000	\SystemRoot\System32\Config\SECURITY	Disabled
+0x808fef172000	\SystemRoot\System32\Config\SAM	Disabled
+0x808fef20f000	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Disabled
+0x808fef342000	\SystemRoot\System32\Config\BBI	Disabled
+0x808fef358000	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Disabled
+0x808fe8767000	\??\C:\Windows\AppCompat\Programs\Amcache.hve	Disabled
+0x808ff03fe000	\??\C:\Users\Administrator\ntuser.dat	Disabled
+0x808ff07dc000	\??\C:\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat	Disabled
+0x808ff15b6000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ShellExperienceHost_10.0.14393.693_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x808ff1273000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Cortana_1.7.0.14393_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x808ff130f000	\??\C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0x808ff133d000	\??\C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat	Disabled
