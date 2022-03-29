@@ -1,0 +1,129 @@
+************************************************************************
+System pid:      4
+************************************************************************
+smss.exe pid:    292
+Command line : \SystemRoot\System32\smss.exe
+************************************************************************
+csrss.exe pid:    416
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+smss.exe pid:    508
+************************************************************************
+csrss.exe pid:    516
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+wininit.exe pid:    540
+Command line : wininit.exe
+************************************************************************
+winlogon.exe pid:    572
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    664
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    672
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+svchost.exe pid:    860
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch
+************************************************************************
+svchost.exe pid:    912
+Command line : C:\Windows\system32\svchost.exe -k RPCSS
+************************************************************************
+dwm.exe pid:   1016
+Command line : "dwm.exe"
+************************************************************************
+svchost.exe pid:    356
+Command line : C:\Windows\system32\svchost.exe -k netsvcs
+************************************************************************
+svchost.exe pid:    512
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+************************************************************************
+svchost.exe pid:    796
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:    848
+Command line : C:\Windows\system32\svchost.exe -k LocalService
+************************************************************************
+svchost.exe pid:   1100
+Command line : C:\Windows\system32\svchost.exe -k NetworkService
+************************************************************************
+svchost.exe pid:   1220
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+************************************************************************
+svchost.exe pid:   1228
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+************************************************************************
+svchost.exe pid:   1544
+Command line : C:\Windows\System32\svchost.exe -k smbsvcs
+************************************************************************
+spoolsv.exe pid:   1832
+Command line : C:\Windows\System32\spoolsv.exe
+************************************************************************
+svchost.exe pid:   1884
+Command line : C:\Windows\System32\svchost.exe -k utcsvc
+************************************************************************
+svchost.exe pid:   1956
+Command line : C:\Windows\system32\svchost.exe -k appmodel
+************************************************************************
+dns.exe pid:   1964
+Command line : C:\Windows\system32\dns.exe
+************************************************************************
+ismserv.exe pid:   2020
+Command line : C:\Windows\System32\ismserv.exe
+************************************************************************
+wlms.exe pid:    688
+Command line : C:\Windows\system32\wlms\wlms.exe
+************************************************************************
+vm3dservice.ex pid:   1280
+Command line : C:\Windows\system32\vm3dservice.exe
+************************************************************************
+MsMpEng.exe pid:   1272
+Command line : "C:\Program Files\Windows Defender\MsMpEng.exe"
+************************************************************************
+dfssvc.exe pid:   1540
+Command line : C:\Windows\system32\dfssvc.exe
+************************************************************************
+vm3dservice.ex pid:   2184
+Command line : vm3dservice.exe -n
+************************************************************************
+msdtc.exe pid:   1560
+Command line : C:\Windows\System32\msdtc.exe
+************************************************************************
+MpCmdRun.exe pid:   1936
+Command line : "C:\Program Files\Windows Defender\\MpCmdRun.exe" SpyNetServiceDss -RestrictPrivileges -AccessKey 0BB1DFE5-6BCD-9567-5CC9-4B2C84E43E48 -Reinvoke
+************************************************************************
+Microsoft.Acti pid:   1456
+Command line : C:\Windows\ADWS\Microsoft.ActiveDirectory.WebServices.exe
+************************************************************************
+RuntimeBroker. pid:   1432
+Command line : C:\Windows\System32\RuntimeBroker.exe -Embedding
+************************************************************************
+sihost.exe pid:     80
+Command line : sihost.exe
+************************************************************************
+svchost.exe pid:   1976
+Command line : C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+************************************************************************
+taskhostw.exe pid:   2140
+Command line : taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+************************************************************************
+userinit.exe pid:   2288
+************************************************************************
+explorer.exe pid:   2940
+Command line : C:\Windows\Explorer.EXE /NOUACCHECK
+************************************************************************
+ShellExperienc pid:   2644
+Command line : "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+************************************************************************
+SearchUI.exe pid:   3160
+Command line : "C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+************************************************************************
+vmtoolsd.exe pid:   3672
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+wsmprovhost.ex pid:   1632
+Command line : C:\Windows\system32\wsmprovhost.exe -Embedding
+************************************************************************
+svchost.exe pid:   3140
+Command line : "C:\Users\Administrator\Documents\svchost.exe"

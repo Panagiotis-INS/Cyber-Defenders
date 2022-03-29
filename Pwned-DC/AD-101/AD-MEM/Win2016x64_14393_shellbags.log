@@ -1,0 +1,41 @@
+Scanning for registries....
+Gathering shellbag items and building path tree...
+***************************************************************************
+Registry: \??\C:\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat 
+Key: Local Settings\Software\Microsoft\Windows\Shell\BagMRU
+Last updated: 2021-11-20 14:33:22 UTC+0000
+Value   Mru   Entry Type     GUID                                     GUID Description     Folder IDs
+------- ----- -------------- ---------------------------------------- -------------------- ----------
+1       1     Folder Entry   679f85cb-0220-4080-b29b-5540cc05aab6     Unknown GUID         EXPLORER, MY_GAMES 
+0       2     Folder Entry   26ee0668-a00a-44d7-9371-beb064c98683     {Unknown CSIDL}      EXPLORER, MY_COMPUTER, RECYCLE_BIN, UKNOWN 
+2       0     Folder Entry   20d04fe0-3aea-1069-a2d8-08002b30309d     My Computer          EXPLORER, MY_COMPUTER 
+***************************************************************************
+
+***************************************************************************
+Registry: \??\C:\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat 
+Key: Local Settings\Software\Microsoft\Windows\Shell\BagMRU\2
+Last updated: 2021-11-20 14:33:21 UTC+0000
+Value   Mru   Entry Type     Path
+------- ----- -------------- ----
+0       0     Volume Name    C:\ 
+***************************************************************************
+
+***************************************************************************
+Registry: \??\C:\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat 
+Key: Local Settings\Software\Microsoft\Windows\Shell\BagMRU\0\0
+Last updated: 2021-11-19 17:56:34 UTC+0000
+Value   Mru   Entry Type     GUID                                     GUID Description     Folder IDs
+------- ----- -------------- ---------------------------------------- -------------------- ----------
+1       0     Control Panel  8e908fc9-becc-40f6-915b-f4ca0e70d03d     Network and Sharing Center EXPLORER, MY_GAMES 
+0       1     Control Panel  7007acc7-3202-11d1-aad2-00805fc1270e     Unknown GUID         EXPLORER, MY_GAMES 
+***************************************************************************
+
+***************************************************************************
+Registry: \??\C:\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat 
+Key: Local Settings\Software\Microsoft\Windows\Shell\BagMRU\2\0
+Last updated: 2021-11-20 14:33:22 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+0       0     Users          2021-11-19 14:43:42 UTC+0000   2016-07-16 06:04:26 UTC+0000   2021-11-19 14:43:42 UTC+0000   RO, DIR                   C:\ð*Users
+***************************************************************************
+

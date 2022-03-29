@@ -1,0 +1,16 @@
+          Suggested Profile(s) : Win10x64_17134, Win10x64_10240_17770, Win10x64_14393, Win10x64_18362, Win10x64, Win2016x64_14393, Win10x64_16299, Win10x64_19041, Win10x64_17763, Win10x64_10586, Win10x64_15063 (Instantiated with Win10x64_15063)
+                     AS Layer1 : SkipDuplicatesAMD64PagedMemory (Kernel AS)
+                     AS Layer2 : WindowsCrashDumpSpace64 (Unnamed AS)
+                     AS Layer3 : FileAddressSpace (/media/neuro/Live System Data/challenges/Cyber-Defenders/Pwned-DC/AD-101/AD-MEM/memory.dmp)
+                      PAE type : No PAE
+                           DTB : 0x1ab000L
+                          KDBG : 0xf8030e8f2500L
+          Number of Processors : 4
+     Image Type (Service Pack) : 0
+                KPCR for CPU 0 : 0xfffff8030e944000L
+                KPCR for CPU 1 : 0xffffaa00ffbcd000L
+                KPCR for CPU 2 : 0xffffaa00ffe40000L
+                KPCR for CPU 3 : 0xffffaa00ffec3000L
+             KUSER_SHARED_DATA : 0xfffff78000000000L
+           Image date and time : 2021-11-20 15:07:08 UTC+0000
+     Image local date and time : 2021-11-20 07:07:08 -0800

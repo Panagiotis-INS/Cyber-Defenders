@@ -1,0 +1,47 @@
+Offset(P)          Name                    PID pslist psscan thrdproc pspcid csrss session deskthrd ExitTime
+------------------ -------------------- ------ ------ ------ -------- ------ ----- ------- -------- --------
+0x00000000c26c1080 wininit.exe             540 True   True   True     False  True  True    False    
+0x00000000c2779080 services.exe            664 True   True   True     False  True  True    False    
+0x00000000c27766c0 lsass.exe               672 True   True   True     False  True  True    False    
+0x00000000c75d5080 svchost.exe            1544 True   True   True     False  True  True    False    
+0x00000000c27b6080 svchost.exe             860 True   True   True     False  True  True    False    
+0x00000000d11cb800 dfssvc.exe             1540 True   True   True     False  True  True    False    
+0x00000000c269e800 svchost.exe             912 True   True   True     False  True  True    False    
+0x00000000c2758800 svchost.exe            1100 True   True   True     False  True  True    False    
+0x00000000d8f5b080 svchost.exe            1976 True   True   True     False  True  True    False    
+0x0000000009970800 explorer.exe           2940 True   True   True     False  True  True    False    
+0x0000000013141800 SearchUI.exe           3160 True   True   True     False  True  True    False    
+0x00000000c26fc080 winlogon.exe            572 True   True   True     False  True  True    False    
+0x00000000c2692800 svchost.exe             848 True   True   True     False  True  True    False    
+0x00000000d11d3800 vm3dservice.ex         1280 True   True   True     False  True  True    False    
+0x00000000c2694800 svchost.exe             796 True   True   True     False  True  True    False    
+0x00000000d11a95c0 wlms.exe                688 True   True   True     False  True  True    False    
+0x00000000d11b1680 RuntimeBroker.         1432 True   True   True     False  True  True    False    
+0x00000000d11e96c0 svchost.exe            1956 True   True   True     False  True  True    False    
+0x000000000ae37800 vmtoolsd.exe           3672 True   True   True     False  True  True    False    
+0x00000000100e1700 sihost.exe               80 True   True   True     False  True  True    False    
+0x00000000c36e0540 Microsoft.Acti         1456 True   True   True     False  True  True    False    
+0x00000000c2698800 svchost.exe             512 True   True   True     False  True  True    False    
+0x00000000c7564080 dwm.exe                1016 True   True   True     False  True  True    False    
+0x00000000d11d9800 ismserv.exe            2020 True   True   True     False  True  True    False    
+0x00000000d11cd800 MsMpEng.exe            1272 True   True   True     False  True  True    False    
+0x00000000c269a800 svchost.exe             356 True   True   True     False  True  True    False    
+0x0000000022e48800 svchost.exe            3140 True   False  True     False  True  True    False    
+0x00000000c75fc800 svchost.exe            1220 True   True   True     False  True  True    False    
+0x0000000009def800 ShellExperienc         2644 True   True   True     False  True  True    False    
+0x00000000d10c9080 vm3dservice.ex         2184 True   True   True     False  True  True    False    
+0x00000000c75fe800 svchost.exe            1228 True   True   True     False  True  True    False    
+0x00000000d11bf800 svchost.exe            1884 True   True   True     False  True  True    False    
+0x00000000d10d8800 spoolsv.exe            1832 True   True   True     False  True  True    False    
+0x00000000d11a1800 dns.exe                1964 True   True   True     False  True  True    False    
+0x00000000fc00d080 msdtc.exe              1560 True   True   True     False  True  True    False    
+0x00000000c2a42800 MpCmdRun.exe           1936 True   True   True     False  True  True    False    
+0x00000000fc3e1800 taskhostw.exe          2140 True   True   True     False  True  True    False    
+0x000000000b5b3080 wsmprovhost.ex         1632 True   True   True     False  True  True    False    
+0x0000000029a43380                           0 False  False  False    False  False False   True     
+0x00000000c1d40800 smss.exe                292 True   True   True     False  False False   False    
+0x00000000c22dd280 csrss.exe               416 True   True   True     False  False True    False    
+0x00000000fc37c340 userinit.exe           2288 True   True   False    False  False True    False    2021-11-20 14:20:38 UTC+0000
+0x00000000c26c2580 csrss.exe               516 True   True   True     False  False True    False    
+0x00000000fcab0040 System                    4 True   True   True     False  False False   False    
+0x00000000c26c8080 smss.exe                508 True   True   False    False  False True    False    2021-11-20 14:11:22 UTC+0000
