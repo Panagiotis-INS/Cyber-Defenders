@@ -14,6 +14,8 @@ An ActiveDirectory compromise case: adversaries were able to take over corporate
 
 Q: <code>What is the OS Product name of PC01?</code>
 
+---
+
 ```bash
 volatility -f memory.dmp imageinfo |tee imageinfo.log
 AutoVol.sh -f memory.dmp
@@ -88,7 +90,11 @@ cat Win2016x64_14393_hivelist.log |grep "SOFTWARE"
 
 Q: <code>What is the master key of the user "0xMohammed"?</code>
 
+```bash
+cat Win2016x64_14393_pslist.log |grep "lsass" # we get the PID of lsass, 672
+volatility -f memory.dmp --profile=Win2016x64_14393 memdump -p 672 -D dump
 
+```
 
 - Flag 14:
 
@@ -97,6 +103,24 @@ Q: <code>Using the provided word list, what is the password of the user "0xMoham
 - Flag 15:
 
 Q: <code>What is the name of the first malware detected by Windows Defender?</code>
+
+We can either use: `https://www.nirsoft.net/utils/full_event_log_view.html`
+
+OR
+
+Use the `evtlog` plugin from volatility:
+
+```bash
+volatility -f memory.dmp --profile=Win2016x64_14393 evtlogs -D dump
+```
+
+OR 
+
+Use evtxtract:
+
+```bash
+/opt/evtxtract/evtxtract ./memory.dmp >events.xml
+```
 
 - Flag 16:
 
