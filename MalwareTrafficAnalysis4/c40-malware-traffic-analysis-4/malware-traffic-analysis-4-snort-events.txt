@@ -1,0 +1,1594 @@
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:34.637339 184.28.198.107 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:911 IpLen:20 DgmLen:20 DF
+
+[**] [1:16642:11] POLICY-OTHER file URI scheme attempt [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:14:34.803174 184.28.198.107:80 -> 10.1.25.119:49183
+TCP TTL:128 TOS:0x0 ID:955 IpLen:20 DgmLen:3981 DF
+***A**** Seq: 0x409D4245  Ack: 0x68BB560C  Win: 0xFB00  TcpLen: 20
+[Xref => http://tools.ietf.org/html/rfc1738][Xref => http://tools.ietf.org/html/rfc1630][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2011-3230]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:35.498704 184.28.198.107 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1506 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:35.809239 184.84.243.49 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1747 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:35.842147 184.84.243.50 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1763 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:35.922343 184.28.198.107 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1820 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:35.950738 184.28.198.107 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1856 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:35.964853 184.28.198.107 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1872 IpLen:20 DgmLen:20 DF
+
+[**] [1:254:15] PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:37.189634 8.8.4.4:53 -> 10.1.25.119:58930
+UDP TTL:48 TOS:0x0 ID:53649 IpLen:20 DgmLen:131
+Len: 103
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:37.301457 10.1.25.119:49213 -> 66.235.155.62:80
+TCP TTL:51 TOS:0x48 ID:23181 IpLen:20 DgmLen:1128 DF
+***A**** Seq: 0x65F027D8  Ack: 0xA0B58E43  Win: 0x3FC0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:38.039890 184.28.198.107 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:2319 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:38.071896 184.28.198.107 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:2373 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:38.171576 184.28.198.107 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:2406 IpLen:20 DgmLen:20 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:39.289296 10.1.25.119:49215 -> 63.251.85.25:80
+TCP TTL:120 TOS:0x0 ID:27128 IpLen:20 DgmLen:1334 DF
+***A**** Seq: 0x15F382A7  Ack: 0xFE0D3614  Win: 0xFF00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:254:15] PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:39.498794 8.8.4.4:53 -> 10.1.25.119:59063
+UDP TTL:48 TOS:0x0 ID:8935 IpLen:20 DgmLen:203
+Len: 175
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:39.485370 10.1.25.119:49222 -> 63.251.85.25:80
+TCP TTL:247 TOS:0x0 ID:33776 IpLen:20 DgmLen:1493 DF
+***A**** Seq: 0xB454FED4  Ack: 0x980447AD  Win: 0x66AF  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:39.629758 10.1.25.119:49230 -> 205.180.87.172:80
+TCP TTL:48 TOS:0x48 ID:58207 IpLen:20 DgmLen:1173 DF
+***A**** Seq: 0xD8A46540  Ack: 0x7557B844  Win: 0x4200  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:39.736111 10.1.25.119:49224 -> 74.125.226.168:80
+TCP TTL:56 TOS:0x0 ID:46750 IpLen:20 DgmLen:1237
+***AP*** Seq: 0x48ACEFC2  Ack: 0x2B2723A9  Win: 0xB580  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.143767 10.1.25.119:49239 -> 96.17.10.66:80
+TCP TTL:53 TOS:0x48 ID:10707 IpLen:20 DgmLen:1173 DF
+***A**** Seq: 0xB22BBDF7  Ack: 0x6F373AB0  Win: 0x4480  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.171657 10.1.25.119:49241 -> 184.84.243.43:80
+TCP TTL:58 TOS:0x0 ID:29161 IpLen:20 DgmLen:2253 DF
+***A**** Seq: 0x323DCC0C  Ack: 0x6FCA009D  Win: 0x4E80  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.353742 10.1.25.119:49195 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:2507 IpLen:20 DgmLen:1481 DF
+***A**** Seq: 0xBADEB3E5  Ack: 0x40DED08C  Win: 0x93E0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.366187 10.1.25.119:49186 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:1688 IpLen:20 DgmLen:1712 DF
+***A**** Seq: 0xC58AA54D  Ack: 0x41CA9993  Win: 0xB200  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.483467 10.1.25.119:49255 -> 68.67.153.250:80
+TCP TTL:54 TOS:0x28 ID:40508 IpLen:20 DgmLen:1201 DF
+***A**** Seq: 0xF666A4B5  Ack: 0x15D827F0  Win: 0x7200  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.482880 10.1.25.119:49253 -> 23.33.105.222:80
+TCP TTL:58 TOS:0x0 ID:5020 IpLen:20 DgmLen:1218 DF
+***A**** Seq: 0x5CC93B1A  Ack: 0x31E6214A  Win: 0x7AC0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.482682 10.1.25.119:49247 -> 23.235.40.166:80
+TCP TTL:57 TOS:0x28 ID:38087 IpLen:20 DgmLen:1214 DF
+***A**** Seq: 0x633244E8  Ack: 0x72F03240  Win: 0x7C00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.481511 10.1.25.119:49243 -> 8.43.72.21:80
+TCP TTL:242 TOS:0x48 ID:6719 IpLen:20 DgmLen:1235
+***A**** Seq: 0x823719F2  Ack: 0x2B539BAB  Win: 0x1C02  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.483269 10.1.25.119:49250 -> 52.20.176.43:80
+TCP TTL:52 TOS:0x0 ID:11345 IpLen:20 DgmLen:1230 DF
+***A**** Seq: 0x3E007001  Ack: 0x52A886B  Win: 0x5000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.521454 10.1.25.119:49245 -> 162.248.16.24:80
+TCP TTL:58 TOS:0x0 ID:41939 IpLen:20 DgmLen:1262 DF
+***A**** Seq: 0xAF221A1F  Ack: 0xF80CA247  Win: 0x1FFE  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.538236 10.1.25.119:49252 -> 205.180.86.169:80
+TCP TTL:48 TOS:0x48 ID:34032 IpLen:20 DgmLen:1662 DF
+***A**** Seq: 0x435F34F1  Ack: 0x9FA22908  Win: 0x5000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:254:15] PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.860989 8.8.4.4:53 -> 10.1.25.119:58665
+UDP TTL:48 TOS:0x0 ID:18439 IpLen:20 DgmLen:94
+Len: 66
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.793546 10.1.25.119:49257 -> 74.125.226.89:80
+TCP TTL:56 TOS:0x0 ID:44071 IpLen:20 DgmLen:1377
+***A**** Seq: 0xF50212FB  Ack: 0x8553A18A  Win: 0xB280  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:40.864472 10.1.25.119:49259 -> 64.12.20.193:80
+TCP TTL:50 TOS:0x0 ID:7820 IpLen:20 DgmLen:1214 DF
+***AP*** Seq: 0x954B51D3  Ack: 0x7436749C  Win: 0x1FF8  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:254:15] PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:41.244648 8.8.4.4:53 -> 10.1.25.119:61828
+UDP TTL:48 TOS:0x0 ID:14775 IpLen:20 DgmLen:141
+Len: 113
+
+[**] [1:254:15] PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:41.259428 8.8.4.4:53 -> 10.1.25.119:65497
+UDP TTL:48 TOS:0x0 ID:18625 IpLen:20 DgmLen:122
+Len: 94
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:41.166349 10.1.25.119:49269 -> 205.180.86.140:80
+TCP TTL:48 TOS:0x48 ID:40280 IpLen:20 DgmLen:1558 DF
+***A**** Seq: 0x2E165AAA  Ack: 0xA939B0FB  Win: 0x4585  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:52.657665 10.1.25.119:49197 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:12260 IpLen:20 DgmLen:1576 DF
+***A**** Seq: 0x782DBB02  Ack: 0xD1090770  Win: 0xAF40  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:52.658360 10.1.25.119:49196 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:63796 IpLen:20 DgmLen:1575 DF
+***A**** Seq: 0x40CD9CB0  Ack: 0xD1D29F16  Win: 0xA2C0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:52.659325 10.1.25.119:49202 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:31491 IpLen:20 DgmLen:1593 DF
+***A**** Seq: 0xF7774538  Ack: 0x41FE19B9  Win: 0x89A0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:52.660053 10.1.25.119:49201 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:5876 IpLen:20 DgmLen:1593 DF
+***A**** Seq: 0x7673F33C  Ack: 0x40367E81  Win: 0x89A0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.004835 10.1.25.119:49291 -> 23.76.125.60:80
+TCP TTL:59 TOS:0x0 ID:7261 IpLen:20 DgmLen:1561 DF
+***A**** Seq: 0xA358D9F1  Ack: 0xF07FA23F  Win: 0x8560  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.015098 10.1.25.119:49290 -> 23.76.125.60:80
+TCP TTL:59 TOS:0x0 ID:25593 IpLen:20 DgmLen:1561 DF
+***A**** Seq: 0x44CDF318  Ack: 0xD864FEBE  Win: 0x8560  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:53.008862 10.1.25.119:49218 -> 216.58.216.230:80
+TCP TTL:56 TOS:0x0 ID:39102 IpLen:20 DgmLen:579
+***A**** Seq: 0xD8BE9F29  Ack: 0xC3401494  Win: 0xB480  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:14:53.111939 216.58.216.230 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:3263 IpLen:20 DgmLen:84 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.236472 10.1.25.119:49221 -> 63.251.85.25:80
+TCP TTL:247 TOS:0x0 ID:40930 IpLen:20 DgmLen:1571 DF
+***A**** Seq: 0xD518D70A  Ack: 0xC343922  Win: 0x6661  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.750694 10.1.25.119:49282 -> 216.39.55.12:80
+TCP TTL:44 TOS:0x48 ID:60354 IpLen:20 DgmLen:1186 DF
+***A**** Seq: 0x89107D60  Ack: 0x8AE15D04  Win: 0x4200  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.947810 10.1.25.119:49300 -> 8.30.11.13:80
+TCP TTL:246 TOS:0x48 ID:2928 IpLen:20 DgmLen:1056 DF
+***A**** Seq: 0xCF734BC  Ack: 0xC85D7A60  Win: 0x1403  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.932961 10.1.25.119:49296 -> 52.0.52.92:80
+TCP TTL:52 TOS:0x0 ID:46308 IpLen:20 DgmLen:1018 DF
+***A**** Seq: 0x8F226B2E  Ack: 0x304C7BA0  Win: 0x4E00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.962441 10.1.25.119:49307 -> 31.13.74.12:80
+TCP TTL:86 TOS:0x0 ID:21841 IpLen:20 DgmLen:1052 DF
+***A**** Seq: 0x883113DA  Ack: 0x6FCAD012  Win: 0x3F00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.904207 10.1.25.119:49281 -> 216.39.55.12:80
+TCP TTL:44 TOS:0x48 ID:10767 IpLen:20 DgmLen:1112 DF
+***AP*** Seq: 0x92AC7498  Ack: 0xD4C366F2  Win: 0x5000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.961840 10.1.25.119:49302 -> 31.13.74.36:80
+TCP TTL:86 TOS:0x0 ID:49026 IpLen:20 DgmLen:1059 DF
+***A**** Seq: 0xE235FE4A  Ack: 0x7FA0A4B1  Win: 0x4000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.977689 10.1.25.119:49304 -> 173.241.242.220:80
+TCP TTL:51 TOS:0x48 ID:23628 IpLen:20 DgmLen:1054 DF
+***A**** Seq: 0xFCBC580B  Ack: 0x1572465E  Win: 0x7A00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:53.998072 10.1.25.119:49298 -> 54.183.120.24:80
+TCP TTL:55 TOS:0x0 ID:64695 IpLen:20 DgmLen:1052 DF
+***A**** Seq: 0xFE3DBC6A  Ack: 0xEB629C48  Win: 0x4E00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:54.067194 10.1.25.119:49305 -> 173.241.242.220:80
+TCP TTL:51 TOS:0x48 ID:64378 IpLen:20 DgmLen:1118 DF
+***A**** Seq: 0x32719E81  Ack: 0x88EFBCB  Win: 0x7C00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:54.327796 10.1.25.119:49311 -> 205.180.87.172:80
+TCP TTL:48 TOS:0x48 ID:26356 IpLen:20 DgmLen:1476 DF
+***A**** Seq: 0xBD54E7F2  Ack: 0x5D03F276  Win: 0x4400  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:54.382806 10.1.25.119:49312 -> 205.185.216.10:80
+TCP TTL:58 TOS:0x0 ID:16298 IpLen:20 DgmLen:1120 DF
+***A**** Seq: 0xF76C8619  Ack: 0xB2130A9D  Win: 0x4200  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:14:54.465773 10.1.25.119:49314 -> 205.180.86.140:80
+TCP TTL:48 TOS:0x48 ID:50666 IpLen:20 DgmLen:1498 DF
+***A**** Seq: 0xB3545F9F  Ack: 0x2A75A474  Win: 0x4400  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:04.679737 10.1.25.119:49200 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:64738 IpLen:20 DgmLen:1864 DF
+***A**** Seq: 0xC4BF261C  Ack: 0xD1F0FE89  Win: 0x89A0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:04.680915 10.1.25.119:49199 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:17746 IpLen:20 DgmLen:1864 DF
+***A**** Seq: 0xBABE3C55  Ack: 0xD0174638  Win: 0x89A0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.673788 10.1.25.119:49211 -> 50.18.183.197:80
+TCP TTL:46 TOS:0x0 ID:43549 IpLen:20 DgmLen:1036 DF
+***AP*** Seq: 0x97987045  Ack: 0x60ACBA21  Win: 0x5700  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.756367 10.1.25.119 -> 184.28.198.107
+PROTO:254 TTL:58 TOS:0x0 ID:5900 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.756367 10.1.25.119:49201 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:5900 IpLen:20 DgmLen:1864 DF
+***A**** Seq: 0x7674078E  Ack: 0x4036E5A5  Win: 0xCBE0  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:04.757119 10.1.25.119:49316 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:11991 IpLen:20 DgmLen:1869 DF
+***A**** Seq: 0xDB7DEBBE  Ack: 0xD0A25760  Win: 0x8560  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:04.779798 10.1.25.119:49317 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:8270 IpLen:20 DgmLen:1861 DF
+***A**** Seq: 0xB3ADB6FF  Ack: 0x4116C335  Win: 0x8560  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.845544 10.1.25.119:49200 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:64750 IpLen:20 DgmLen:1869 DF
+***A**** Seq: 0xC4BF3463  Ack: 0xD1F1329F  Win: 0xB5C0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.845890 10.1.25.119 -> 184.28.198.107
+PROTO:254 TTL:58 TOS:0x0 ID:31508 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.845890 10.1.25.119:49202 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:31508 IpLen:20 DgmLen:1867 DF
+***A**** Seq: 0xF777598F  Ack: 0x41FE56B3  Win: 0xCBE0  TcpLen: 20
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.868502 10.1.25.119:49199 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:17761 IpLen:20 DgmLen:1863 DF
+***A**** Seq: 0xBABE4A93  Ack: 0xD01786A6  Win: 0xB5C0  TcpLen: 20
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.943470 10.1.25.119:49316 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:11998 IpLen:20 DgmLen:1867 DF
+***A**** Seq: 0xDB7DFA0C  Ack: 0xD0A26D13  Win: 0xB1A0  TcpLen: 20
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.970415 10.1.25.119:49195 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:2546 IpLen:20 DgmLen:1878 DF
+***A**** Seq: 0xBADED234  Ack: 0x40DF7469  Win: 0xF7A0  TcpLen: 20
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.934817 10.1.25.119:49318 -> 66.235.155.62:80
+TCP TTL:51 TOS:0x48 ID:28991 IpLen:20 DgmLen:1565 DF
+***A**** Seq: 0x779CE7BB  Ack: 0xEC54A2EA  Win: 0x4ADE  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:04.934817 10.1.25.119:49318 -> 66.235.155.62:80
+TCP TTL:51 TOS:0x48 ID:28991 IpLen:20 DgmLen:1565 DF
+***A**** Seq: 0x779CE7BB  Ack: 0xEC54A2EA  Win: 0x4ADE  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:04.971744 10.1.25.119:49183 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:48673 IpLen:20 DgmLen:2175 DF
+***A**** Seq: 0x68BB78D5  Ack: 0x40A14D06  Win: 0xD6C0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:04.972390 10.1.25.119:49185 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:27050 IpLen:20 DgmLen:2206 DF
+***A**** Seq: 0x800BAE30  Ack: 0xD1CFC160  Win: 0xC260  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:04.973046 10.1.25.119:49188 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:61493 IpLen:20 DgmLen:2187 DF
+***A**** Seq: 0xE259FE41  Ack: 0x41CBC749  Win: 0xB000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.983645 10.1.25.119 -> 184.28.198.107
+PROTO:254 TTL:58 TOS:0x0 ID:8275 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.983645 10.1.25.119:49317 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:8275 IpLen:20 DgmLen:1872 DF
+***A**** Seq: 0xB3ADC542  Ack: 0x4116CE53  Win: 0xB1A0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:04.991635 10.1.25.119 -> 184.28.198.107
+PROTO:254 TTL:58 TOS:0x0 ID:17765 IpLen:20 DgmLen:84 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.003429 10.1.25.119 -> 184.28.198.107
+PROTO:254 TTL:58 TOS:0x0 ID:64753 IpLen:20 DgmLen:84 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.020826 10.1.25.119 -> 184.28.198.107
+PROTO:254 TTL:58 TOS:0x0 ID:12001 IpLen:20 DgmLen:84 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.197550 10.1.25.119 -> 184.28.198.107
+PROTO:254 TTL:58 TOS:0x0 ID:63804 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.197550 10.1.25.119:49196 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:63804 IpLen:20 DgmLen:1884 DF
+***A**** Seq: 0x40CDB0E2  Ack: 0xD1D2B44D  Win: 0xE500  TcpLen: 20
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.366070 23.76.125.60:80 -> 10.1.25.119:49291
+TCP TTL:128 TOS:0x0 ID:3749 IpLen:20 DgmLen:8594 DF
+***A**** Seq: 0xF07FDD52  Ack: 0xA358EE1F  Win: 0xFF00  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:05.303839 10.1.25.119:49320 -> 23.76.125.60:80
+TCP TTL:59 TOS:0x0 ID:41269 IpLen:20 DgmLen:1866 DF
+***A**** Seq: 0x5C098653  Ack: 0xF02B4F46  Win: 0x8560  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:05.304097 10.1.25.119:49322 -> 23.76.125.60:80
+TCP TTL:59 TOS:0x0 ID:57845 IpLen:20 DgmLen:1892 DF
+***A**** Seq: 0x23222643  Ack: 0xF17C0F87  Win: 0x8560  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:3679:16] INDICATOR-OBFUSCATION Multiple Products IFRAME src javascript code execution [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:15:05.375027 23.76.125.60:80 -> 10.1.25.119:49320
+TCP TTL:128 TOS:0x0 ID:3762 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0xF02B4F46  Ack: 0x5C098D75  Win: 0x0  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=18243][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2008-2939][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2005-1476][Xref => http://www.securityfocus.com/bid/30560][Xref => http://www.securityfocus.com/bid/13544]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:05.304817 10.1.25.119:49321 -> 23.76.125.60:80
+TCP TTL:59 TOS:0x0 ID:41621 IpLen:20 DgmLen:1865 DF
+***A**** Seq: 0x230ACF87  Ack: 0xD8756FD1  Win: 0x8560  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:05.305062 10.1.25.119:49323 -> 23.76.125.60:80
+TCP TTL:59 TOS:0x0 ID:23735 IpLen:20 DgmLen:1848 DF
+***A**** Seq: 0xA7A7AD82  Ack: 0xD86591F0  Win: 0x8560  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.860799 10.1.25.119 -> 63.251.85.25
+PROTO:254 TTL:247 TOS:0x0 ID:5505 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.860799 10.1.25.119:49329 -> 63.251.85.25:80
+TCP TTL:247 TOS:0x0 ID:5505 IpLen:20 DgmLen:2172 DF
+***A**** Seq: 0xD4EA5EF2  Ack: 0x753F9D98  Win: 0x6408  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:05.860799 10.1.25.119:49329 -> 63.251.85.25:80
+TCP TTL:247 TOS:0x0 ID:5505 IpLen:20 DgmLen:2172 DF
+***A**** Seq: 0xD4EA5EF2  Ack: 0x753F9D98  Win: 0x6408  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.880711 10.1.25.119 -> 74.125.226.168
+PROTO:254 TTL:56 TOS:0x0 ID:60075 IpLen:20 DgmLen:20
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.889357 10.1.25.119:49223 -> 74.125.226.168:80
+TCP TTL:56 TOS:0x0 ID:49276 IpLen:20 DgmLen:1600
+***A**** Seq: 0x199EAAE2  Ack: 0xAAF81792  Win: 0xBD00  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:05.889357 10.1.25.119:49223 -> 74.125.226.168:80
+TCP TTL:56 TOS:0x0 ID:49276 IpLen:20 DgmLen:1600
+***A**** Seq: 0x199EAAE2  Ack: 0xAAF81792  Win: 0xBD00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.904956 10.1.25.119 -> 205.180.87.172
+PROTO:254 TTL:48 TOS:0x48 ID:30315 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:05.904956 10.1.25.119:49292 -> 205.180.87.172:80
+TCP TTL:48 TOS:0x48 ID:30315 IpLen:20 DgmLen:2088 DF
+***A**** Seq: 0xC9FC65C5  Ack: 0xEC74E748  Win: 0x5000  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:05.904956 10.1.25.119:49292 -> 205.180.87.172:80
+TCP TTL:48 TOS:0x48 ID:30315 IpLen:20 DgmLen:2088 DF
+***A**** Seq: 0xC9FC65C5  Ack: 0xEC74E748  Win: 0x5000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.162822 10.1.25.119:49197 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:12268 IpLen:20 DgmLen:1970 DF
+***A**** Seq: 0x782DCF5B  Ack: 0xD1091C61  Win: 0xF1A0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.163562 10.1.25.119 -> 184.28.198.107
+PROTO:254 TTL:58 TOS:0x0 ID:18995 IpLen:20 DgmLen:84 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:06.163562 10.1.25.119:49198 -> 184.28.198.107:80
+TCP TTL:58 TOS:0x0 ID:18995 IpLen:20 DgmLen:1967 DF
+***A**** Seq: 0x31CBD929  Ack: 0x419426A9  Win: 0xA580  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.198634 10.1.25.119:49322 -> 23.76.125.60:80
+TCP TTL:59 TOS:0x0 ID:57855 IpLen:20 DgmLen:1958 DF
+***A**** Seq: 0x23222D7F  Ack: 0xF17C30FE  Win: 0x9B80  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.655391 10.1.25.119 -> 96.17.10.66
+PROTO:254 TTL:53 TOS:0x48 ID:10714 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.655391 10.1.25.119:49239 -> 96.17.10.66:80
+TCP TTL:53 TOS:0x48 ID:10714 IpLen:20 DgmLen:1411 DF
+***A**** Seq: 0xB22BC638  Ack: 0x6F374E2E  Win: 0x58C0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.811961 10.1.25.119 -> 23.76.125.60
+PROTO:254 TTL:59 TOS:0x0 ID:57857 IpLen:20 DgmLen:84 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.831655 10.1.25.119 -> 23.76.125.60
+PROTO:254 TTL:59 TOS:0x0 ID:7284 IpLen:20 DgmLen:84 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.833131 10.1.25.119 -> 23.76.125.60
+PROTO:254 TTL:59 TOS:0x0 ID:25621 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:06.833131 10.1.25.119:49290 -> 23.76.125.60:80
+TCP TTL:59 TOS:0x0 ID:25621 IpLen:20 DgmLen:1974 DF
+***A**** Seq: 0x44CE0730  Ack: 0xD86579D0  Win: 0xC7C0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:07.102506 10.1.25.119 -> 98.138.47.34
+PROTO:254 TTL:43 TOS:0x48 ID:57548 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:07.102506 10.1.25.119:49275 -> 98.138.47.34:80
+TCP TTL:43 TOS:0x48 ID:57548 IpLen:20 DgmLen:1331 DF
+***AP*** Seq: 0xE82FF842  Ack: 0x4B98BE83  Win: 0x5200  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:07.250210 10.1.25.119 -> 65.52.108.27
+PROTO:254 TTL:112 TOS:0x28 ID:32277 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:07.250210 10.1.25.119:49283 -> 65.52.108.27:80
+TCP TTL:112 TOS:0x28 ID:32277 IpLen:20 DgmLen:1315 DF
+***AP*** Seq: 0xCEA1B436  Ack: 0x9CCB26C3  Win: 0x100  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:07.253005 10.1.25.119 -> 131.253.40.59
+PROTO:254 TTL:113 TOS:0x28 ID:19517 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:07.253005 10.1.25.119:49279 -> 131.253.40.59:80
+TCP TTL:113 TOS:0x28 ID:19517 IpLen:20 DgmLen:1428 DF
+***A**** Seq: 0x8A12023B  Ack: 0x23746A1F  Win: 0x0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:07.276551 10.1.25.119 -> 23.23.118.204
+PROTO:254 TTL:43 TOS:0x0 ID:49816 IpLen:20 DgmLen:84 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:07.276551 10.1.25.119:49340 -> 23.23.118.204:80
+TCP TTL:43 TOS:0x0 ID:49816 IpLen:20 DgmLen:1150 DF
+***AP*** Seq: 0xADB9195D  Ack: 0x20C95367  Win: 0x8800  TcpLen: 20
+
+[**] [120:8:2] (http_inspect) INVALID CONTENT-LENGTH OR CHUNK SIZE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:15:07.720479 10.1.25.119:49350 -> 198.51.152.179:80
+TCP TTL:128 TOS:0x0 ID:4556 IpLen:20 DgmLen:40 DF
+***A**** Seq: 0xBAD152A9  Ack: 0x446F505F  Win: 0xFD  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2013-2028]
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:15:16.226229 10.1.25.119:49328 -> 63.251.85.25:80
+TCP TTL:247 TOS:0x0 ID:26626 IpLen:20 DgmLen:1759 DF
+***A**** Seq: 0x53F30C86  Ack: 0x6D0EAA7A  Win: 0x65A5  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:15:16.226229 10.1.25.119:49328 -> 63.251.85.25:80
+TCP TTL:247 TOS:0x0 ID:26626 IpLen:20 DgmLen:1759 DF
+***A**** Seq: 0x53F30C86  Ack: 0x6D0EAA7A  Win: 0x65A5  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:15:59.427928 64.34.173.208:80 -> 10.1.25.119:49369
+TCP TTL:57 TOS:0x0 ID:37000 IpLen:20 DgmLen:1409 DF
+***A**** Seq: 0xB24E6D96  Ack: 0x90712C8  Win: 0x36  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:15:59.524050 64.34.173.208:80 -> 10.1.25.119:49369
+TCP TTL:57 TOS:0x0 ID:37004 IpLen:20 DgmLen:1409 DF
+***A**** Seq: 0xB24E82FA  Ack: 0x90712C8  Win: 0x36  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:15:59.606236 64.34.173.208:80 -> 10.1.25.119:49369
+TCP TTL:57 TOS:0x0 ID:37008 IpLen:20 DgmLen:1409 DF
+***A**** Seq: 0xB24E985E  Ack: 0x90712C8  Win: 0x36  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:15:59.661898 64.34.173.208:80 -> 10.1.25.119:49369
+TCP TTL:57 TOS:0x0 ID:37013 IpLen:20 DgmLen:1409 DF
+***A**** Seq: 0xB24EB31B  Ack: 0x90712C8  Win: 0x36  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:15:59.663453 74.125.226.180:80 -> 10.1.25.119:49170
+TCP TTL:128 TOS:0x0 ID:5014 IpLen:20 DgmLen:6276 DF
+***A**** Seq: 0xF91E6535  Ack: 0x9D5B5771  Win: 0xFF00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:19887:7] INDICATOR-OBFUSCATION potential javascript unescape obfuscation attempt detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:15:59.702843 64.34.173.208:80 -> 10.1.25.119:49369
+TCP TTL:57 TOS:0x0 ID:37019 IpLen:20 DgmLen:1409 DF
+***A**** Seq: 0xB24ED331  Ack: 0x90712C8  Win: 0x36  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:16:05.861567 64.34.173.208 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:5076 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:16:09.566411 23.92.22.133 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:5154 IpLen:20 DgmLen:20 DF
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:15:17.729247 198.51.152.179:80 -> 10.1.25.119:49351
+TCP TTL:128 TOS:0x0 ID:5214 IpLen:20 DgmLen:252 DF
+***A*R** Seq: 0x238AFDF  Ack: 0x6A0E7878  Win: 0xFF00  TcpLen: 20
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:16:15.495038 23.235.44.175:80 -> 10.1.25.119:49385
+TCP TTL:128 TOS:0x0 ID:5643 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0xCAF7E9BD  Ack: 0x35083EA8  Win: 0x0  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:15.683601 10.1.25.119:49408 -> 52.7.205.103:80
+TCP TTL:52 TOS:0x0 ID:45442 IpLen:20 DgmLen:1698 DF
+***A**** Seq: 0xB5A084DB  Ack: 0x74BC267B  Win: 0x7E80  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:16.245814 10.1.25.119:49371 -> 64.34.173.208:80
+TCP TTL:57 TOS:0x0 ID:44409 IpLen:20 DgmLen:1254 DF
+***A**** Seq: 0x6C123BC0  Ack: 0xA407C89C  Win: 0x1C74  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:20.789056 52.22.18.194:80 -> 10.1.25.119:49418
+TCP TTL:52 TOS:0x0 ID:4289 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0x550C590E  Ack: 0xDDB229F4  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:20.481836 10.1.25.119:49418 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:5918 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xDDB229DC  Ack: 0x550C5980  Win: 0x6980  TcpLen: 20
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:21.600106 52.21.140.191:80 -> 10.1.25.119:49420
+TCP TTL:52 TOS:0x0 ID:5493 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0x9FC629AC  Ack: 0x333BB730  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:21.250981 10.1.25.119:49420 -> 52.21.140.191:80
+TCP TTL:128 TOS:0x0 ID:5929 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x333BB718  Ack: 0x9FC62A1E  Win: 0x6980  TcpLen: 20
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:21.914621 52.22.18.194:80 -> 10.1.25.119:49421
+TCP TTL:52 TOS:0x0 ID:20273 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0xA2805C0  Ack: 0xE6ADC4FE  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:21.605933 10.1.25.119:49421 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:5935 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0xE6ADC4FC  Ack: 0xA280632  Win: 0x7080  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:21.987467 10.1.25.119:49422 -> 52.21.140.191:80
+TCP TTL:52 TOS:0x0 ID:33366 IpLen:20 DgmLen:2083 DF
+***A**** Seq: 0x32E7034C  Ack: 0x8A64BFD0  Win: 0x7E80  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:22.210969 52.21.140.191:80 -> 10.1.25.119:49422
+TCP TTL:52 TOS:0x0 ID:33367 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0x8A64BFD0  Ack: 0x32E70B49  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:21.987572 10.1.25.119:49422 -> 52.21.140.191:80
+TCP TTL:128 TOS:0x0 ID:5943 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0x32E70B47  Ack: 0x8A64C042  Win: 0x7E80  TcpLen: 20
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:22.553690 52.22.18.194:80 -> 10.1.25.119:49423
+TCP TTL:52 TOS:0x0 ID:9288 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0xA0496F38  Ack: 0xFBABD58D  Win: 0xFAE6  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:22.216032 10.1.25.119:49423 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:5948 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0xFBABD58B  Ack: 0xA0496FAA  Win: 0x6A25  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:24.574313 10.1.25.119:49433 -> 52.22.18.194:80
+TCP TTL:52 TOS:0x0 ID:2704 IpLen:20 DgmLen:1696 DF
+***A**** Seq: 0x5644287A  Ack: 0x7D92475E  Win: 0x7E80  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:24.574824 10.1.25.119:49434 -> 52.21.140.191:80
+TCP TTL:52 TOS:0x0 ID:32257 IpLen:20 DgmLen:2083 DF
+***A**** Seq: 0x93B4E748  Ack: 0xE8D83E0C  Win: 0x7E80  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:24.669178 52.22.18.194:80 -> 10.1.25.119:49433
+TCP TTL:52 TOS:0x0 ID:2705 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0x7D92475E  Ack: 0x56442EF4  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:24.574528 10.1.25.119:49433 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:6016 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0x56442EF2  Ack: 0x7D9247D0  Win: 0x7E80  TcpLen: 20
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:24.669360 52.21.140.191:80 -> 10.1.25.119:49434
+TCP TTL:52 TOS:0x0 ID:32258 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0xE8D83E0C  Ack: 0x93B4EF45  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:24.574908 10.1.25.119:49434 -> 52.21.140.191:80
+TCP TTL:128 TOS:0x0 ID:6018 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0x93B4EF43  Ack: 0xE8D83E7E  Win: 0x7E80  TcpLen: 20
+
+[**] [1:31751:3] FILE-OFFICE Microsoft Office Outlook mailto injection attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:16:24.816175 54.83.10.229:80 -> 10.1.25.119:49436
+TCP TTL:128 TOS:0x0 ID:6066 IpLen:20 DgmLen:16156 DF
+***A**** Seq: 0x9D1F1581  Ack: 0xD03BF811  Win: 0xFB00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0121]
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:24.868084 52.22.18.194:80 -> 10.1.25.119:49437
+TCP TTL:52 TOS:0x0 ID:39842 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0xD03FD5A5  Ack: 0xC526E532  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:24.777789 10.1.25.119:49437 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:6043 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0xC526E530  Ack: 0xD03FD617  Win: 0x6E00  TcpLen: 20
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:16:25.020834 54.83.10.229:80 -> 10.1.25.119:49436
+TCP TTL:128 TOS:0x0 ID:6082 IpLen:20 DgmLen:7475 DF
+***A**** Seq: 0x9D1F5475  Ack: 0xD03BF956  Win: 0xFE00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:25.075546 52.22.18.194:80 -> 10.1.25.119:49440
+TCP TTL:52 TOS:0x0 ID:29656 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0xBBDE3DE0  Ack: 0x483D22FE  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:24.982763 10.1.25.119:49440 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:6075 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0x483D22FC  Ack: 0xBBDE3E52  Win: 0x7100  TcpLen: 20
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:25.842845 52.22.18.194:80 -> 10.1.25.119:49445
+TCP TTL:52 TOS:0x0 ID:36347 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0xBE64C338  Ack: 0x1D8F1340  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:25.543092 10.1.25.119:49445 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:6112 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0x1D8F133E  Ack: 0xBE64C3AA  Win: 0x6E00  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:27.814926 10.1.25.119:49446 -> 52.22.18.194:80
+TCP TTL:52 TOS:0x0 ID:22904 IpLen:20 DgmLen:1367 DF
+***A**** Seq: 0xA93D27F6  Ack: 0x1FD516F7  Win: 0x7380  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:28.021879 52.22.18.194:80 -> 10.1.25.119:49446
+TCP TTL:52 TOS:0x0 ID:22905 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0x1FD516F7  Ack: 0xA93D2D27  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:27.814926 10.1.25.119:49446 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:6203 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0xA93D2D25  Ack: 0x1FD51769  Win: 0x7380  TcpLen: 20
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:29.993218 52.22.18.194:80 -> 10.1.25.119:49447
+TCP TTL:52 TOS:0x0 ID:22479 IpLen:20 DgmLen:153 DF
+***AP*** Seq: 0x48E7050D  Ack: 0xFD20725A  Win: 0x0  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:29.655404 10.1.25.119:49447 -> 52.22.18.194:80
+TCP TTL:128 TOS:0x0 ID:6223 IpLen:20 DgmLen:41 DF
+***AP*** Seq: 0xFD207258  Ack: 0x48E7057F  Win: 0x7000  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:16:30.176297 162.216.4.20 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:6265 IpLen:20 DgmLen:20 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:33.397694 10.1.25.119:49424 -> 64.34.173.208:80
+TCP TTL:57 TOS:0x0 ID:13405 IpLen:20 DgmLen:1280 DF
+***A**** Seq: 0x6F224CCA  Ack: 0x94D7A974  Win: 0x1D10  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:19233:12] FILE-IDENTIFY Microsoft Windows Visual Studio DISCO file download request [**]
+[Classification: Misc activity] [Priority: 3] 
+11/24-16:16:33.809409 10.1.25.119:49449 -> 162.216.4.20:80
+TCP TTL:52 TOS:0x28 ID:2708 IpLen:20 DgmLen:312 DF
+***A**** Seq: 0x6595DD0  Ack: 0x5B3C235F  Win: 0x3D80  TcpLen: 20
+[Xref => http://msdn.microsoft.com/en-us/library/8k0zafxb(v=vs.80).aspx]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:33.411433 10.1.25.119:49425 -> 64.34.173.208:80
+TCP TTL:57 TOS:0x0 ID:28206 IpLen:20 DgmLen:897 DF
+***A**** Seq: 0xA238207  Ack: 0xDDA3C6C5  Win: 0x1AC8  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:16:36.851882 162.216.4.20 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:6371 IpLen:20 DgmLen:20 DF
+
+[**] [1:30320:2] BLACKLIST Connection to malware sinkhole [**]
+[Classification: A Network Trojan was detected] [Priority: 1] 
+11/24-16:16:42.076853 166.78.145.90:80 -> 10.1.25.119:49453
+TCP TTL:128 TOS:0x0 ID:6775 IpLen:20 DgmLen:310 DF
+***A**** Seq: 0x76295D32  Ack: 0x7F847C95  Win: 0xFF00  TcpLen: 20
+[Xref => http://en.wikipedia.org/wiki/Sinkhole_Server]
+
+[**] [1:25018:3] BLACKLIST Connection to malware sinkhole [**]
+[Classification: A Network Trojan was detected] [Priority: 1] 
+11/24-16:16:42.076853 166.78.145.90:80 -> 10.1.25.119:49453
+TCP TTL:128 TOS:0x0 ID:6775 IpLen:20 DgmLen:310 DF
+***A**** Seq: 0x76295D32  Ack: 0x7F847C95  Win: 0xFF00  TcpLen: 20
+[Xref => http://en.wikipedia.org/wiki/Sinkhole_Server]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:33.699885 10.1.25.119:49432 -> 64.34.173.208:80
+TCP TTL:57 TOS:0x0 ID:63047 IpLen:20 DgmLen:1243 DF
+***A**** Seq: 0xC6090A1A  Ack: 0x43E37CA  Win: 0x1C32  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:16:43.968802 10.1.25.119 -> 52.7.205.103
+PROTO:254 TTL:52 TOS:0x0 ID:45448 IpLen:20 DgmLen:120 DF
+
+[**] [138:4:1] SENSITIVE-DATA U.S. Social Security Numbers (w/out dashes) [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:16:43.968802 10.1.25.119:49408 -> 52.7.205.103:80
+TCP TTL:52 TOS:0x0 ID:45448 IpLen:20 DgmLen:929 DF
+***AP*** Seq: 0xB5A097A1  Ack: 0x74BC2C93  Win: 0xB400  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:16:45.540949 95.211.205.229 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:6980 IpLen:20 DgmLen:20 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:52.914774 10.1.25.119:49457 -> 64.34.173.208:80
+TCP TTL:57 TOS:0x0 ID:17235 IpLen:20 DgmLen:1243 DF
+***A**** Seq: 0x6E98050D  Ack: 0x2A1AAA22  Win: 0x2080  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [129:5:1] Bad segment, adjusted size <= 0 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:56.968576 10.1.25.119:49458 -> 151.80.126.226:80
+TCP TTL:128 TOS:0x0 ID:7255 IpLen:20 DgmLen:745 DF
+***AP*** Seq: 0xAEC48828  Ack: 0xDD1FB9A6  Win: 0x100  TcpLen: 20
+
+[**] [119:31:1] (http_inspect) UNKNOWN METHOD [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:56.968576 10.1.25.119:49458 -> 151.80.126.226:80
+TCP TTL:128 TOS:0x0 ID:7255 IpLen:20 DgmLen:745 DF
+***AP*** Seq: 0xAEC48828  Ack: 0xDD1FB9A6  Win: 0x100  TcpLen: 20
+
+[**] [1:27919:3] MALWARE-CNC Win.Trojan.Zeus encrypted POST Data exfiltration [**]
+[Classification: A Network Trojan was detected] [Priority: 1] 
+11/24-16:16:55.553590 10.1.25.119:49458 -> 151.80.126.226:80
+TCP TTL:53 TOS:0x18 ID:10954 IpLen:20 DgmLen:1150 DF
+***A**** Seq: 0xAEC48693  Ack: 0xDD1FB9A6  Win: 0x4300  TcpLen: 20
+[Xref => http://www.virustotal.com/en/file/8825abfca1a6d843ce5670858886cb63bb1317ddbb92f91ffd46cfdcaba9ac00/analysis/]
+
+[**] [120:8:2] (http_inspect) INVALID CONTENT-LENGTH OR CHUNK SIZE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:57.356278 10.1.25.119:49458 -> 151.80.126.226:80
+TCP TTL:128 TOS:0x0 ID:7258 IpLen:20 DgmLen:40 DF
+***A**** Seq: 0xAEC48AE9  Ack: 0xDD1FBA4A  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2013-2028]
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:57.355792 151.80.126.226:80 -> 10.1.25.119:49458
+TCP TTL:53 TOS:0x18 ID:10955 IpLen:20 DgmLen:60 DF
+***AP*** Seq: 0xDD1FBA35  Ack: 0xAEC48AEA  Win: 0x0  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:59.005059 10.1.25.119:49462 -> 54.235.106.39:80
+TCP TTL:36 TOS:0x0 ID:54011 IpLen:20 DgmLen:1760 DF
+***A**** Seq: 0xBAF58A3B  Ack: 0x8D0A725  Win: 0x8800  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:16:59.071150 10.1.25.119:49468 -> 54.235.106.39:80
+TCP TTL:37 TOS:0x0 ID:60646 IpLen:20 DgmLen:1629 DF
+***A**** Seq: 0x836F8A64  Ack: 0x9D279908  Win: 0x8800  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:16:59.171881 74.125.226.162:80 -> 10.1.25.119:49459
+TCP TTL:128 TOS:0x0 ID:7446 IpLen:20 DgmLen:9019 DF
+***A**** Seq: 0x6678CAFD  Ack: 0xF8EE1A1A  Win: 0xFD00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:16:59.200498 23.209.187.174:80 -> 10.1.25.119:49479
+TCP TTL:128 TOS:0x0 ID:7454 IpLen:20 DgmLen:2443 DF
+***A**** Seq: 0x781E5689  Ack: 0xE9688F97  Win: 0xFC00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [120:8:2] (http_inspect) INVALID CONTENT-LENGTH OR CHUNK SIZE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:16:59.222300 10.1.25.119:49476 -> 107.21.249.50:80
+TCP TTL:128 TOS:0x0 ID:7457 IpLen:20 DgmLen:40 DF
+***A**** Seq: 0x67CDDD72  Ack: 0xE9461521  Win: 0xFE  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2013-2028]
+
+[**] [1:31751:3] FILE-OFFICE Microsoft Office Outlook mailto injection attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:17:54.683264 54.83.10.229:80 -> 10.1.25.119:49490
+TCP TTL:128 TOS:0x0 ID:7673 IpLen:20 DgmLen:16155 DF
+***A**** Seq: 0x30AF4C76  Ack: 0xACD9DCC2  Win: 0xFC00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0121]
+
+[**] [1:31751:3] FILE-OFFICE Microsoft Office Outlook mailto injection attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:17:54.707199 54.83.10.229:80 -> 10.1.25.119:49491
+TCP TTL:128 TOS:0x0 ID:7675 IpLen:20 DgmLen:16155 DF
+***A**** Seq: 0xE176B9E6  Ack: 0xBAD53B5  Win: 0xFC00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0121]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:17:55.017343 54.83.10.229:80 -> 10.1.25.119:49491
+TCP TTL:128 TOS:0x0 ID:7705 IpLen:20 DgmLen:7404 DF
+***A**** Seq: 0xE1771EEE  Ack: 0xBAD59A8  Win: 0xFE00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:17:55.053463 54.83.10.229:80 -> 10.1.25.119:49490
+TCP TTL:128 TOS:0x0 ID:7712 IpLen:20 DgmLen:7404 DF
+***A**** Seq: 0x30AFB17E  Ack: 0xACD9E2B5  Win: 0xFE00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:17:55.694132 54.83.10.229 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:7762 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:17:56.320709 192.229.163.16 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:8039 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:17:57.181156 54.231.16.209 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:8135 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:17:56.408259 192.229.163.16 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:8151 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:17:57.211490 23.235.40.193 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:8186 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:17:57.336017 23.235.40.193 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:8950 IpLen:20 DgmLen:20 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:17:57.622825 10.1.25.119:49527 -> 64.34.173.208:80
+TCP TTL:57 TOS:0x0 ID:20868 IpLen:20 DgmLen:1199 DF
+***A**** Seq: 0x7934FFD8  Ack: 0x8014B857  Win: 0x2000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:18:00.039405 10.1.25.119:49525 -> 64.34.173.208:80
+TCP TTL:57 TOS:0x0 ID:14358 IpLen:20 DgmLen:1203 DF
+***A**** Seq: 0x6BD5F8D6  Ack: 0x9E9ED7A0  Win: 0x2000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:17:04.212852 64.34.191.178:80 -> 10.1.25.119:49480
+TCP TTL:128 TOS:0x0 ID:9400 IpLen:20 DgmLen:252 DF
+***A*R** Seq: 0x54010D88  Ack: 0x4E312B57  Win: 0xFF00  TcpLen: 20
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:18:00.068111 10.1.25.119:49526 -> 64.34.173.208:80
+TCP TTL:57 TOS:0x0 ID:9365 IpLen:20 DgmLen:1205 DF
+***A**** Seq: 0x9608D4F7  Ack: 0x7CC8DF17  Win: 0x2000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:18:03.916339 64.34.173.208 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:9564 IpLen:20 DgmLen:84 DF
+
+[**] [129:12:1] Consecutive TCP small segments exceeding threshold [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:19:04.559252 72.30.202.247:443 -> 10.1.25.119:49514
+TCP TTL:48 TOS:0x0 ID:20904 IpLen:20 DgmLen:109 DF
+***AP*** Seq: 0xE9EDE2F5  Ack: 0xFB536A13  Win: 0x17  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:20:43.266739 23.9.102.155 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1055 IpLen:20 DgmLen:20 DF
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:20:43.266739 23.9.102.155:80 -> 10.1.25.119:49195
+TCP TTL:128 TOS:0x0 ID:1055 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x698280F1  Ack: 0xA858C0F7  Win: 0x0  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:16301:13] BROWSER-IE Microsoft Internet Explorer HTML DOM invalid DHTML textnode creation attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:20:43.688985 23.62.6.43:80 -> 10.1.25.119:49214
+TCP TTL:128 TOS:0x0 ID:1265 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0xBB0C6525  Ack: 0x7A982ED7  Win: 0x0  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/ms05-020][Xref => http://cgi.nessus.org/plugins/dump.php3?id=10861][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2005-0553][Xref => http://www.securityfocus.com/bid/13120]
+
+[**] [1:16300:13] BROWSER-IE Microsoft Internet Explorer HTML DOM invalid DHTML comment creation attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:20:43.728565 184.84.243.50:80 -> 10.1.25.119:49198
+TCP TTL:128 TOS:0x0 ID:1300 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x72B09A70  Ack: 0x56CFE8CE  Win: 0xE500  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/ms05-020][Xref => http://cgi.nessus.org/plugins/dump.php3?id=10861][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2005-0553][Xref => http://www.securityfocus.com/bid/13120]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:20:43.855160 23.9.102.155 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1393 IpLen:20 DgmLen:20 DF
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:20:44.359976 216.58.219.226:80 -> 10.1.25.119:49220
+TCP TTL:128 TOS:0x0 ID:1498 IpLen:20 DgmLen:1916 DF
+***A**** Seq: 0x64690960  Ack: 0xFE4584FB  Win: 0xFE00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:23861:11] FILE-OTHER heapspray characters detected - binary [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:20:44.366807 23.9.102.155:80 -> 10.1.25.119:49195
+TCP TTL:128 TOS:0x0 ID:1510 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x6983A047  Ack: 0xA858C915  Win: 0xE500  TcpLen: 20
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:20:44.490887 199.27.76.175:80 -> 10.1.25.119:49218
+TCP TTL:128 TOS:0x0 ID:1575 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x883F1D00  Ack: 0x91F8FB90  Win: 0xDB00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:20:44.880210 74.125.226.173 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:1633 IpLen:20 DgmLen:20 DF
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:20:44.933995 74.125.226.173:80 -> 10.1.25.119:49223
+TCP TTL:128 TOS:0x0 ID:1650 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x66F2B91B  Ack: 0x95AFCFAF  Win: 0x0  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:44.917023 10.1.25.119:49225 -> 69.43.132.198:80
+TCP TTL:119 TOS:0x34 ID:15691 IpLen:20 DgmLen:1282 DF
+***AP*** Seq: 0xEC1E8DAC  Ack: 0x60CA7FE5  Win: 0x1FFE  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:20:45.107543 93.184.216.180:80 -> 10.1.25.119:49226
+TCP TTL:128 TOS:0x0 ID:1672 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x3D4E04CE  Ack: 0xCDFFF8C0  Win: 0xE500  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:45.601628 10.1.25.119:49234 -> 66.235.141.146:80
+TCP TTL:242 TOS:0x48 ID:17897 IpLen:20 DgmLen:1958 DF
+***A**** Seq: 0xF046B5C4  Ack: 0x71789453  Win: 0x1789  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:45.756622 10.1.25.119:49239 -> 74.125.226.164:80
+TCP TTL:56 TOS:0x0 ID:18066 IpLen:20 DgmLen:1319
+***AP*** Seq: 0xA8998E31  Ack: 0xDD387B48  Win: 0xB600  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:45.815736 10.1.25.119:49250 -> 74.125.141.154:80
+TCP TTL:46 TOS:0x0 ID:8350 IpLen:20 DgmLen:1356
+***A**** Seq: 0xC436436F  Ack: 0x13E06E30  Win: 0xB200  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:46.026981 10.1.25.119:49253 -> 23.21.60.77:80
+TCP TTL:43 TOS:0x0 ID:30077 IpLen:20 DgmLen:1456 DF
+***A**** Seq: 0xEDC780D5  Ack: 0x87265344  Win: 0x4900  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:46.149025 10.1.25.119:49263 -> 50.17.225.145:80
+TCP TTL:46 TOS:0x0 ID:15018 IpLen:20 DgmLen:1189 DF
+***A**** Seq: 0xCF98525B  Ack: 0x681545BA  Win: 0x4500  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:20:46.381551 23.62.6.35:80 -> 10.1.25.119:49267
+TCP TTL:128 TOS:0x0 ID:2061 IpLen:20 DgmLen:1889 DF
+***A**** Seq: 0x20094E5E  Ack: 0x4B198FF2  Win: 0xFE00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:20:46.397807 23.62.6.35:80 -> 10.1.25.119:49268
+TCP TTL:128 TOS:0x0 ID:2064 IpLen:20 DgmLen:1889 DF
+***A**** Seq: 0x3D73EF05  Ack: 0x8B1B17B9  Win: 0xFE00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:46.537569 10.1.25.119:49195 -> 23.9.102.155:80
+TCP TTL:58 TOS:0x0 ID:42608 IpLen:20 DgmLen:1741 DF
+***A**** Seq: 0xA858CE5D  Ack: 0x6984C1C9  Win: 0xB1A0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:28318:1] FILE-OTHER Microsoft Office Image filter BMP overflow attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:20:46.618278 23.9.102.155:80 -> 10.1.25.119:49195
+TCP TTL:128 TOS:0x0 ID:2112 IpLen:20 DgmLen:1628 DF
+***A**** Seq: 0x6984C1C9  Ack: 0xA858D502  Win: 0xFF00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2008-3020]
+
+[**] [1:28315:5] FILE-OTHER Microsoft Office Image filter BMP overflow attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:20:46.618278 23.9.102.155:80 -> 10.1.25.119:49195
+TCP TTL:128 TOS:0x0 ID:2112 IpLen:20 DgmLen:1628 DF
+***A**** Seq: 0x6984C1C9  Ack: 0xA858D502  Win: 0xFF00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2008-3020]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:46.635225 10.1.25.119:49197 -> 23.9.102.155:80
+TCP TTL:58 TOS:0x0 ID:16194 IpLen:20 DgmLen:1913 DF
+***A**** Seq: 0x70B52DF6  Ack: 0x69113C99  Win: 0x8DE0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:20:46.710905 23.9.102.155 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:2143 IpLen:20 DgmLen:20 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:47.179975 10.1.25.119:49272 -> 54.235.109.148:80
+TCP TTL:41 TOS:0x0 ID:10886 IpLen:20 DgmLen:1540 DF
+***A**** Seq: 0xFF82C006  Ack: 0xC874CF00  Win: 0x8800  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:48.221901 10.1.25.119:49266 -> 173.194.123.26:80
+TCP TTL:56 TOS:0x0 ID:18283 IpLen:20 DgmLen:1179
+***A**** Seq: 0xD930CC44  Ack: 0x460CC536  Win: 0xB080  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:48.280406 10.1.25.119:49265 -> 173.194.123.26:80
+TCP TTL:56 TOS:0x0 ID:54008 IpLen:20 DgmLen:1167
+***AP*** Seq: 0xB3DB8BA1  Ack: 0x93A72650  Win: 0xBC80  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:50.379033 10.1.25.119:49206 -> 23.9.102.155:80
+TCP TTL:58 TOS:0x0 ID:23988 IpLen:20 DgmLen:1424 DF
+***A**** Seq: 0x666F9A89  Ack: 0x61D9F468  Win: 0x8320  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:50.382454 10.1.25.119:49211 -> 23.9.102.155:80
+TCP TTL:58 TOS:0x0 ID:9341 IpLen:20 DgmLen:1424 DF
+***A**** Seq: 0x4C273BD1  Ack: 0x692F2B83  Win: 0x7EE0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:50.385429 10.1.25.119:49210 -> 23.9.102.155:80
+TCP TTL:58 TOS:0x0 ID:9330 IpLen:20 DgmLen:1424 DF
+***A**** Seq: 0x5EEB0BF8  Ack: 0x60A8E034  Win: 0x7EE0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:20:50.387299 10.1.25.119:49208 -> 23.9.102.155:80
+TCP TTL:58 TOS:0x0 ID:5438 IpLen:20 DgmLen:1424 DF
+***A**** Seq: 0x5410B3F0  Ack: 0x60B415D6  Win: 0x7EE0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:21:05.371574 23.9.102.155:80 -> 10.1.25.119:49197
+TCP TTL:128 TOS:0x0 ID:2650 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x691224BD  Ack: 0x70B53DD1  Win: 0xB100  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:21:05.414462 23.9.102.155:80 -> 10.1.25.119:49197
+TCP TTL:128 TOS:0x0 ID:2655 IpLen:20 DgmLen:6053 DF
+***A**** Seq: 0x691264E9  Ack: 0x70B53DD1  Win: 0x9A00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:05.875708 10.1.25.119:49209 -> 23.9.102.155:80
+TCP TTL:58 TOS:0x0 ID:25675 IpLen:20 DgmLen:1750 DF
+***A**** Seq: 0x58940A52  Ack: 0x69C3C785  Win: 0x89A0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:05.876718 10.1.25.119:49207 -> 23.9.102.155:80
+TCP TTL:58 TOS:0x0 ID:27061 IpLen:20 DgmLen:1750 DF
+***A**** Seq: 0x86085DC4  Ack: 0x68FAE78F  Win: 0x89A0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:21:06.047057 23.62.6.43 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:2802 IpLen:20 DgmLen:20 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:07.039883 10.1.25.119:49303 -> 66.235.141.146:80
+TCP TTL:242 TOS:0x48 ID:23092 IpLen:20 DgmLen:2702 DF
+***A**** Seq: 0x64D6AA2B  Ack: 0x76CCA1B4  Win: 0x1A71  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:07.082992 10.1.25.119:49238 -> 74.125.226.164:80
+TCP TTL:56 TOS:0x0 ID:60687 IpLen:20 DgmLen:1315
+***A**** Seq: 0xA99FAFBF  Ack: 0x3ECA6BE2  Win: 0xB200  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:07.071691 10.1.25.119:49258 -> 74.125.226.177:80
+TCP TTL:56 TOS:0x0 ID:40853 IpLen:20 DgmLen:1373
+***AP*** Seq: 0x4988AB17  Ack: 0x72BDDBDB  Win: 0xBB80  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:07.076118 10.1.25.119:49180 -> 74.125.226.177:80
+TCP TTL:56 TOS:0x0 ID:40854 IpLen:20 DgmLen:1084
+***AP*** Seq: 0x705FA3BD  Ack: 0x732E41D6  Win: 0xC100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:3679:16] INDICATOR-OBFUSCATION Multiple Products IFRAME src javascript code execution [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:21:07.140011 23.216.9.135:80 -> 10.1.25.119:49300
+TCP TTL:128 TOS:0x0 ID:2980 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x25CAF5C0  Ack: 0xF8B75FE9  Win: 0x0  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=18243][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2008-2939][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2005-1476][Xref => http://www.securityfocus.com/bid/30560][Xref => http://www.securityfocus.com/bid/13544]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+11/24-16:21:07.340632 23.216.9.135 -> 10.1.25.119
+PROTO:254 TTL:128 TOS:0x0 ID:3092 IpLen:20 DgmLen:20 DF
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+11/24-16:21:07.369732 23.216.9.135:80 -> 10.1.25.119:49300
+TCP TTL:128 TOS:0x0 ID:3110 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x25CCB6F4  Ack: 0xF8B75FE9  Win: 0xC00  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:07.384153 10.1.25.119:49308 -> 50.18.50.242:80
+TCP TTL:46 TOS:0x0 ID:59024 IpLen:20 DgmLen:2634 DF
+***A**** Seq: 0x385D581D  Ack: 0xD856F17C  Win: 0x8800  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:16301:13] BROWSER-IE Microsoft Internet Explorer HTML DOM invalid DHTML textnode creation attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:21:08.060012 96.17.10.80:80 -> 10.1.25.119:49312
+TCP TTL:128 TOS:0x0 ID:3224 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0xBA746194  Ack: 0x4C06480A  Win: 0x0  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/ms05-020][Xref => http://cgi.nessus.org/plugins/dump.php3?id=10861][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2005-0553][Xref => http://www.securityfocus.com/bid/13120]
+
+[**] [120:9:1] (http_inspect) JAVASCRIPT OBFUSCATION LEVELS EXCEEDS 1 [**]
+[Classification: Unknown Traffic] [Priority: 3] 
+11/24-16:21:08.060012 96.17.10.80:80 -> 10.1.25.119:49312
+TCP TTL:128 TOS:0x0 ID:3224 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0xBA746194  Ack: 0x4C06480A  Win: 0x0  TcpLen: 20
+
+[**] [1:16301:13] BROWSER-IE Microsoft Internet Explorer HTML DOM invalid DHTML textnode creation attempt [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:21:08.074174 96.17.10.80:80 -> 10.1.25.119:49312
+TCP TTL:128 TOS:0x0 ID:3239 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0xBA74A1C0  Ack: 0x4C06480A  Win: 0x0  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/ms05-020][Xref => http://cgi.nessus.org/plugins/dump.php3?id=10861][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2005-0553][Xref => http://www.securityfocus.com/bid/13120]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:10.437215 10.1.25.119:49321 -> 184.73.196.115:80
+TCP TTL:37 TOS:0x0 ID:49420 IpLen:20 DgmLen:2278 DF
+***A**** Seq: 0x992ECBE5  Ack: 0x2230D34D  Win: 0x75A6  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:10.434709 10.1.25.119:49319 -> 184.73.196.115:80
+TCP TTL:37 TOS:0x0 ID:43712 IpLen:20 DgmLen:1518 DF
+***A**** Seq: 0x1FCBAE17  Ack: 0xC978B8F9  Win: 0x8800  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:10.436875 10.1.25.119:49316 -> 184.73.196.115:80
+TCP TTL:37 TOS:0x0 ID:36098 IpLen:20 DgmLen:1544 DF
+***A**** Seq: 0xFF3FA3CB  Ack: 0xC240A07A  Win: 0x8058  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:10.919470 10.1.25.119:49326 -> 54.86.153.88:80
+TCP TTL:52 TOS:0x0 ID:20817 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x60719B34  Ack: 0xD501F01E  Win: 0x4400  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:254:15] PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:11.710119 8.8.8.8:53 -> 10.1.25.119:52302
+UDP TTL:48 TOS:0x0 ID:22283 IpLen:20 DgmLen:85
+Len: 57
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+11/24-16:21:11.643902 10.1.25.119:49331 -> 199.38.164.54:80
+TCP TTL:248 TOS:0x0 ID:10362 IpLen:20 DgmLen:1385
+***A**** Seq: 0xC87C7279  Ack: 0x1FF9C674  Win: 0x2000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:29509:7] INDICATOR-OBFUSCATION Multiple character encodings detected [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+11/24-16:21:12.098953 96.17.10.80:80 -> 10.1.25.119:49313
+TCP TTL:128 TOS:0x0 ID:3502 IpLen:20 DgmLen:16468 DF
+***A**** Seq: 0x8DF78483  Ack: 0x49E72639  Win: 0x0  TcpLen: 20
+
