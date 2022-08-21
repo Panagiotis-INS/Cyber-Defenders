@@ -116,17 +116,43 @@ We open <code>notepad++</code> and search for the user: `myoussef`:
 
 ![](./Images/Flag6-1.png)
 
-- Flag 7:
+- Flag 7: `https://www.linkedin.com/in/0xmohamedhasan/`
 
 Q: <code>What is the user mhasan password hint?</code>
 
-- Flag 8:
+We will use `Autopsy` and use the `OS Accounts` tab:
+
+![](./Images/Flag7.png)
+
+- Flag 8: `6.7.0.40322`
 
 Q: <code>What is the version of the VMware product installed on the machine?</code>
 
-- Flag 9:
+<i>NOTE: The question is about VMware VCenter NOT VSphere.</i>
+
+Information about any installed software is stored on the `SOFTWARE` registry.
+
+We navigate to:
+
+```
+SOFTWARE/VMware, Inc./VCenterServer/
+```
+
+![](./Images/Flag8.png)
+
+- Flag 9: `2.11.2`
 
 Q: <code>What is the version of the log4j library used by the installed VMware product?</code>
+
+The JAR files are packed with the `VMware` application and they are in the same folder.
+
+We navigate to:
+
+```
+C:\Program Files\VMware\VCenterServer\commonjars\
+```
+
+![](./Images/Flag9.png)
 
 - Flag 10:
 
