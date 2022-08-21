@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: 01
+Evidence Number: 01
+Unique description: DetectLog4Shell
+Examiner: Cyberdefenders
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\IEUser\Desktop\DetectLog4Shell:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 125,821,080
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 61436 MB
+ Sector count:    125821080
+
+ATTENTION:
+The following sector(s) on the source drive could not be read:
+	24498176 through 125821183
+The contents of these sectors were replaced with zeros in the image.
+
+[Computed Hashes]
+ MD5 checksum:    2fc225cbf41981f8e7de02ea5b1014f9
+ SHA1 checksum:   6054c19b85ea4772f6fb92c212a70e588ec3304e
+
+Image Information:
+ Acquisition started:   Wed Dec 29 21:01:18 2021
+ Acquisition finished:  Wed Dec 29 21:30:34 2021
+ Segment list:
+  C:\Users\IEUser\Desktop\DetectLog4Shell.E01
