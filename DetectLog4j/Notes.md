@@ -154,17 +154,39 @@ C:\Program Files\VMware\VCenterServer\commonjars\
 
 ![](./Images/Flag9.png)
 
-- Flag 10:
+- Flag 10: `info`
 
 Q: <code>What is the log4j library log level specified in the configuration file?</code>
 
-- Flag 11:
+We will use <code>Autopsy</code> on Windows 10,
+
+We will search the files for `Log4j`, then we sort the filenames and find the `Log4j.properties` file:
+
+![](./Images/Flag10.png)
+
+- Flag 11: `X-Forwarded-For`
 
 Q: <code>The attacker exploited log4shell through an HTTP login request. What is the HTTP header used to inject payload?</code>
 
-- Flag 12:
+The <code>X-Forwarded-For</code> header is a common header used to perform the Log4-Shell exploit.
+
+- Flag 12: `log4shell.huntress.com:1389/b1292f3c-a652-4240-8fb4-59c43141f55a`
 
 Q: <code>The attacker used the log4shell.huntress.com payload to detect if vcenter instance is vulnerable. What is the first link of the log4huntress payload?</code>
+
+We found the payload from `Huntress` here:
+
+```
+https://log4shell.huntress.com/
+```
+
+Then we used the search functionality of `Autopsy` for:
+
+```
+log4shell.huntress.com
+```
+
+![](./Images/Flag12.png)
 
 - Flag 13:
 
