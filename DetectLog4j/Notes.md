@@ -192,21 +192,37 @@ log4shell.huntress.com
 
 Q: <code>When was the first successful login to vsphere WebClient?</code>
 
+
+
 - Flag 14:
 
 Q: <code>What is the attacker's IP address?</code>
 
-- Flag 15:
+- Flag 15: `1337`
 
 Q: <code>What is the port the attacker used to receive the cobalt strike reverse shell?</code>
 
-- Flag 16:
+4444 and 1337 are common TCP ports used by cobalt strike and metasploit.
+
+- Flag 16: `vc_log4j_mitigator.py`
 
 Q: <code>What is the script name published by VMware to mitigate log4shell vulnerability?</code>
 
-- Flag 17:
+After a lot of search found the following article:
+
+```
+https://kb.vmware.com/s/article/87081
+```
+
+- Flag 17: `log4j2.formatMsgNoLookups`
 
 Q: <code>In some cases, you may not be able to update the products used in your network. What is the system property needed to set to 'true' to work around the log4shell vulnerability?</code>
+
+After some google search I found this article:
+
+```
+https://fossa.com/blog/log4j-log4shell-zero-day-vulnerability-impact-fixes/
+```
 
 - Flag 18:
 
