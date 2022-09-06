@@ -1,0 +1,1116 @@
+UNIX 13827              systemd/1     /run/systemd/private
+UNIX 33051              systemd/1     /run/systemd/journal/stdout
+UNIX 33052              systemd/1     /run/systemd/journal/stdout
+UNIX 33066              systemd/1     /run/systemd/journal/stdout
+UNIX 33067              systemd/1     /run/systemd/journal/stdout
+UNIX 33404              systemd/1     /run/systemd/journal/stdout
+UNIX 13901              systemd/1     /run/lvm/lvmetad.socket
+UNIX 9156               systemd/1     /run/systemd/notify
+UNIX 9158               systemd/1     /run/systemd/cgroups-agent
+UNIX 14009              systemd/1     /run/systemd/shutdownd
+UNIX 14040              systemd/1     /run/udev/control
+UNIX 9166               systemd/1     /run/systemd/journal/stdout
+UNIX 9169               systemd/1     /run/systemd/journal/socket
+UNIX 9171               systemd/1     /dev/log
+UNIX 14382              systemd/1     /run/lvm/lvmpolld.socket
+UNIX 14667              systemd/1     
+UNIX 14888              systemd/1     /run/systemd/journal/stdout
+UNIX 18621              systemd/1     /var/run/cups/cups.sock
+UNIX 15368              systemd/1     /run/systemd/journal/stdout
+UNIX 18623              systemd/1     /var/run/libvirt/virtlogd-sock
+UNIX 18626              systemd/1     
+UNIX 18627              systemd/1     /var/run/avahi-daemon/socket
+UNIX 18630              systemd/1     /run/dbus/system_bus_socket
+UNIX 18637              systemd/1     /var/run/rpcbind.sock
+TCP      0.0.0.0         :  111 0.0.0.0         :    0 LISTEN                    systemd/1    
+UDP      0.0.0.0         :  111 0.0.0.0         :    0                           systemd/1    
+TCP      ::              :  111 ::              :    0 LISTEN                    systemd/1    
+UDP      ::              :  111 ::              :    0                           systemd/1    
+UNIX 18666              systemd/1     /var/run/libvirt/virtlockd-sock
+UNIX 18670              systemd/1     
+UNIX 41978              systemd/1     /run/systemd/journal/stdout
+UNIX 41979              systemd/1     /run/systemd/journal/stdout
+UNIX 21083              systemd/1     
+UNIX 21305              systemd/1     
+UNIX 21306              systemd/1     
+UNIX 39824              systemd/1     /run/systemd/journal/stdout
+UNIX 19423              systemd/1     /run/systemd/journal/stdout
+UNIX 39825              systemd/1     /run/systemd/journal/stdout
+UNIX 19595              systemd/1     /run/systemd/journal/stdout
+UNIX 24782              systemd/1     /run/systemd/journal/stdout
+UNIX 24872              systemd/1     /run/systemd/journal/stdout
+UNIX 19866              systemd/1     /run/systemd/journal/stdout
+UNIX 23560              systemd/1     /run/systemd/journal/stdout
+UNIX 20035              systemd/1     /run/systemd/journal/stdout
+UNIX 33428              systemd/1     /run/systemd/journal/stdout
+UNIX 28633              systemd/1     /run/systemd/journal/stdout
+UNIX 20310              systemd/1     /run/systemd/journal/stdout
+UNIX 20426              systemd/1     /run/systemd/journal/stdout
+UNIX 20500              systemd/1     /run/systemd/journal/stdout
+UNIX 25050              systemd/1     /run/systemd/journal/stdout
+UNIX 26422              systemd/1     /run/systemd/journal/stdout
+UNIX 20756              systemd/1     /run/systemd/journal/stdout
+UNIX 20875              systemd/1     /run/systemd/journal/stdout
+UNIX 20904              systemd/1     /run/systemd/journal/stdout
+UNIX 28634              systemd/1     /run/systemd/journal/stdout
+UNIX 21079              systemd/1     /run/systemd/journal/stdout
+UNIX 21421              systemd/1     /run/systemd/journal/stdout
+UNIX 21484              systemd/1     /run/systemd/journal/stdout
+UNIX 21548              systemd/1     /run/systemd/journal/stdout
+UNIX 22005              systemd/1     /run/systemd/journal/stdout
+UNIX 22069              systemd/1     /run/systemd/journal/stdout
+UNIX 22185              systemd/1     /run/systemd/journal/stdout
+UNIX 22286              systemd/1     /run/systemd/journal/stdout
+UNIX 26547              systemd/1     /run/systemd/journal/stdout
+UNIX 25848              systemd/1     /run/systemd/journal/stdout
+UNIX 33429              systemd/1     /run/systemd/journal/stdout
+UNIX 33489              systemd/1     /run/systemd/journal/stdout
+UNIX 33490              systemd/1     /run/systemd/journal/stdout
+UNIX 33750              systemd/1     /run/systemd/journal/stdout
+UNIX 28774              systemd/1     /run/systemd/journal/stdout
+UNIX 33751              systemd/1     /run/systemd/journal/stdout
+UNIX 34034              systemd/1     /run/systemd/journal/stdout
+UNIX 34035              systemd/1     /run/systemd/journal/stdout
+UNIX 34064              systemd/1     /run/systemd/journal/stdout
+UNIX 34065              systemd/1     /run/systemd/journal/stdout
+UNIX 30033              systemd/1     /run/systemd/journal/stdout
+UNIX 30141              systemd/1     /run/systemd/journal/stdout
+UNIX 34074              systemd/1     /run/systemd/journal/stdout
+UNIX 34075              systemd/1     /run/systemd/journal/stdout
+UNIX 34130              systemd/1     /run/systemd/journal/stdout
+UNIX 34131              systemd/1     /run/systemd/journal/stdout
+UNIX 30399              systemd/1     /run/systemd/journal/stdout
+UNIX 34421              systemd/1     /run/systemd/journal/stdout
+UNIX 34422              systemd/1     /run/systemd/journal/stdout
+UNIX 34433              systemd/1     /run/systemd/journal/stdout
+UNIX 34434              systemd/1     /run/systemd/journal/stdout
+UNIX 34313              systemd/1     /run/systemd/journal/stdout
+UNIX 34445              systemd/1     /run/systemd/journal/stdout
+UNIX 34446              systemd/1     /run/systemd/journal/stdout
+UNIX 34490              systemd/1     /run/systemd/journal/stdout
+UNIX 34491              systemd/1     /run/systemd/journal/stdout
+UNIX 34507              systemd/1     /run/systemd/journal/stdout
+UNIX 34508              systemd/1     /run/systemd/journal/stdout
+UNIX 34593              systemd/1     /run/systemd/journal/stdout
+UNIX 34594              systemd/1     /run/systemd/journal/stdout
+UNIX 34849              systemd/1     /run/systemd/journal/stdout
+UNIX 34850              systemd/1     /run/systemd/journal/stdout
+UNIX 34922              systemd/1     /run/systemd/journal/stdout
+UNIX 34923              systemd/1     /run/systemd/journal/stdout
+UNIX 36074              systemd/1     /run/systemd/journal/stdout
+UNIX 36075              systemd/1     /run/systemd/journal/stdout
+UNIX 35155              systemd/1     /run/systemd/journal/stdout
+UNIX 35156              systemd/1     /run/systemd/journal/stdout
+UNIX 35195              systemd/1     /run/systemd/journal/stdout
+UNIX 35196              systemd/1     /run/systemd/journal/stdout
+UNIX 35243              systemd/1     /run/systemd/journal/stdout
+UNIX 35244              systemd/1     /run/systemd/journal/stdout
+UNIX 35279              systemd/1     /run/systemd/journal/stdout
+UNIX 35280              systemd/1     /run/systemd/journal/stdout
+UNIX 35311              systemd/1     /run/systemd/journal/stdout
+UNIX 31990              systemd/1     /run/systemd/journal/stdout
+UNIX 35312              systemd/1     /run/systemd/journal/stdout
+UNIX 35353              systemd/1     /run/systemd/journal/stdout
+UNIX 35354              systemd/1     /run/systemd/journal/stdout
+UNIX 35383              systemd/1     /run/systemd/journal/stdout
+UNIX 35384              systemd/1     /run/systemd/journal/stdout
+UNIX 35413              systemd/1     /run/systemd/journal/stdout
+UNIX 35414              systemd/1     /run/systemd/journal/stdout
+UNIX 35447              systemd/1     /run/systemd/journal/stdout
+UNIX 35448              systemd/1     /run/systemd/journal/stdout
+UNIX 35538              systemd/1     /run/systemd/journal/stdout
+UNIX 35539              systemd/1     /run/systemd/journal/stdout
+UNIX 35576              systemd/1     /run/systemd/journal/stdout
+UNIX 35577              systemd/1     /run/systemd/journal/stdout
+UNIX 35631              systemd/1     /run/systemd/journal/stdout
+UNIX 35632              systemd/1     /run/systemd/journal/stdout
+UNIX 35643              systemd/1     /run/systemd/journal/stdout
+UNIX 35644              systemd/1     /run/systemd/journal/stdout
+UNIX 35674              systemd/1     /run/systemd/journal/stdout
+UNIX 35675              systemd/1     /run/systemd/journal/stdout
+UNIX 35711              systemd/1     /run/systemd/journal/stdout
+UNIX 35712              systemd/1     /run/systemd/journal/stdout
+UNIX 35766              systemd/1     /run/systemd/journal/stdout
+UNIX 35767              systemd/1     /run/systemd/journal/stdout
+UNIX 35806              systemd/1     /run/systemd/journal/stdout
+UNIX 35807              systemd/1     /run/systemd/journal/stdout
+UNIX 35841              systemd/1     /run/systemd/journal/stdout
+UNIX 35842              systemd/1     /run/systemd/journal/stdout
+UNIX 35871              systemd/1     /run/systemd/journal/stdout
+UNIX 35872              systemd/1     /run/systemd/journal/stdout
+UNIX 36166              systemd/1     /run/systemd/journal/stdout
+UNIX 36167              systemd/1     /run/systemd/journal/stdout
+UNIX 36182              systemd/1     /run/systemd/journal/stdout
+UNIX 36183              systemd/1     /run/systemd/journal/stdout
+UNIX 36333              systemd/1     /run/systemd/journal/stdout
+UNIX 36334              systemd/1     /run/systemd/journal/stdout
+UNIX 36393              systemd/1     /run/systemd/journal/stdout
+UNIX 36394              systemd/1     /run/systemd/journal/stdout
+UNIX 36528              systemd/1     /run/systemd/journal/stdout
+UNIX 36529              systemd/1     /run/systemd/journal/stdout
+UNIX 36566              systemd/1     /run/systemd/journal/stdout
+UNIX 36567              systemd/1     /run/systemd/journal/stdout
+UNIX 36628              systemd/1     /run/systemd/journal/stdout
+UNIX 36629              systemd/1     /run/systemd/journal/stdout
+UNIX 36942              systemd/1     /run/systemd/journal/stdout
+UNIX 36943              systemd/1     /run/systemd/journal/stdout
+UNIX 36725              systemd/1     /run/systemd/journal/stdout
+UNIX 36726              systemd/1     /run/systemd/journal/stdout
+UNIX 36736              systemd/1     /run/systemd/journal/stdout
+UNIX 36737              systemd/1     /run/systemd/journal/stdout
+UNIX 36897              systemd/1     /run/systemd/journal/stdout
+UNIX 36898              systemd/1     /run/systemd/journal/stdout
+UNIX 37007              systemd/1     /run/systemd/journal/stdout
+UNIX 37008              systemd/1     /run/systemd/journal/stdout
+UNIX 38347              systemd/1     /run/systemd/journal/stdout
+UNIX 38470              systemd/1     /run/systemd/journal/stdout
+UNIX 38472              systemd/1     /run/systemd/journal/stdout
+UNIX 38594              systemd/1     /run/systemd/journal/stdout
+UNIX 38595              systemd/1     /run/systemd/journal/stdout
+UNIX 9166       systemd-journal/502   /run/systemd/journal/stdout
+UNIX 9169       systemd-journal/502   /run/systemd/journal/socket
+UNIX 9171       systemd-journal/502   /dev/log
+UNIX 14221      systemd-journal/502   
+UNIX 14888      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 20035      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 41978      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 15368      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 19423      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 20500      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 19595      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 21421      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 21484      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 24782      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 19866      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 21548      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 22005      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 20310      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 20426      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 22069      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 20756      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 20875      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 20904      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 22185      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 21079      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 22286      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 24872      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 39824      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 23560      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33051      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 26422      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 25050      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33052      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 25848      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 26547      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33066      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33067      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33404      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33428      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 28633      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 28634      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 28774      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 39825      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33429      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33489      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33490      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33750      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 33751      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 30033      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 30141      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34034      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34035      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34064      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34065      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 30399      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34074      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34075      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34130      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34131      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34313      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34421      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34422      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34433      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34434      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34445      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34446      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34490      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34491      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34507      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34508      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 38347      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 41979      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34593      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34594      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34849      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34850      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34922      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 34923      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36074      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36075      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35155      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35156      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35195      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35196      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35243      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 31990      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35244      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35279      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35280      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35311      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35312      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35353      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35354      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35383      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35384      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35413      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35414      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35447      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35448      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35538      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35539      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35576      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35577      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35631      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35632      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35643      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35644      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35674      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35675      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35711      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35712      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35766      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35767      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35806      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35807      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35841      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35842      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35871      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 35872      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36166      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36167      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36182      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36183      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36333      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36334      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36393      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36394      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36528      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36529      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36566      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36567      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36628      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36629      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36942      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36943      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36725      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36726      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36736      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36737      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36897      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 36898      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 37007      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 37008      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 38470      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 38472      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 38594      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 38595      systemd-journal/502   /run/systemd/journal/stdout
+UNIX 14887              lvmetad/519   
+UNIX 14887              lvmetad/519   
+UNIX 13901              lvmetad/519   /run/lvm/lvmetad.socket
+UNIX 15367        systemd-udevd/533   
+UNIX 15367        systemd-udevd/533   
+UNIX 14040        systemd-udevd/533   /run/udev/control
+UNIX 15373        systemd-udevd/533   
+UNIX 15628        systemd-udevd/533   
+UNIX 15629        systemd-udevd/533   
+UNIX 18248               auditd/694   
+UNIX 18249               auditd/694   
+UNIX 18250               auditd/694   
+UNIX 18259               auditd/694   
+UNIX 18260               auditd/694   
+UNIX 18248              audispd/696   
+UNIX 18248              audispd/696   
+UNIX 18266              audispd/696   
+UNIX 18265              audispd/696   
+UNIX 18248              audispd/696   
+UNIX 18249              audispd/696   
+UNIX 18264           sedispatch/698   
+UNIX 21092              polkitd/725   
+UNIX 22299              polkitd/725   
+UNIX 19594                 rngd/726   
+UNIX 19594                 rngd/726   
+UNIX 19422       systemd-logind/727   
+UNIX 19422       systemd-logind/727   
+UNIX 20214       systemd-logind/727   
+UNIX 20316       systemd-logind/727   
+UNIX 19865         avahi-daemon/730   
+UNIX 19865         avahi-daemon/730   
+UNIX 18627         avahi-daemon/730   /var/run/avahi-daemon/socket
+UNIX 20432         avahi-daemon/730   
+UNIX 20623         avahi-daemon/730   
+UNIX 20695         avahi-daemon/730   
+UDP      0.0.0.0         : 5353 0.0.0.0         :    0                      avahi-daemon/730  
+UDP      0.0.0.0         :58383 0.0.0.0         :    0                      avahi-daemon/730  
+UNIX 18637              rpcbind/731   /var/run/rpcbind.sock
+TCP      0.0.0.0         :  111 0.0.0.0         :    0 LISTEN                    rpcbind/731  
+UDP      0.0.0.0         :  111 0.0.0.0         :    0                           rpcbind/731  
+TCP      ::              :  111 ::              :    0 LISTEN                    rpcbind/731  
+UDP      ::              :  111 ::              :    0                           rpcbind/731  
+UDP      ::              :    0 ::              :    0                           rpcbind/731  
+UDP      0.0.0.0         :  897 0.0.0.0         :    0                           rpcbind/731  
+UDP      ::              :  897 ::              :    0                           rpcbind/731  
+UNIX 20425              alsactl/737   
+UNIX 20425              alsactl/737   
+UNIX 20626              alsactl/737   
+UNIX 20309              udisksd/738   
+UNIX 20309              udisksd/738   
+UNIX 20945              udisksd/738   
+UNIX 21095              udisksd/738   
+UNIX 20499      accounts-daemon/740   
+UNIX 20499      accounts-daemon/740   
+UNIX 21082      accounts-daemon/740   
+UNIX 21167                abrtd/741   /var/run/abrt/abrt.socket
+UNIX 21169                abrtd/741   
+UNIX 20755       abrt-watch-log/744   
+UNIX 20755       abrt-watch-log/744   
+UNIX 19865         avahi-daemon/745   
+UNIX 19865         avahi-daemon/745   
+UNIX 18627         avahi-daemon/745   /var/run/avahi-daemon/socket
+UNIX 20432         avahi-daemon/745   
+UNIX 20624         avahi-daemon/745   
+UNIX 20034             gssproxy/747   
+UNIX 20034             gssproxy/747   
+UNIX 20769             gssproxy/747   
+UNIX 21084             gssproxy/747   /var/lib/gssproxy/default.sock
+UNIX 21085             gssproxy/747   /run/gssproxy.sock
+UNIX 20874                 lsmd/749   
+UNIX 20903                 lsmd/749   
+UNIX 21190                 lsmd/749   /var/run/lsm/ipc/sim
+UNIX 21195                 lsmd/749   /var/run/lsm/ipc/simc
+UNIX 20906              chronyd/750   
+UDP      127.0.0.1       :  323 0.0.0.0         :    0                           chronyd/750  
+UDP      ::1             :  323 ::              :    0                           chronyd/750  
+UNIX 21093              chronyd/750   /var/run/chrony/chronyd.sock
+UNIX 21070          dbus-daemon/754   
+UNIX 21070          dbus-daemon/754   
+UNIX 18630          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 21203          dbus-daemon/754   
+UNIX 21204          dbus-daemon/754   
+UNIX 21205          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 21206          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 21208          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 21209          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 21210          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 21211          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 22289          dbus-daemon/754   
+UNIX 22307          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 22359          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 22376          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 22546          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 26001          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 41991          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 32803          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 23730          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 26679          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 26899          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 32985          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 28153          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 33090          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 33442          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 33592          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 28777          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 33763          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 30177          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 30190          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 32645          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 30409          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 33936          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34053          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34323          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34351          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34385          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34450          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34460          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34462          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34481          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 34547          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 32072          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 38367          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35361          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35817          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35849          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35882          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35901          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35906          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35908          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35910          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35912          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35914          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35916          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35918          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35920          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35922          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35931          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 35932          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36107          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36144          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36430          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36442          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36694          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36701          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36767          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36906          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 36914          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 37046          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 37053          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 37100          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 37106          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 38369          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 38371          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 38571          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 38622          dbus-daemon/754   /run/dbus/system_bus_socket
+UNIX 22004       abrt-watch-log/786   
+UNIX 22004       abrt-watch-log/786   
+UNIX 21483         ModemManager/787   
+UNIX 22317         ModemManager/787   
+UNIX 22358         ModemManager/787   
+UNIX 21547         rtkit-daemon/788   
+UNIX 21547         rtkit-daemon/788   
+UNIX 22300         rtkit-daemon/788   
+UNIX 22306         rtkit-daemon/788   
+UNIX 21420       NetworkManager/789   
+UNIX 21420       NetworkManager/789   
+UNIX 22406       NetworkManager/789   
+UNIX 22545       NetworkManager/789   
+UNIX 23729       NetworkManager/789   
+UNIX 23872       NetworkManager/789   /var/run/NetworkManager/private-dhcp
+UNIX 22068        VGAuthService/790   
+UNIX 22325        VGAuthService/790   
+UNIX 22404        VGAuthService/790   /var/run/vmware/guestServicePipe
+UNIX 22184             vmtoolsd/791   
+UNIX 22184             vmtoolsd/791   
+UNIX 22285           bluetoothd/793   
+UNIX 22285           bluetoothd/793   
+UNIX 22363           bluetoothd/793   
+UNIX 22375           bluetoothd/793   
+UNIX 23559             ksmtuned/825   
+UNIX 23559             ksmtuned/825   
+UNIX 23945             dhclient/848   
+UDP      0.0.0.0         :   68 0.0.0.0         :    0                          dhclient/848  
+UNIX 24781                tuned/1057  
+UNIX 24781                tuned/1057  
+UNIX 28152                tuned/1057  
+UNIX 24871                 sshd/1058  
+UNIX 24871                 sshd/1058  
+TCP      0.0.0.0         :   22 0.0.0.0         :    0 LISTEN                       sshd/1058 
+TCP      ::              :   22 ::              :    0 LISTEN                       sshd/1058 
+UNIX 25049                cupsd/1060  
+UNIX 25049                cupsd/1060  
+UNIX 18621                cupsd/1060  /var/run/cups/cups.sock
+UNIX 26000                cupsd/1060  
+TCP      ::1             :  631 ::              :    0 LISTEN                      cupsd/1060 
+TCP      127.0.0.1       :  631 0.0.0.0         :    0 LISTEN                      cupsd/1060 
+UNIX 25957             rsyslogd/1064  
+UNIX 25847             libvirtd/1070  
+UNIX 25847             libvirtd/1070  
+UNIX 26878             libvirtd/1070  /var/run/libvirt/libvirt-sock
+UNIX 26880             libvirtd/1070  /var/run/libvirt/libvirt-sock-ro
+UNIX 26882             libvirtd/1070  /var/run/libvirt/libvirt-admin-sock
+UNIX 26898             libvirtd/1070  
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                    libvirtd/1070 
+UNIX 26421                crond/1084  
+UNIX 26421                crond/1084  
+UNIX 26561                crond/1084  
+UNIX 26546                  gdm/1086  
+UNIX 26546                  gdm/1086  
+UNIX 26678                  gdm/1086  
+UNIX 28046                  gdm/1086  
+UNIX 28050                  gdm/1086  
+UNIX 28051                  gdm/1086  
+UNIX 32584                  gdm/1086  
+UNIX 32648                  gdm/1086  
+UNIX 27414               master/1285  
+TCP      127.0.0.1       :   25 0.0.0.0         :    0 LISTEN                     master/1285 
+TCP      ::1             :   25 ::              :    0 LISTEN                     master/1285 
+UNIX 27446               master/1285  
+UNIX 27447               master/1285  
+UNIX 27448               master/1285  public/pickup
+UNIX 27449               master/1285  
+UNIX 27450               master/1285  
+UNIX 27452               master/1285  public/cleanup
+UNIX 27453               master/1285  
+UNIX 27454               master/1285  
+UNIX 27455               master/1285  public/qmgr
+UNIX 27458               master/1285  
+UNIX 27459               master/1285  
+UNIX 27461               master/1285  private/tlsmgr
+UNIX 27462               master/1285  
+UNIX 27463               master/1285  
+UNIX 27464               master/1285  private/rewrite
+UNIX 27466               master/1285  
+UNIX 27467               master/1285  
+UNIX 27468               master/1285  private/bounce
+UNIX 27469               master/1285  
+UNIX 27470               master/1285  
+UNIX 27471               master/1285  private/defer
+UNIX 27472               master/1285  
+UNIX 27473               master/1285  
+UNIX 27474               master/1285  private/trace
+UNIX 27475               master/1285  
+UNIX 27476               master/1285  
+UNIX 27477               master/1285  private/verify
+UNIX 27478               master/1285  
+UNIX 27479               master/1285  
+UNIX 27480               master/1285  public/flush
+UNIX 27481               master/1285  
+UNIX 27482               master/1285  
+UNIX 27483               master/1285  private/proxymap
+UNIX 27484               master/1285  
+UNIX 27485               master/1285  
+UNIX 27486               master/1285  private/proxywrite
+UNIX 27489               master/1285  
+UNIX 27490               master/1285  
+UNIX 27491               master/1285  private/smtp
+UNIX 27492               master/1285  
+UNIX 27493               master/1285  
+UNIX 27494               master/1285  private/relay
+UNIX 27495               master/1285  
+UNIX 27496               master/1285  
+UNIX 27497               master/1285  public/showq
+UNIX 27498               master/1285  
+UNIX 27499               master/1285  
+UNIX 27500               master/1285  private/error
+UNIX 27501               master/1285  
+UNIX 27502               master/1285  
+UNIX 27503               master/1285  private/retry
+UNIX 27504               master/1285  
+UNIX 27505               master/1285  
+UNIX 27506               master/1285  private/discard
+UNIX 27507               master/1285  
+UNIX 27508               master/1285  
+UNIX 27509               master/1285  private/local
+UNIX 27510               master/1285  
+UNIX 27511               master/1285  
+UNIX 27512               master/1285  private/virtual
+UNIX 27513               master/1285  
+UNIX 27514               master/1285  
+UNIX 27515               master/1285  private/lmtp
+UNIX 27516               master/1285  
+UNIX 27517               master/1285  
+UNIX 27518               master/1285  private/anvil
+UNIX 27519               master/1285  
+UNIX 27520               master/1285  
+UNIX 27521               master/1285  private/scache
+UNIX 27522               master/1285  
+UNIX 27523               master/1285  
+UNIX 27450               pickup/1295  
+UNIX 27448               pickup/1295  public/pickup
+UNIX 27541               pickup/1295  
+UNIX 27459                 qmgr/1296  
+UNIX 27455                 qmgr/1296  public/qmgr
+UNIX 27542                 qmgr/1296  
+UNIX 27667                    X/1342  
+UNIX 27668                    X/1342  /tmp/.X11-unix/X0
+UNIX 28047                    X/1342  
+UNIX 32968                    X/1342  
+UNIX 32990                    X/1342  
+UNIX 33014                    X/1342  
+UNIX 33516                    X/1342  
+UNIX 33760                    X/1342  
+UNIX 33772                    X/1342  
+UNIX 34039                    X/1342  
+UNIX 35161                    X/1342  
+UNIX 35220                    X/1342  
+UNIX 35390                    X/1342  
+UNIX 35454                    X/1342  
+UNIX 35581                    X/1342  
+UNIX 35716                    X/1342  
+UNIX 35771                    X/1342  
+UNIX 35903                    X/1342  
+UNIX 36232                    X/1342  
+UNIX 36340                    X/1342  
+UNIX 36641                    X/1342  
+UNIX 37038                    X/1342  
+UNIX 37024                    X/1342  
+UNIX 38504                    X/1342  
+UDP      0.0.0.0         :   67 0.0.0.0         :    0                           dnsmasq/1389 
+UDP      192.168.122.1   :   53 0.0.0.0         :    0                           dnsmasq/1389 
+TCP      192.168.122.1   :   53 0.0.0.0         :    0 LISTEN                    dnsmasq/1389 
+UNIX 27795              dnsmasq/1389  
+UNIX 28773              upowerd/1530  
+UNIX 28773              upowerd/1530  
+UNIX 28776              upowerd/1530  
+UNIX 30031                boltd/1590  
+UNIX 30031                boltd/1590  
+UNIX 30143                boltd/1590  
+UNIX 30175                boltd/1590  
+UNIX 30140          packagekitd/1592  
+UNIX 30140          packagekitd/1592  
+UNIX 30176          packagekitd/1592  
+UNIX 30182          packagekitd/1592  
+UNIX 30398       wpa_supplicant/1606  
+UNIX 30398       wpa_supplicant/1606  
+UNIX 30408       wpa_supplicant/1606  
+UNIX 31985               colord/1694  
+UNIX 31985               colord/1694  
+UNIX 32026               colord/1694  
+UNIX 32071               colord/1694  
+UNIX 26546      gdm-session-wor/1750  
+UNIX 26546      gdm-session-wor/1750  
+UNIX 32644      gdm-session-wor/1750  
+UNIX 32647      gdm-session-wor/1750  
+UNIX 32738      gdm-session-wor/1750  
+UNIX 33702      gnome-keyring-d/1761  /run/user/1000/keyring/pkcs11
+UNIX 32800      gnome-keyring-d/1761  /run/user/1000/keyring/control
+UNIX 32802      gnome-keyring-d/1761  
+UNIX 33698      gnome-keyring-d/1761  
+UNIX 33712      gnome-keyring-d/1761  /run/user/1000/keyring/ssh
+UNIX 28631          ibus-daemon/1766  
+UNIX 28632          ibus-daemon/1766  
+UNIX 32887          ibus-daemon/1766  
+UNIX 32967          ibus-daemon/1766  
+UNIX 32974          ibus-daemon/1766  
+UNIX 32937           ibus-dconf/1769  
+UNIX 32984           ibus-dconf/1769  
+UNIX 32966             ibus-x11/1775  
+UNIX 32973             ibus-x11/1775  
+UNIX 33401      gnome-session-b/1776  
+UNIX 33401      gnome-session-b/1776  
+UNIX 33401      gnome-session-b/1776  
+UNIX 33591      gnome-session-b/1776  
+UNIX 33594      gnome-session-b/1776  
+UNIX 33596      gnome-session-b/1776  
+UNIX 33597      gnome-session-b/1776  /tmp/.ICE-unix/1776
+UNIX 35106      gnome-session-b/1776  
+UNIX 35875      gnome-session-b/1776  
+UNIX 36046      gnome-session-b/1776  
+UNIX 37015      gnome-session-b/1776  
+UNIX 37111      gnome-session-b/1776  
+UNIX 32989          dbus-launch/1791  
+UNIX 33013          dbus-launch/1791  
+UNIX 33003          dbus-daemon/1792  
+UNIX 33011          dbus-daemon/1792  
+UNIX 33012          dbus-daemon/1792  
+UNIX 33595          dbus-daemon/1792  
+UNIX 33059          dbus-daemon/1792  
+UNIX 33074          dbus-daemon/1792  
+UNIX 33297          dbus-daemon/1792  
+UNIX 33440          dbus-daemon/1792  
+UNIX 33699          dbus-daemon/1792  
+UNIX 33524          dbus-daemon/1792  
+UNIX 33765          dbus-daemon/1792  
+UNIX 33861          dbus-daemon/1792  
+UNIX 33989          dbus-daemon/1792  
+UNIX 34010          dbus-daemon/1792  
+UNIX 34057          dbus-daemon/1792  
+UNIX 34047          dbus-daemon/1792  
+UNIX 34082          dbus-daemon/1792  
+UNIX 34099          dbus-daemon/1792  
+UNIX 34358          dbus-daemon/1792  
+UNIX 34457          dbus-daemon/1792  
+UNIX 34464          dbus-daemon/1792  
+UNIX 34468          dbus-daemon/1792  
+UNIX 34427          dbus-daemon/1792  
+UNIX 34891          dbus-daemon/1792  
+UNIX 34484          dbus-daemon/1792  
+UNIX 34558          dbus-daemon/1792  
+UNIX 35201          dbus-daemon/1792  
+UNIX 34501          dbus-daemon/1792  
+UNIX 34635          dbus-daemon/1792  
+UNIX 34586          dbus-daemon/1792  
+UNIX 39832          dbus-daemon/1792  
+UNIX 34959          dbus-daemon/1792  
+UNIX 35207          dbus-daemon/1792  
+UNIX 35248          dbus-daemon/1792  
+UNIX 35284          dbus-daemon/1792  
+UNIX 35325          dbus-daemon/1792  
+UNIX 35358          dbus-daemon/1792  
+UNIX 35419          dbus-daemon/1792  
+UNIX 35425          dbus-daemon/1792  
+UNIX 35487          dbus-daemon/1792  
+UNIX 35544          dbus-daemon/1792  
+UNIX 35775          dbus-daemon/1792  
+UNIX 35650          dbus-daemon/1792  
+UNIX 35972          dbus-daemon/1792  
+UNIX 35652          dbus-daemon/1792  
+UNIX 35687          dbus-daemon/1792  
+UNIX 35781          dbus-daemon/1792  
+UNIX 35811          dbus-daemon/1792  
+UNIX 35815          dbus-daemon/1792  
+UNIX 35846          dbus-daemon/1792  
+UNIX 35985          dbus-daemon/1792  
+UNIX 36109          dbus-daemon/1792  
+UNIX 36115          dbus-daemon/1792  
+UNIX 36217          dbus-daemon/1792  
+UNIX 36219          dbus-daemon/1792  
+UNIX 36266          dbus-daemon/1792  
+UNIX 36428          dbus-daemon/1792  
+UNIX 36638          dbus-daemon/1792  
+UNIX 36652          dbus-daemon/1792  
+UNIX 36661          dbus-daemon/1792  
+UNIX 37020          dbus-daemon/1792  
+UNIX 36873          dbus-daemon/1792  
+UNIX 36765          dbus-daemon/1792  
+UNIX 37028          dbus-daemon/1792  
+UNIX 37390          dbus-daemon/1792  
+UNIX 37050          dbus-daemon/1792  
+UNIX 37108          dbus-daemon/1792  
+UNIX 37357          dbus-daemon/1792  
+UNIX 37506          dbus-daemon/1792  
+UNIX 38524          dbus-daemon/1792  
+UNIX 38614          dbus-daemon/1792  
+UNIX 33049      imsettings-daem/1819  
+UNIX 33050      imsettings-daem/1819  
+UNIX 33058      imsettings-daem/1819  
+UNIX 33089      imsettings-daem/1819  
+UNIX 33064                gvfsd/1823  
+UNIX 33065                gvfsd/1823  
+UNIX 33073                gvfsd/1823  
+UNIX 33064           gvfsd-fuse/1828  
+UNIX 33065           gvfsd-fuse/1828  
+UNIX 33296           gvfsd-fuse/1828  
+UNIX 33386            ssh-agent/1916  /tmp/ssh-CO3JVu16BKVb/agent.1776
+UNIX 33426      at-spi-bus-laun/1934  
+UNIX 33427      at-spi-bus-laun/1934  
+UNIX 33439      at-spi-bus-laun/1934  
+UNIX 33441      at-spi-bus-laun/1934  
+UNIX 33426          dbus-daemon/1939  
+UNIX 33427          dbus-daemon/1939  
+UNIX 33469          dbus-daemon/1939  
+UNIX 33476          dbus-daemon/1939  
+UNIX 33477          dbus-daemon/1939  
+UNIX 33514          dbus-daemon/1939  
+UNIX 33776          dbus-daemon/1939  
+UNIX 34045          dbus-daemon/1939  
+UNIX 35205          dbus-daemon/1939  
+UNIX 35423          dbus-daemon/1939  
+UNIX 35485          dbus-daemon/1939  
+UNIX 35648          dbus-daemon/1939  
+UNIX 35779          dbus-daemon/1939  
+UNIX 35813          dbus-daemon/1939  
+UNIX 35929          dbus-daemon/1939  
+UNIX 36237          dbus-daemon/1939  
+UNIX 36649          dbus-daemon/1939  
+UNIX 37048          dbus-daemon/1939  
+UNIX 37091          dbus-daemon/1939  
+UNIX 38520          dbus-daemon/1939  
+UNIX 33487      at-spi2-registr/1945  
+UNIX 33488      at-spi2-registr/1945  
+UNIX 33513      at-spi2-registr/1945  
+UNIX 33515      at-spi2-registr/1945  
+UNIX 33523      at-spi2-registr/1945  
+UNIX 33748          gnome-shell/1971  
+UNIX 33749          gnome-shell/1971  
+UNIX 33759          gnome-shell/1971  
+UNIX 33762          gnome-shell/1971  
+UNIX 33764          gnome-shell/1971  
+UNIX 33771          gnome-shell/1971  
+UNIX 33775          gnome-shell/1971  
+UNIX 33942          gnome-shell/1971  
+UNIX 36397          gnome-shell/1971  
+UNIX 37194          gnome-shell/1971  
+UNIX 34089          gnome-shell/1971  
+UNIX 34426          gnome-shell/1971  
+UNIX 35105          gnome-shell/1971  
+UNIX 35548          gnome-shell/1971  
+UNIX 33945           pulseaudio/1981  /run/user/1000/pulse/native
+UNIX 34090           pulseaudio/1981  /run/user/1000/pulse/native
+UNIX 33860           pulseaudio/1981  
+UNIX 33862           pulseaudio/1981  
+UNIX 33935           pulseaudio/1981  
+UNIX 33938           pulseaudio/1981  /tmp/.esd-1000/socket
+UNIX 33940           pulseaudio/1981  /run/user/1000/pulse/native
+UNIX 35982           pulseaudio/1981  /run/user/1000/pulse/native
+UNIX 35219           pulseaudio/1981  
+UNIX 35330           pulseaudio/1981  
+UNIX 33748          ibus-daemon/1999  
+UNIX 33749          ibus-daemon/1999  
+UNIX 33988          ibus-daemon/1999  
+UNIX 33991          ibus-daemon/1999  
+UNIX 34028          ibus-daemon/1999  
+UNIX 34051          ibus-daemon/1999  
+UNIX 34055          ibus-daemon/1999  
+UNIX 35549          ibus-daemon/1999  
+UNIX 36534          ibus-daemon/1999  
+UNIX 37223          ibus-daemon/1999  
+UNIX 34007           ibus-dconf/2003  
+UNIX 34014           ibus-dconf/2003  
+UNIX 34052           ibus-dconf/2003  
+UNIX 34038             ibus-x11/2008  
+UNIX 34044             ibus-x11/2008  
+UNIX 34046             ibus-x11/2008  
+UNIX 34054             ibus-x11/2008  
+UNIX 34032          ibus-portal/2011  
+UNIX 34033          ibus-portal/2011  
+UNIX 34050          ibus-portal/2011  
+UNIX 34056          ibus-portal/2011  
+UNIX 34062      xdg-permission-/2019  
+UNIX 34063      xdg-permission-/2019  
+UNIX 34081      xdg-permission-/2019  
+UNIX 34072      gnome-shell-cal/2023  
+UNIX 34073      gnome-shell-cal/2023  
+UNIX 34098      gnome-shell-cal/2023  
+UNIX 34449      gnome-shell-cal/2023  
+UNIX 34309              geoclue/2032  
+UNIX 34309              geoclue/2032  
+UNIX 34322              geoclue/2032  
+UNIX 34350              geoclue/2032  
+UNIX 34128      evolution-sourc/2033  
+UNIX 34129      evolution-sourc/2033  
+UNIX 34357      evolution-sourc/2033  
+UNIX 34384      evolution-sourc/2033  
+UNIX 34419           goa-daemon/2048  
+UNIX 34420           goa-daemon/2048  
+UNIX 34469           goa-daemon/2048  
+UNIX 34483           goa-daemon/2048  
+UNIX 34500           goa-daemon/2048  
+UNIX 34546           goa-daemon/2048  
+UNIX 34431      mission-control/2052  
+UNIX 34432      mission-control/2052  
+UNIX 34456      mission-control/2052  
+UNIX 34461      mission-control/2052  
+UNIX 34480      mission-control/2052  
+UNIX 34463      mission-control/2052  
+UNIX 34443      gvfs-udisks2-vo/2054  
+UNIX 34444      gvfs-udisks2-vo/2054  
+UNIX 34459      gvfs-udisks2-vo/2054  
+UNIX 34467      gvfs-udisks2-vo/2054  
+UNIX 34488      gvfs-mtp-volume/2067  
+UNIX 34489      gvfs-mtp-volume/2067  
+UNIX 34557      gvfs-mtp-volume/2067  
+UNIX 34505      goa-identity-se/2073  
+UNIX 34506      goa-identity-se/2073  
+UNIX 34585      goa-identity-se/2073  
+UNIX 34814      goa-identity-se/2073  
+UNIX 34591      gvfs-goa-volume/2085  
+UNIX 34592      gvfs-goa-volume/2085  
+UNIX 34634      gvfs-goa-volume/2085  
+UNIX 34847      gvfs-gphoto2-vo/2105  
+UNIX 34848      gvfs-gphoto2-vo/2105  
+UNIX 34890      gvfs-gphoto2-vo/2105  
+UNIX 34920      gvfs-afc-volume/2115  
+UNIX 34921      gvfs-afc-volume/2115  
+UNIX 34958      gvfs-afc-volume/2115  
+UNIX 35153            gsd-power/2133  
+UNIX 35154            gsd-power/2133  
+UNIX 35160            gsd-power/2133  
+UNIX 35204            gsd-power/2133  
+UNIX 35206            gsd-power/2133  
+UNIX 35879            gsd-power/2133  
+UNIX 35193      gsd-print-notif/2136  
+UNIX 35194      gsd-print-notif/2136  
+UNIX 35199      gsd-print-notif/2136  
+UNIX 35878      gsd-print-notif/2136  
+UNIX 35919      gsd-print-notif/2136  
+UNIX 35240           gsd-rfkill/2140  
+UNIX 35241           gsd-rfkill/2140  
+UNIX 35242           gsd-rfkill/2140  
+UNIX 35911           gsd-rfkill/2140  
+UNIX 35276      gsd-screensaver/2152  
+UNIX 35277      gsd-screensaver/2152  
+UNIX 35278      gsd-screensaver/2152  
+UNIX 35309          gsd-sharing/2156  
+UNIX 35310          gsd-sharing/2156  
+UNIX 35324          gsd-sharing/2156  
+UNIX 35360          gsd-sharing/2156  
+UNIX 35350        gsd-smartcard/2159  
+UNIX 35351        gsd-smartcard/2159  
+UNIX 35352        gsd-smartcard/2159  
+UNIX 35921        gsd-smartcard/2159  
+UNIX 35381        gsd-xsettings/2164  
+UNIX 35382        gsd-xsettings/2164  
+UNIX 35389        gsd-xsettings/2164  
+UNIX 35422        gsd-xsettings/2164  
+UNIX 35424        gsd-xsettings/2164  
+UNIX 35909        gsd-xsettings/2164  
+UNIX 35411            gsd-sound/2166  
+UNIX 35412            gsd-sound/2166  
+UNIX 35418            gsd-sound/2166  
+UNIX 35907            gsd-sound/2166  
+UNIX 35445            gsd-wacom/2167  
+UNIX 35446            gsd-wacom/2167  
+UNIX 35453            gsd-wacom/2167  
+UNIX 35484            gsd-wacom/2167  
+UNIX 35486            gsd-wacom/2167  
+UNIX 35536          gsd-account/2176  
+UNIX 35537          gsd-account/2176  
+UNIX 35542          gsd-account/2176  
+UNIX 35915          gsd-account/2176  
+UNIX 35573        gsd-clipboard/2178  
+UNIX 35574        gsd-clipboard/2178  
+UNIX 35575        gsd-clipboard/2178  
+UNIX 35647        gsd-clipboard/2178  
+UNIX 35651        gsd-clipboard/2178  
+UNIX 35629      gsd-a11y-settin/2181  
+UNIX 35630      gsd-a11y-settin/2181  
+UNIX 35649      gsd-a11y-settin/2181  
+UNIX 35917      gsd-a11y-settin/2181  
+UNIX 35672         gsd-datetime/2184  
+UNIX 35673         gsd-datetime/2184  
+UNIX 35686         gsd-datetime/2184  
+UNIX 35913         gsd-datetime/2184  
+UNIX 35708            gsd-color/2190  
+UNIX 35709            gsd-color/2190  
+UNIX 35710            gsd-color/2190  
+UNIX 35778            gsd-color/2190  
+UNIX 35780            gsd-color/2190  
+UNIX 35816            gsd-color/2190  
+UNIX 36399            gsd-color/2190  
+UNIX 35641      evolution-calen/2192  
+UNIX 35642      evolution-calen/2192  
+UNIX 35774      evolution-calen/2192  
+UNIX 35900      evolution-calen/2192  
+UNIX 35763         gsd-keyboard/2194  
+UNIX 35764         gsd-keyboard/2194  
+UNIX 35765         gsd-keyboard/2194  
+UNIX 35812         gsd-keyboard/2194  
+UNIX 35814         gsd-keyboard/2194  
+UNIX 35848         gsd-keyboard/2194  
+UNIX 35803      gsd-housekeepin/2197  
+UNIX 35804      gsd-housekeepin/2197  
+UNIX 35805      gsd-housekeepin/2197  
+UNIX 35887      gsd-housekeepin/2197  
+UNIX 35905      gsd-housekeepin/2197  
+UNIX 35838            gsd-mouse/2205  
+UNIX 35839            gsd-mouse/2205  
+UNIX 35840            gsd-mouse/2205  
+UNIX 35928            gsd-mouse/2205  
+UNIX 35869       gsd-media-keys/2211  
+UNIX 35870       gsd-media-keys/2211  
+UNIX 35902       gsd-media-keys/2211  
+UNIX 35927       gsd-media-keys/2211  
+UNIX 35930       gsd-media-keys/2211  
+UNIX 35971       gsd-media-keys/2211  
+UNIX 35981       gsd-media-keys/2211  
+UNIX 35193          gsd-printer/2241  
+UNIX 35194          gsd-printer/2241  
+UNIX 35984          gsd-printer/2241  
+UNIX 36106          gsd-printer/2241  
+UNIX 35641      evolution-calen/2247  
+UNIX 35642      evolution-calen/2247  
+UNIX 36114      evolution-calen/2247  
+UNIX 36143      evolution-calen/2247  
+UNIX 36072      nautilus-deskto/2260  
+UNIX 36073      nautilus-deskto/2260  
+UNIX 36108      nautilus-deskto/2260  
+UNIX 36222      nautilus-deskto/2260  
+UNIX 36231      nautilus-deskto/2260  
+UNIX 36236      nautilus-deskto/2260  
+UNIX 37300      nautilus-deskto/2260  
+UNIX 37045      nautilus-deskto/2260  
+UNIX 37222      nautilus-deskto/2260  
+UNIX 37393      nautilus-deskto/2260  
+UNIX 33064          gvfsd-trash/2272  
+UNIX 33065          gvfsd-trash/2272  
+UNIX 36216          gvfsd-trash/2272  
+UNIX 36223          gvfsd-trash/2272  
+UNIX 37302          gvfsd-trash/2272  
+UNIX 36164        dconf-service/2287  
+UNIX 36165        dconf-service/2287  
+UNIX 36218        dconf-service/2287  
+UNIX 36180      evolution-addre/2294  
+UNIX 36181      evolution-addre/2294  
+UNIX 36265      evolution-addre/2294  
+UNIX 36429      evolution-addre/2294  
+UNIX 36331             seapplet/2303  
+UNIX 36332             seapplet/2303  
+UNIX 36339             seapplet/2303  
+UNIX 36441             seapplet/2303  
+UNIX 36427      ibus-engine-sim/2308  
+UNIX 36533      ibus-engine-sim/2308  
+UNIX 36391             vmtoolsd/2313  
+UNIX 36392             vmtoolsd/2313  
+UNIX 36640             vmtoolsd/2313  
+UNIX 36648             vmtoolsd/2313  
+UNIX 36650             vmtoolsd/2313  
+UNIX 36654             vmtoolsd/2313  
+UNIX 36526      tracker-extract/2318  
+UNIX 36527      tracker-extract/2318  
+UNIX 36651      tracker-extract/2318  
+UNIX 36700      tracker-extract/2318  
+UNIX 36564      tracker-miner-f/2322  
+UNIX 36565      tracker-miner-f/2322  
+UNIX 36637      tracker-miner-f/2322  
+UNIX 36693      tracker-miner-f/2322  
+UNIX 36180      evolution-addre/2323  
+UNIX 36181      evolution-addre/2323  
+UNIX 36764      evolution-addre/2323  
+UNIX 36766      evolution-addre/2323  
+UNIX 36626      tracker-miner-a/2325  
+UNIX 36627      tracker-miner-a/2325  
+UNIX 37356      tracker-miner-a/2325  
+UNIX 38368      tracker-miner-a/2325  
+UNIX 36723      tracker-miner-u/2336  
+UNIX 36724      tracker-miner-u/2336  
+UNIX 37505      tracker-miner-u/2336  
+UNIX 38370      tracker-miner-u/2336  
+UNIX 36734        tracker-store/2349  
+UNIX 36735        tracker-store/2349  
+UNIX 36872        tracker-store/2349  
+UNIX 36905        tracker-store/2349  
+UNIX 36895          abrt-applet/2354  
+UNIX 36896          abrt-applet/2354  
+UNIX 36913          abrt-applet/2354  
+UNIX 37023          abrt-applet/2354  
+UNIX 37047          abrt-applet/2354  
+UNIX 37049          abrt-applet/2354  
+UNIX 37105          abrt-applet/2354  
+UNIX 37107          abrt-applet/2354  
+UNIX 37110          abrt-applet/2354  
+UNIX 36940       gnome-software/2363  
+UNIX 36941       gnome-software/2363  
+UNIX 37019       gnome-software/2363  
+UNIX 37037       gnome-software/2363  
+UNIX 37090       gnome-software/2363  
+UNIX 37099       gnome-software/2363  
+UNIX 37982       gnome-software/2363  
+UNIX 37005      gsd-disk-utilit/2374  
+UNIX 37006      gsd-disk-utilit/2374  
+UNIX 37027      gsd-disk-utilit/2374  
+UNIX 37052      gsd-disk-utilit/2374  
+UNIX 33064           gvfsd-burn/2434  
+UNIX 33065           gvfsd-burn/2434  
+UNIX 37389           gvfsd-burn/2434  
+UNIX 37394           gvfsd-burn/2434  
+UNIX 38345                fwupd/2510  
+UNIX 38345                fwupd/2510  
+UNIX 38358                fwupd/2510  
+UNIX 38359                fwupd/2510  
+UNIX 38445      gnome-terminal-/2535  
+UNIX 38446      gnome-terminal-/2535  
+UNIX 38503      gnome-terminal-/2535  
+UNIX 38519      gnome-terminal-/2535  
+UNIX 38523      gnome-terminal-/2535  
+UNIX 38570      gnome-terminal-/2535  
+UNIX 38758      gnome-terminal-/2535  
+UNIX 38592                obexd/2591  
+UNIX 38593                obexd/2591  
+UNIX 38605                obexd/2591  
+UNIX 38606                obexd/2591  
+UNIX 38621                obexd/2591  
+UNIX 38759      gnome-pty-helpe/2621  
+UNIX 38759      gnome-pty-helpe/2621  
+UNIX 39822       gvfsd-metadata/2779  
+UNIX 39823       gvfsd-metadata/2779  
+UNIX 39831       gvfsd-metadata/2779  
+TCP      192.168.49.135  :12345 192.168.49.1    :44122 ESTABLISHED                  ncat/2854 
+TCP      192.168.49.135  :12345 192.168.49.1    :44122 ESTABLISHED                  bash/2876 
+TCP      192.168.49.135  :12345 192.168.49.1    :44122 ESTABLISHED                python/2886 
+TCP      192.168.49.135  :12345 192.168.49.1    :44122 ESTABLISHED                  bash/2887 
+TCP      192.168.49.135  :12345 192.168.49.1    :44122 ESTABLISHED                   vim/3196 
+UNIX 41976            abrt-dbus/3271  
+UNIX 41977            abrt-dbus/3271  
+UNIX 41990            abrt-dbus/3271  
+UNIX 27454              cleanup/3279  
+UNIX 27452              cleanup/3279  public/cleanup
+UNIX 42043              cleanup/3279  
+UNIX 27467      trivial-rewrite/3280  
+UNIX 27464      trivial-rewrite/3280  private/rewrite
+UNIX 42067      trivial-rewrite/3280  
+UNIX 27511                local/3281  
+UNIX 27509                local/3281  private/local
+UNIX 42103                local/3281  
+UDP      0.0.0.0         :55496 0.0.0.0         :    0                             local/3281 
+UNIX 23559                sleep/3299  
+UNIX 23559                sleep/3299  
+UNIX 42366                 sudo/3612  
