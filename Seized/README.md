@@ -196,3 +196,22 @@ Once again unintended solution for the win:
 ```bash
 strings dump.mem |grep "crc65"
 ```
+
+Intended solution:
+
+We will dump the malicious kernel module:
+
+```bash
+volatility -f dump.mem --profile=LinuxCentos7_3_10_1062x64 linux_moddump -r sysemptyrect -D dump
+```
+
+![](./Images/Flag9-A.png)
+
+![](./Images/Flag9-B.png)
+
+After dumping the module we will use <code>binary ninja</code> to find the key inside the module.
+
+
+```
+https://cyberdefenders.org/blueteam-ctf-challenges/progress/Neuro/92/
+```
